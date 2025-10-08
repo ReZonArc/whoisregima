@@ -1,9 +1,15 @@
 # WHOIS Record: myregima.ca
 
-**Last Updated:** 2025-10-08T15:57:38.865Z
-**Checked At:** 2025-10-08T15:57:38.865Z
+**Last Updated:** 2025-10-08T16:03:36.756Z
+**Checked At:** 2025-10-08T16:03:36.756Z
 
 ## WHOIS Information
 
-**error:** getaddrinfo EAI_AGAIN whois.cira.ca
+**Domain Status:** 
+
+**Name Server:** 
+
+**text:** %, % Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal, % Notice, available at http://www.cira.ca/legal-notice/?lang=en, %, % (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+**Not found:** myregima.ca
 

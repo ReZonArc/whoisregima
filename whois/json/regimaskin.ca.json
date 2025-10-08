@@ -1,0 +1,23 @@
+{
+  "domain": "regimaskin.ca",
+  "lastUpdated": "2025-10-08T16:06:36.808Z",
+  "whoisData": {
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      "%",
+      "% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal",
+      "% Notice, available at http://www.cira.ca/legal-notice/?lang=en",
+      "%",
+      "% (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)"
+    ],
+    "Not found": "regimaskin.ca"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-08T16:06:36.809Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "minimal"
+  }
+}
