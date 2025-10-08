@@ -327,3 +327,6 @@ export function firstResult(whoisResults: DomainWhois): DomainWhoisData {
 
 	return whoisResults[whoisServers[0]]
 }
+
+// Export RegimaManager for domain tracking and grouping
+export { RegimaManager } from './regima-manager.ts'
