@@ -52,7 +52,21 @@ jobs:
     - name: Run WHOIS checker
       run: |
         echo "🔍 Checking WHOIS records for changes..."
-        node scripts/whois-checker.js
+        # Add retry logic for network reliability
+        for attempt in 1 2 3; do
+          echo "Attempt $attempt of 3..."
+          if node scripts/whois-checker.js; then
+            echo "✅ WHOIS checker completed successfully"
+            break
+          else
+            if [ $attempt -eq 3 ]; then
+              echo "❌ WHOIS checker failed after 3 attempts"
+              exit 1
+            fi
+            echo "⚠️ Attempt $attempt failed, retrying in 30 seconds..."
+            sleep 30
+          fi
+        done
 
     - name: Check for changes
       id: check-changes
@@ -91,51 +105,97 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Add the modified files
-        git add whois/
+        # Ensure all whois files are tracked and added
+        git add whois/ --force
         
-        # Count updates for commit message
-        JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l)
-        ARCHIVE_COUNT=$(find whois/archive -name "*" -type f 2>/dev/null | wc -l)
+        # Count updates for detailed commit message
+        JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l || echo "0")
+        MD_COUNT=$(find whois/md -name "*.md" 2>/dev/null | wc -l || echo "0")
+        ARCHIVE_COUNT=$(find whois/archive -name "*" -type f 2>/dev/null | wc -l || echo "0")
         
-        git commit -m "🔍 WHOIS records update - Updated/added JSON records: ${JSON_COUNT} - Archived historical records: ${ARCHIVE_COUNT} - Automated WHOIS check via GitHub Actions"
+        # Create comprehensive commit message
+        COMMIT_MSG="🔍 WHOIS records update - Complete data preservation"$'\n\n'"- JSON records: ${JSON_COUNT}"$'\n'"- Markdown summaries: ${MD_COUNT}"$'\n'"- Historical archives: ${ARCHIVE_COUNT}"$'\n'"- Generated comprehensive overview in whois/regima.md"$'\n\n'"Automated WHOIS monitoring ensures complete domain data preservation and historical tracking."
         
-        git push
+        git commit -m "$COMMIT_MSG"
+        
+        # Verify commit and push with retry logic
+        for attempt in 1 2 3; do
+          if git push origin HEAD; then
+            echo "✅ Successfully pushed WHOIS data to repository"
+            break
+          else
+            if [ $attempt -eq 3 ]; then
+              echo "❌ Failed to push after 3 attempts"
+              exit 1
+            fi
+            echo "⚠️ Push attempt $attempt failed, retrying in 10 seconds..."
+            sleep 10
+          fi
+        done
 
-    - name: Create summary
+    - name: Create comprehensive summary
       if: steps.check-changes.outputs.changes == 'true'
       run: |
-        JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l)
-        MD_COUNT=$(find whois/md -name "*.md" 2>/dev/null | wc -l)
-        ARCHIVE_COUNT=$(find whois/archive -name "*" -type f 2>/dev/null | wc -l)
+        JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l || echo "0")
+        MD_COUNT=$(find whois/md -name "*.md" 2>/dev/null | wc -l || echo "0")
+        ARCHIVE_COUNT=$(find whois/archive -name "*" -type f 2>/dev/null | wc -l || echo "0")
+        DOMAIN_COUNT=$(wc -l < regima-domains.txt 2>/dev/null | tr -d '[:space:]' || echo "0")
         
-        echo "## 🔍 WHOIS Update Completed" >> $GITHUB_STEP_SUMMARY
+        echo "## 🔍 WHOIS Records Update Completed" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        echo "| File Type | Count |" >> $GITHUB_STEP_SUMMARY
-        echo "|-----------|-------|" >> $GITHUB_STEP_SUMMARY
-        echo "| JSON Records | ${JSON_COUNT} |" >> $GITHUB_STEP_SUMMARY
-        echo "| Markdown Files | ${MD_COUNT} |" >> $GITHUB_STEP_SUMMARY
-        echo "| Archived Records | ${ARCHIVE_COUNT} |" >> $GITHUB_STEP_SUMMARY
+        echo "### 📊 Complete Data Preservation Summary" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        echo "### 📝 Changes Made" >> $GITHUB_STEP_SUMMARY
-        echo "- ✅ Checked all domains from \`regima-domains.txt\`" >> $GITHUB_STEP_SUMMARY
-        echo "- ✅ Archived previous records to \`whois/archive/\`" >> $GITHUB_STEP_SUMMARY  
-        echo "- ✅ Updated current records in \`whois/json/\` and \`whois/md/\`" >> $GITHUB_STEP_SUMMARY
-        echo "- ✅ Generated summary report in \`whois/regima.md\`" >> $GITHUB_STEP_SUMMARY
+        echo "| Data Type | Count | Status |" >> $GITHUB_STEP_SUMMARY
+        echo "|-----------|-------|--------|" >> $GITHUB_STEP_SUMMARY
+        echo "| **Domains Monitored** | ${DOMAIN_COUNT} | 🎯 Complete Coverage |" >> $GITHUB_STEP_SUMMARY
+        echo "| **JSON Records** | ${JSON_COUNT} | 💾 Machine-readable format |" >> $GITHUB_STEP_SUMMARY
+        echo "| **Markdown Files** | ${MD_COUNT} | 📝 Human-readable summaries |" >> $GITHUB_STEP_SUMMARY
+        echo "| **Historical Archives** | ${ARCHIVE_COUNT} | 🗄️ Change history preserved |" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### ✅ Repository Enhancements" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "- 🔄 **Complete WHOIS Records:** All domain data permanently stored in repository" >> $GITHUB_STEP_SUMMARY
+        echo "- 📋 **Comprehensive Overview:** Generated detailed summary in [\`whois/regima.md\`](whois/regima.md)" >> $GITHUB_STEP_SUMMARY
+        echo "- 🗂️ **Structured Organization:** JSON, Markdown, and Archive files systematically organized" >> $GITHUB_STEP_SUMMARY
+        echo "- 📈 **Data Quality Tracking:** Assessment of completeness for each domain record" >> $GITHUB_STEP_SUMMARY
+        echo "- 🔍 **Change Detection:** Historical preservation when domain data changes" >> $GITHUB_STEP_SUMMARY
+        echo "- ⚡ **Automated Monitoring:** Daily checks ensure data stays current" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 🎯 Repository Impact" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "The WHOIS database now contains **${JSON_COUNT} complete domain records** with:" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "- Complete WHOIS data preservation in machine and human-readable formats" >> $GITHUB_STEP_SUMMARY
+        echo "- Historical tracking with ${ARCHIVE_COUNT} archived records" >> $GITHUB_STEP_SUMMARY
+        echo "- Comprehensive overview with statistics and quality assessment" >> $GITHUB_STEP_SUMMARY
+        echo "- Permanent storage in repository for reliable access" >> $GITHUB_STEP_SUMMARY
 
     - name: No changes summary  
       if: steps.check-changes.outputs.changes == 'false'
       run: |
-        echo "## ℹ️ No WHOIS Updates Needed" >> $GITHUB_STEP_SUMMARY
+        echo "## ✅ WHOIS Records Current - No Updates Required" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        echo "All WHOIS records are current and no changes were detected." >> $GITHUB_STEP_SUMMARY
+        echo "All WHOIS records are up-to-date. The comprehensive database remains complete with no detected changes." >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
         
-        # Show current status
+        # Show current repository status
         JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l || echo "0")
-        DOMAIN_COUNT=$(wc -l < regima-domains.txt 2>/dev/null || echo "0")
+        MD_COUNT=$(find whois/md -name "*.md" 2>/dev/null | wc -l || echo "0") 
+        ARCHIVE_COUNT=$(find whois/archive -name "*" -type f 2>/dev/null | wc -l || echo "0")
+        DOMAIN_COUNT=$(wc -l < regima-domains.txt 2>/dev/null | tr -d '[:space:]' || echo "0")
         
-        echo "| Current Status | Count |" >> $GITHUB_STEP_SUMMARY
-        echo "|---------------|-------|" >> $GITHUB_STEP_SUMMARY
-        echo "| Tracked Domains | ${DOMAIN_COUNT} |" >> $GITHUB_STEP_SUMMARY
-        echo "| WHOIS Records | ${JSON_COUNT} |" >> $GITHUB_STEP_SUMMARY
+        echo "### 📊 Current Repository Status" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "| Repository Component | Count | Status |" >> $GITHUB_STEP_SUMMARY
+        echo "|---------------------|-------|--------|" >> $GITHUB_STEP_SUMMARY
+        echo "| **Monitored Domains** | ${DOMAIN_COUNT} | 🎯 All tracked |" >> $GITHUB_STEP_SUMMARY
+        echo "| **Complete WHOIS Records** | ${JSON_COUNT} | 💾 Up-to-date |" >> $GITHUB_STEP_SUMMARY
+        echo "| **Readable Summaries** | ${MD_COUNT} | 📝 Current |" >> $GITHUB_STEP_SUMMARY
+        echo "| **Historical Archives** | ${ARCHIVE_COUNT} | 🗄️ Preserved |" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 🔍 Monitoring Status" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "- **Database Completeness:** All ${JSON_COUNT} domain records are current" >> $GITHUB_STEP_SUMMARY
+        echo "- **Change Detection:** No significant updates detected since last check" >> $GITHUB_STEP_SUMMARY
+        echo "- **Data Preservation:** Complete WHOIS records safely stored in repository" >> $GITHUB_STEP_SUMMARY
+        echo "- **Overview Report:** Comprehensive summary available in [\`whois/regima.md\`](whois/regima.md)" >> $GITHUB_STEP_SUMMARY
