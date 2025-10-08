@@ -97,13 +97,7 @@ jobs:
         TLD_COUNT=$(wc -l < tld-extensions.txt)
         DOMAIN_COUNT=$(wc -l < regima-domains.txt)
         
-        git commit -m "🤖 Update TLD extensions and domain combinations
-
-- Updated TLD extensions: ${TLD_COUNT} total TLDs
-- Generated domain combinations: ${DOMAIN_COUNT} total domains
-- Updated from regima patterns with latest TLD data
-
-Automated update via GitHub Actions"
+        git commit -m "🤖 Update TLD extensions and domain combinations - Updated TLD extensions: ${TLD_COUNT} total TLDs - Generated domain combinations: ${DOMAIN_COUNT} total domains - Automated update via GitHub Actions"
         
         git push
 
