@@ -71,12 +71,22 @@ jobs:
     - name: Check for changes
       id: check-changes
       run: |
-        if git diff --quiet HEAD -- whois/; then
+        # First, add all whois files to staging to detect new files
+        git add whois/ --force
+        
+        # Check if there are any changes (staged files) in the whois directory
+        if git diff --quiet --cached -- whois/ && [ -z "$(find whois/ -name '*.json' -o -name '*.md' 2>/dev/null)" ]; then
           echo "No WHOIS changes detected"
           echo "changes=false" >> $GITHUB_OUTPUT
         else
           echo "WHOIS changes detected"
           echo "changes=true" >> $GITHUB_OUTPUT
+          
+          # Show what files were detected
+          echo "Detected files:"
+          find whois/ -name '*.json' -o -name '*.md' 2>/dev/null | head -10 | while read file; do
+            echo "  - $file"
+          done
         fi
 
     - name: Show changes summary
@@ -105,8 +115,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Ensure all whois files are tracked and added
-        git add whois/ --force
+        # Files are already staged from the check-changes step
         
         # Count updates for detailed commit message
         JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l || echo "0")
@@ -115,6 +124,14 @@ jobs:
         
         # Create comprehensive commit message
         COMMIT_MSG="🔍 WHOIS records update - Complete data preservation"$'\n\n'"- JSON records: ${JSON_COUNT}"$'\n'"- Markdown summaries: ${MD_COUNT}"$'\n'"- Historical archives: ${ARCHIVE_COUNT}"$'\n'"- Generated comprehensive overview in whois/regima.md"$'\n\n'"Automated WHOIS monitoring ensures complete domain data preservation and historical tracking."
+        
+        # Verify that there are actually files to commit
+        if git diff --cached --quiet; then
+          echo "❌ Error: No files staged for commit despite changes detected"
+          echo "Current staged files:"
+          git diff --cached --name-only
+          exit 1
+        fi
         
         git commit -m "$COMMIT_MSG"
         
@@ -132,6 +149,29 @@ jobs:
             sleep 10
           fi
         done
+
+    - name: Verify files were committed
+      if: steps.check-changes.outputs.changes == 'true'
+      run: |
+        echo "🔍 Verifying WHOIS files were committed and pushed..."
+        
+        # Count committed files
+        COMMITTED_JSON=$(git ls-tree -r HEAD -- whois/json/ | grep '\.json$' | wc -l || echo "0")
+        COMMITTED_MD=$(git ls-tree -r HEAD -- whois/md/ | grep '\.md$' | wc -l || echo "0")
+        
+        echo "📊 Verification Results:"
+        echo "  Committed JSON files: ${COMMITTED_JSON}"
+        echo "  Committed MD files: ${COMMITTED_MD}"
+        
+        # Verify we have actual files
+        if [ "${COMMITTED_JSON}" -eq 0 ] && [ "${COMMITTED_MD}" -eq 0 ]; then
+          echo "❌ ERROR: No WHOIS files found in repository after commit!"
+          echo "This indicates the workflow failed to properly save files."
+          exit 1
+        else
+          echo "✅ SUCCESS: WHOIS files were properly committed to repository"
+          echo "  Total files committed: $((COMMITTED_JSON + COMMITTED_MD))"
+        fi
 
     - name: Create comprehensive summary
       if: steps.check-changes.outputs.changes == 'true'
