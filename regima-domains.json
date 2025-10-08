@@ -1,11 +1,11 @@
 {
   "domains": [
     {
-      "domain": "myregima.it",
-      "addedDate": "2025-10-08T15:52:55.379Z",
-      "lastUpdated": "2025-10-08T15:52:55.379Z",
+      "domain": "myregima.ca",
+      "addedDate": "2025-10-08T15:57:38.865Z",
+      "lastUpdated": "2025-10-08T15:57:38.865Z",
       "whoisData": {
-        "error": "getaddrinfo EAI_AGAIN whois.nic.it"
+        "error": "getaddrinfo EAI_AGAIN whois.cira.ca"
       },
       "metadata": {
         "tags": [],
@@ -14,6 +14,6 @@
       }
     }
   ],
-  "lastUpdated": "2025-10-08T15:52:55.379Z",
+  "lastUpdated": "2025-10-08T15:57:38.865Z",
   "totalDomains": 1
 }
