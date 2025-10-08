@@ -312,4 +312,11 @@ suite('whoisTld()', () => {
 		assert.equal(whois2.whois, 'whois.nic.uk', "WHOIS server doesn't match")
 		assert.equal(whois3.whois, 'whois.nic.uk', "WHOIS server doesn't match")
 	})
+
+	test('tr', async () => {
+		const whois = await whoisTld('tr')
+
+		assert.equal(whois.tld, 'TR', "TLD doesn't match")
+		assert.equal(whois.whois, 'whois.nic.tr', "WHOIS server doesn't match")
+	})
 })
