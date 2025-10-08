@@ -1,0 +1,15 @@
+regima.com
+regima.zone
+regima.eu
+regima.co.za
+regimazone.org
+regimazone.uk
+regimaskin.com
+regimaskin.co.za
+...
+others ???
+...
+*regima.* ???
+*regima.*.* ???
+*regima*.* ???
+*regima*.*.* ???
