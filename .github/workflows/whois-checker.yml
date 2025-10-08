@@ -1,0 +1,141 @@
+name: WHOIS Record Management
+
+on:
+  schedule:
+    # Run daily at 3 AM UTC to check for WHOIS changes
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'regima-domains.txt'
+      - 'scripts/whois-checker.js'
+      - '.github/workflows/whois-checker.yml'
+
+jobs:
+  whois-management:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      run: |
+        npm install
+
+    - name: Build project
+      run: |
+        npm run build
+
+    - name: Create whois directory structure
+      run: |
+        mkdir -p whois/json
+        mkdir -p whois/md  
+        mkdir -p whois/archive
+
+    - name: Make script executable
+      run: |
+        chmod +x scripts/whois-checker.js
+
+    - name: Run WHOIS checker
+      run: |
+        echo "🔍 Checking WHOIS records for changes..."
+        node scripts/whois-checker.js
+
+    - name: Check for changes
+      id: check-changes
+      run: |
+        if git diff --quiet HEAD -- whois/; then
+          echo "No WHOIS changes detected"
+          echo "changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "WHOIS changes detected"
+          echo "changes=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Show changes summary
+      if: steps.check-changes.outputs.changes == 'true'
+      run: |
+        echo "📊 WHOIS Changes Summary:"
+        echo "======================="
+        
+        # Count files in each directory
+        JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l)
+        MD_COUNT=$(find whois/md -name "*.md" 2>/dev/null | wc -l)
+        ARCHIVE_COUNT=$(find whois/archive -name "*" -type f 2>/dev/null | wc -l)
+        
+        echo "📄 JSON files: ${JSON_COUNT}"
+        echo "📝 Markdown files: ${MD_COUNT}" 
+        echo "🗄️ Archive files: ${ARCHIVE_COUNT}"
+        
+        # Show recent changes
+        echo ""
+        echo "Recent updates:"
+        git diff --name-only HEAD -- whois/ | head -10
+
+    - name: Commit and push changes
+      if: steps.check-changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add the modified files
+        git add whois/
+        
+        # Count updates for commit message
+        JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l)
+        ARCHIVE_COUNT=$(find whois/archive -name "*" -type f 2>/dev/null | wc -l)
+        
+        git commit -m "🔍 WHOIS records update - Updated/added JSON records: ${JSON_COUNT} - Archived historical records: ${ARCHIVE_COUNT} - Automated WHOIS check via GitHub Actions"
+        
+        git push
+
+    - name: Create summary
+      if: steps.check-changes.outputs.changes == 'true'
+      run: |
+        JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l)
+        MD_COUNT=$(find whois/md -name "*.md" 2>/dev/null | wc -l)
+        ARCHIVE_COUNT=$(find whois/archive -name "*" -type f 2>/dev/null | wc -l)
+        
+        echo "## 🔍 WHOIS Update Completed" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "| File Type | Count |" >> $GITHUB_STEP_SUMMARY
+        echo "|-----------|-------|" >> $GITHUB_STEP_SUMMARY
+        echo "| JSON Records | ${JSON_COUNT} |" >> $GITHUB_STEP_SUMMARY
+        echo "| Markdown Files | ${MD_COUNT} |" >> $GITHUB_STEP_SUMMARY
+        echo "| Archived Records | ${ARCHIVE_COUNT} |" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📝 Changes Made" >> $GITHUB_STEP_SUMMARY
+        echo "- ✅ Checked all domains from \`regima-domains.txt\`" >> $GITHUB_STEP_SUMMARY
+        echo "- ✅ Archived previous records to \`whois/archive/\`" >> $GITHUB_STEP_SUMMARY  
+        echo "- ✅ Updated current records in \`whois/json/\` and \`whois/md/\`" >> $GITHUB_STEP_SUMMARY
+        echo "- ✅ Generated summary report in \`whois/regima.md\`" >> $GITHUB_STEP_SUMMARY
+
+    - name: No changes summary  
+      if: steps.check-changes.outputs.changes == 'false'
+      run: |
+        echo "## ℹ️ No WHOIS Updates Needed" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "All WHOIS records are current and no changes were detected." >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        # Show current status
+        JSON_COUNT=$(find whois/json -name "*.json" 2>/dev/null | wc -l || echo "0")
+        DOMAIN_COUNT=$(wc -l < regima-domains.txt 2>/dev/null || echo "0")
+        
+        echo "| Current Status | Count |" >> $GITHUB_STEP_SUMMARY
+        echo "|---------------|-------|" >> $GITHUB_STEP_SUMMARY
+        echo "| Tracked Domains | ${DOMAIN_COUNT} |" >> $GITHUB_STEP_SUMMARY
+        echo "| WHOIS Records | ${JSON_COUNT} |" >> $GITHUB_STEP_SUMMARY
