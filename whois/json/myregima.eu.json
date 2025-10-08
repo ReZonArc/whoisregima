@@ -1,0 +1,14 @@
+{
+  "domain": "myregima.eu",
+  "lastUpdated": "2025-10-08T15:52:47.351Z",
+  "whoisData": {
+    "error": "getaddrinfo EAI_AGAIN whois.eu"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-08T15:52:47.354Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
