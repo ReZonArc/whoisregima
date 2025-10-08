@@ -4,7 +4,7 @@
       "target": "esnext",
       "isolatedModules": true,
       "outDir": "dist",
-      "lib": ["ES2022"],
+      "lib": ["ES2022", "DOM"],
       "moduleDetection": "force",
       "verbatimModuleSyntax": true,
       "skipLibCheck": true,
