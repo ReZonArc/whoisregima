@@ -1,0 +1,19 @@
+{
+  "domains": [
+    {
+      "domain": "regima.com",
+      "addedDate": "2025-10-08T14:39:29.455Z",
+      "lastUpdated": "2025-10-08T14:39:29.455Z",
+      "whoisData": {
+        "error": "getaddrinfo EAI_AGAIN whois.verisign-grs.com"
+      },
+      "metadata": {
+        "tags": [],
+        "notes": "",
+        "priority": "medium"
+      }
+    }
+  ],
+  "lastUpdated": "2025-10-08T14:39:29.455Z",
+  "totalDomains": 1
+}

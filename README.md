@@ -268,6 +268,25 @@ The workflow runs:
 
 The automation ensures domain lists stay current with new TLD releases and pattern updates.
 
+### WHOIS Record Management
+
+Automated WHOIS monitoring with change detection and historical archiving:
+
+#### GitHub Actions Integration
+The WHOIS checker runs:
+- **Daily**: Every day at 3 AM UTC
+- **On push**: When domain lists or WHOIS scripts change  
+- **Manual**: Via workflow dispatch
+
+The system automatically:
+- Monitors all domains in `regima-domains.txt`
+- Detects changes in WHOIS data
+- Archives old records with timestamps
+- Updates current records in JSON and Markdown formats
+- Generates comprehensive summary reports
+
+See [WHOIS Action Guide](docs/WHOIS_ACTION_GUIDE.md) for detailed documentation.
+
 ## Roadmap
 Aiming to have these features:
 - [x] helper function to query WHOIS servers -> `whoiser.query()`
