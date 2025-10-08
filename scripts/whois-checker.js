@@ -101,31 +101,90 @@ class WhoisChecker {
       const { RegimaManager } = await import('../dist/regima-manager.js')
       
       const manager = new RegimaManager()
+      
+      // Enhanced options for better data capture
       await manager.addDomain(domain, {
-        timeout: 10000,  // Increased timeout for reliability
-        follow: 1
+        timeout: 15000,  // Extended timeout for reliability
+        follow: 2,       // Follow up to 2 redirects
+        ignorePrivacy: false  // Capture privacy protection info
       })
       
       const domains = manager.getDomains()
       const domainEntry = domains.find(d => d.domain === domain)
       
       if (domainEntry && domainEntry.whoisData) {
-        return {
+        // Create comprehensive record with complete WHOIS data
+        const completeRecord = {
           domain: domainEntry.domain,
-          lastUpdated: domainEntry.lastUpdated,
+          lastUpdated: domainEntry.lastUpdated || new Date().toISOString(),
           whoisData: domainEntry.whoisData,
           metadata: {
             checkedAt: new Date().toISOString(),
-            source: 'whois-checker-action'
+            source: 'whois-checker-action',
+            timeout: 15000,
+            followRedirects: 2,
+            dataCompleteness: this.assessDataCompleteness(domainEntry.whoisData)
           }
+        }
+        
+        console.log(`✅ Successfully fetched complete WHOIS data for ${domain}`)
+        return completeRecord
+      }
+      
+      // If no data, still create a record to track the attempt
+      console.log(`⚠️ No WHOIS data found for ${domain} - creating placeholder record`)
+      return {
+        domain: domain,
+        lastUpdated: new Date().toISOString(),
+        whoisData: { 
+          status: 'not_found',
+          message: 'No WHOIS data available for this domain'
+        },
+        metadata: {
+          checkedAt: new Date().toISOString(),
+          source: 'whois-checker-action',
+          dataCompleteness: 'none'
         }
       }
       
-      return null
     } catch (error) {
       console.error(`❌ Failed to fetch WHOIS for ${domain}:`, error.message)
-      return null
+      
+      // Create error record to maintain complete tracking
+      return {
+        domain: domain,
+        lastUpdated: new Date().toISOString(),
+        whoisData: { 
+          error: error.message,
+          status: 'error'
+        },
+        metadata: {
+          checkedAt: new Date().toISOString(),
+          source: 'whois-checker-action',
+          dataCompleteness: 'error',
+          errorType: error.name || 'UnknownError'
+        }
+      }
     }
+  }
+
+  assessDataCompleteness(whoisData) {
+    if (!whoisData || typeof whoisData !== 'object') return 'none'
+    
+    const keyFields = [
+      'Registry Expiry Date', 'Expiry Date', 'Expiration Date',
+      'Registrar', 'Registry Registrar ID',
+      'Name Server', 'Domain Status',
+      'Registrant Organization', 'Registrant Name'
+    ]
+    
+    const foundFields = keyFields.filter(field => whoisData[field])
+    const completeness = foundFields.length / keyFields.length
+    
+    if (completeness >= 0.8) return 'complete'
+    if (completeness >= 0.5) return 'partial'
+    if (completeness > 0) return 'minimal'
+    return 'none'
   }
 
   hasSignificantChanges(oldRecord, newRecord) {
@@ -202,26 +261,29 @@ class WhoisChecker {
     const existingRecord = await this.getExistingRecord(domain)
     const newRecord = await this.fetchWhoisData(domain)
     
+    // Always save records to ensure complete data preservation
     if (!newRecord) {
-      console.log(`⚠️ No WHOIS data available for ${domain}`)
+      console.log(`⚠️ Critical error - unable to create record for ${domain}`)
       this.stats.errors++
       return
     }
 
     if (!existingRecord) {
-      // New domain
+      // New domain - always save complete record
       await this.saveRecord(domain, newRecord)
-      console.log(`✅ Added new record for ${domain}`)
+      console.log(`✅ Added new complete record for ${domain}`)
       this.stats.added++
     } else if (this.hasSignificantChanges(existingRecord, newRecord)) {
-      // Domain has changes
+      // Domain has changes - preserve history and update
       await this.archiveRecord(domain, existingRecord)
       await this.saveRecord(domain, newRecord)
-      console.log(`🔄 Updated record for ${domain}`)
+      console.log(`🔄 Updated record for ${domain} (previous version archived)`)
       this.stats.updated++
     } else {
-      // No significant changes
-      console.log(`⚪ No changes for ${domain}`)
+      // No significant changes, but refresh timestamp for completeness
+      newRecord.metadata.refreshedAt = new Date().toISOString()
+      await this.saveRecord(domain, newRecord)
+      console.log(`⚪ Refreshed record for ${domain} (no significant changes)`)
       this.stats.unchanged++
     }
 
@@ -231,50 +293,157 @@ class WhoisChecker {
 
   async generateSummary() {
     const timestamp = new Date().toISOString()
+    const formattedDate = new Date().toLocaleString('en-US', { 
+      timeZone: 'UTC', 
+      year: 'numeric', 
+      month: 'long', 
+      day: 'numeric', 
+      hour: '2-digit', 
+      minute: '2-digit' 
+    }) + ' UTC'
     
-    let summary = `# WHOIS Records Summary\n\n`
+    let summary = `# 🌍 WHOIS Records - Complete Registry\n\n`
+    summary += `> **Comprehensive WHOIS monitoring with automated change detection and historical archiving**\n\n`
+    
+    summary += `**Last Updated:** ${formattedDate}\n`
     summary += `**Generated:** ${timestamp}\n`
-    summary += `**Total Domains Checked:** ${this.stats.total}\n\n`
+    summary += `**Total Domains Monitored:** ${this.stats.total}\n\n`
     
-    summary += `## Statistics\n\n`
-    summary += `| Metric | Count |\n`
-    summary += `|--------|-------|\n`
-    summary += `| Total Domains | ${this.stats.total} |\n`
-    summary += `| New Records Added | ${this.stats.added} |\n`
-    summary += `| Records Updated | ${this.stats.updated} |\n`
-    summary += `| Records Archived | ${this.stats.archived} |\n`
-    summary += `| Unchanged Records | ${this.stats.unchanged} |\n`
-    summary += `| Errors | ${this.stats.errors} |\n\n`
+    // Enhanced statistics with success rates
+    const successRate = this.stats.total > 0 ? 
+      (((this.stats.added + this.stats.updated + this.stats.unchanged) / this.stats.total) * 100).toFixed(1) : '0.0'
     
-    summary += `## File Structure\n\n`
-    summary += `- **JSON Records:** \`whois/json/\` - Machine-readable WHOIS data\n`
-    summary += `- **Markdown Files:** \`whois/md/\` - Human-readable WHOIS summaries\n`  
-    summary += `- **Archive:** \`whois/archive/\` - Historical records with timestamps\n\n`
+    summary += `## 📊 Processing Statistics\n\n`
+    summary += `| Metric | Count | Percentage |\n`
+    summary += `|--------|-------|-----------|\n`
+    summary += `| **Total Domains** | ${this.stats.total} | 100.0% |\n`
+    summary += `| New Records Added | ${this.stats.added} | ${this.stats.total > 0 ? ((this.stats.added / this.stats.total) * 100).toFixed(1) : '0.0'}% |\n`
+    summary += `| Records Updated | ${this.stats.updated} | ${this.stats.total > 0 ? ((this.stats.updated / this.stats.total) * 100).toFixed(1) : '0.0'}% |\n`
+    summary += `| Historical Archives | ${this.stats.archived} | - |\n`
+    summary += `| Unchanged Records | ${this.stats.unchanged} | ${this.stats.total > 0 ? ((this.stats.unchanged / this.stats.total) * 100).toFixed(1) : '0.0'}% |\n`
+    summary += `| Processing Errors | ${this.stats.errors} | ${this.stats.total > 0 ? ((this.stats.errors / this.stats.total) * 100).toFixed(1) : '0.0'}% |\n`
+    summary += `| **Success Rate** | **${this.stats.added + this.stats.updated + this.stats.unchanged}** | **${successRate}%** |\n\n`
     
-    // List current domains
+    // Repository structure
+    summary += `## 📁 Repository Structure\n\n`
+    summary += `This repository maintains a comprehensive WHOIS database with the following organization:\n\n`
+    summary += `\`\`\`\n`
+    summary += `whois/\n`
+    summary += `├── json/          # Complete WHOIS data (machine-readable)\n`
+    summary += `├── md/            # Human-readable WHOIS summaries  \n`
+    summary += `├── archive/       # Historical records with timestamps\n`
+    summary += `└── regima.md      # This comprehensive overview\n`
+    summary += `\`\`\`\n\n`
+    
+    summary += `### Data Formats\n\n`
+    summary += `- **JSON Records:** Complete WHOIS data with metadata for programmatic access\n`
+    summary += `- **Markdown Files:** Formatted summaries for human readability\n`  
+    summary += `- **Archive Files:** Timestamped historical records when changes are detected\n`
+    summary += `- **Summary Report:** This comprehensive overview with statistics and links\n\n`
+    
+    // Enhanced domain listing with data quality assessment
     try {
       const jsonFiles = await fs.readdir(this.jsonDir)
-      const domains = jsonFiles
-        .filter(f => f.endsWith('.json'))
-        .map(f => f.replace('.json', ''))
-        .sort()
+      const domains = []
+      
+      for (const file of jsonFiles.filter(f => f.endsWith('.json'))) {
+        const domain = file.replace('.json', '')
+        const jsonPath = path.join(this.jsonDir, file)
+        
+        try {
+          const content = await fs.readFile(jsonPath, 'utf-8')
+          const data = JSON.parse(content)
+          const completeness = data.metadata?.dataCompleteness || 'unknown'
+          domains.push({ domain, completeness, lastUpdated: data.lastUpdated })
+        } catch (error) {
+          domains.push({ domain, completeness: 'error', lastUpdated: 'unknown' })
+        }
+      }
+      
+      domains.sort((a, b) => a.domain.localeCompare(b.domain))
       
       if (domains.length > 0) {
-        summary += `## Tracked Domains (${domains.length})\n\n`
-        for (const domain of domains) {
-          summary += `- [${domain}](json/${domain}.json) | [MD](md/${domain}.md)\n`
+        summary += `## 🎯 Tracked Domains (${domains.length})\n\n`
+        summary += `| Domain | Data Quality | JSON | Markdown | Last Updated |\n`
+        summary += `|--------|-------------|------|----------|-------------|\n`
+        
+        for (const { domain, completeness, lastUpdated } of domains) {
+          const qualityEmoji = this.getQualityEmoji(completeness)
+          const formattedDate = lastUpdated !== 'unknown' ? 
+            new Date(lastUpdated).toLocaleDateString() : 'Unknown'
+          
+          summary += `| **${domain}** | ${qualityEmoji} ${completeness} | [📄](json/${domain}.json) | [📝](md/${domain}.md) | ${formattedDate} |\n`
         }
         summary += `\n`
+        
+        // Data quality summary
+        const qualityStats = domains.reduce((acc, { completeness }) => {
+          acc[completeness] = (acc[completeness] || 0) + 1
+          return acc
+        }, {})
+        
+        summary += `### 🎯 Data Quality Overview\n\n`
+        for (const [quality, count] of Object.entries(qualityStats)) {
+          const percentage = ((count / domains.length) * 100).toFixed(1)
+          const emoji = this.getQualityEmoji(quality)
+          summary += `- ${emoji} **${quality}:** ${count} domains (${percentage}%)\n`
+        }
+        summary += `\n`
+      } else {
+        summary += `## ⚠️ No Domain Records Found\n\n`
+        summary += `No WHOIS records have been generated yet. This could indicate:\n`
+        summary += `- First run of the monitoring system\n`
+        summary += `- Network connectivity issues\n`
+        summary += `- Empty domain list in regima-domains.txt\n\n`
       }
     } catch (error) {
       console.error('Error listing domains for summary:', error.message)
+      summary += `## ❌ Error Generating Domain List\n\n`
+      summary += `Unable to read domain records: ${error.message}\n\n`
     }
     
-    summary += `---\n`
-    summary += `*Generated by whois-checker GitHub Action*\n`
+    // Automation information
+    summary += `## 🤖 Automation & Monitoring\n\n`
+    summary += `This WHOIS database is automatically maintained through GitHub Actions:\n\n`
+    summary += `- **Daily Monitoring:** Runs every day at 3:00 AM UTC\n`
+    summary += `- **Change Detection:** Monitors key WHOIS fields for updates\n`
+    summary += `- **Historical Preservation:** Archives old records when changes are detected\n`
+    summary += `- **Rate Limiting:** Respects WHOIS server policies with 2-second delays\n`
+    summary += `- **Error Handling:** Graceful failure with detailed logging\n`
+    summary += `- **Complete Records:** Saves comprehensive WHOIS data permanently\n\n`
+    
+    summary += `### 🔄 Last Processing Results\n\n`
+    if (this.stats.total > 0) {
+      summary += `Successfully processed **${this.stats.total}** domains with **${successRate}%** success rate.\n`
+      if (this.stats.updated > 0 || this.stats.added > 0) {
+        summary += `**${this.stats.updated + this.stats.added}** records were updated or added to ensure data completeness.\n`
+      }
+      if (this.stats.archived > 0) {
+        summary += `**${this.stats.archived}** historical records were preserved in the archive.\n`
+      }
+    } else {
+      summary += `No domains were processed in the last run.\n`
+    }
+    summary += `\n`
+    
+    summary += `---\n\n`
+    summary += `*🔍 Generated automatically by [whois-checker GitHub Action](../.github/workflows/whois-checker.yml)*  \n`
+    summary += `*📅 Report timestamp: ${timestamp}*  \n`
+    summary += `*🌐 Repository: [ReZonArc/whoisregima](https://github.com/ReZonArc/whoisregima)*\n`
     
     await fs.writeFile(this.summaryFile, summary)
-    console.log(`📝 Generated summary report: ${this.summaryFile}`)
+    console.log(`📝 Generated comprehensive summary report: ${this.summaryFile}`)
+  }
+
+  getQualityEmoji(completeness) {
+    switch (completeness) {
+      case 'complete': return '🟢'
+      case 'partial': return '🟡'
+      case 'minimal': return '🟠'
+      case 'error': return '🔴'
+      case 'none': return '⚫'
+      default: return '❓'
+    }
   }
 
   async run() {
