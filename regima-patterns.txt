@@ -1,5 +1,9 @@
 regima.*
+regima.*.*
 regima*.*
+regima*.*.*
 *regima.*
+*regima.*.*
 *regima*.*
+*regima*.*.*
 
