@@ -51,3 +51,42 @@ export interface DomainWhoisOptions {
 	ignorePrivacy?: boolean
 	whoisQuery?: (host: string, query: string, timeout?: number) => Promise<string>
 }
+
+/**
+ * Regima domain entry with WHOIS data and metadata
+ */
+export interface RegimaDomainEntry {
+	domain: string
+	addedDate: string
+	lastUpdated: string
+	whoisData: DomainWhoisData
+	metadata?: {
+		tags?: string[]
+		notes?: string
+		priority?: 'low' | 'medium' | 'high'
+	}
+}
+
+/**
+ * Grouped regima domains by specific metrics
+ */
+export interface RegimaGroupedDomains {
+	[groupKey: string]: RegimaDomainEntry[]
+}
+
+/**
+ * Regima domain grouping options
+ */
+export interface RegimaGroupingOptions {
+	groupBy: 'registrar' | 'tld' | 'createdYear' | 'createdMonth' | 'expiryYear' | 'expiryMonth' | 'nameservers' | 'status'
+	includeEmpty?: boolean
+}
+
+/**
+ * Regima domain list with grouping and filtering capabilities
+ */
+export interface RegimaDomainList {
+	domains: RegimaDomainEntry[]
+	lastUpdated: string
+	totalDomains: number
+}

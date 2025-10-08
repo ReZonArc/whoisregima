@@ -52,6 +52,7 @@ const ipWhois = whoiser('1.1.1.1')
 - [`whoiser.ip(ip, options)`](#ip-whois) - Get WHOIS data for a IP
 - `whoiser.allTlds` - Returns a list of all TLDs, [downloaded from IANA](https://www.iana.org/domains/root/db)
 - `whoiser.query(options)` - Query a WHOIS server for data
+- [`RegimaManager`](#regima-domain-tracking) - Iteratively maintain and group domain lists with persistence
 
 ### Domain whois
 Get WHOIS info for domains.
@@ -183,6 +184,50 @@ Returns a promise which resolves with an `Object` of WHOIS info:
 	Updated: '2012-02-24',
 	Ref: 'https://rdap.arin.net/registry/autnum/15169',
 }
+```
+
+### Regima Domain Tracking
+
+Manage and analyze domain portfolios with persistent storage and flexible grouping.
+
+`RegimaManager` - A comprehensive domain tracking system that allows you to:
+- Maintain persistent lists of domains with WHOIS data
+- Group domains by registrar, TLD, creation date, nameservers, and more
+- Add metadata like tags, priority levels, and notes
+- Generate statistics and reports about your domain portfolio
+
+```js
+import { RegimaManager } from 'whoiser';
+
+(async () => {
+
+	// Create a manager instance with persistent storage
+	const manager = new RegimaManager('my-domains.json')
+	await manager.loadDomains()
+
+	// Add domains to track with metadata
+	await manager.addDomain('example.com', {
+		tags: ['corporate', 'main'],
+		priority: 'high',
+		notes: 'Primary corporate domain'
+	})
+
+	// Group domains by various metrics
+	const byRegistrar = manager.groupDomains({ groupBy: 'registrar' })
+	const byTLD = manager.groupDomains({ groupBy: 'tld' })
+	const byYear = manager.groupDomains({ groupBy: 'createdYear' })
+
+	// Get portfolio statistics
+	const stats = manager.getStats()
+	console.log(`Tracking ${stats.totalDomains} domains across ${Object.keys(stats.byRegistrar).length} registrars`)
+
+	// Update all domains' WHOIS data
+	await manager.updateAllDomains()
+
+})();
+```
+
+See [REGIMA_GUIDE.md](REGIMA_GUIDE.md) for comprehensive documentation and examples.
 ```
 
 ## Roadmap
