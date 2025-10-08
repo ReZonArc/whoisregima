@@ -1,11 +1,11 @@
 {
   "domain": "myregima.ca",
-  "lastUpdated": "2025-10-08T15:52:35.306Z",
+  "lastUpdated": "2025-10-08T15:57:38.865Z",
   "whoisData": {
     "error": "getaddrinfo EAI_AGAIN whois.cira.ca"
   },
   "metadata": {
-    "checkedAt": "2025-10-08T15:52:35.307Z",
+    "checkedAt": "2025-10-08T15:57:38.865Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
