@@ -1,0 +1,14 @@
+{
+  "domain": "myregima.de",
+  "lastUpdated": "2025-10-08T15:49:10.823Z",
+  "whoisData": {
+    "error": "getaddrinfo EAI_AGAIN whois.iana.org",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-08T15:49:10.823Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}
