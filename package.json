@@ -27,7 +27,10 @@
 		"dev": "node --enable-source-maps --watch src/whoiser.ts",
 		"prettier": "prettier \"src/*.js\"",
 		"prettier:write": "npm run prettier -- --write",
-		"test": "node --test src/*.test.ts"
+		"test": "node --test src/*.test.ts",
+		"update-tlds": "node scripts/update-tlds.js",
+		"generate-domains": "node scripts/generate-domains.js",
+		"update-all": "npm run update-tlds && npm run generate-domains"
 	},
 	"dependencies": {
 		"punycode-esm": "^1.0.15"

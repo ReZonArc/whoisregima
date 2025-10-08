@@ -1,0 +1,140 @@
+name: Update TLD Extensions and Domain Combinations
+
+on:
+  schedule:
+    # Run weekly on Sundays at 2 AM UTC
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+    # Allow manual triggering
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'regima-patterns.txt'
+      - 'scripts/update-tlds.js'
+      - 'scripts/generate-domains.js'
+
+jobs:
+  update-domains:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Make scripts executable
+      run: |
+        chmod +x scripts/update-tlds.js
+        chmod +x scripts/generate-domains.js
+
+    - name: Update TLD Extensions
+      run: |
+        echo "🌐 Updating TLD extensions from IANA..."
+        node scripts/update-tlds.js
+
+    - name: Generate Domain Combinations
+      run: |
+        echo "🔗 Generating domain combinations from patterns..."
+        node scripts/generate-domains.js
+
+    - name: Check for changes
+      id: check-changes
+      run: |
+        if git diff --quiet HEAD -- tld-extensions.txt regima-domains.txt; then
+          echo "No changes detected"
+          echo "changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "Changes detected"
+          echo "changes=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Show changes summary
+      if: steps.check-changes.outputs.changes == 'true'
+      run: |
+        echo "📊 Changes Summary:"
+        echo "=================="
+        
+        echo "📝 TLD Extensions:"
+        if git diff --quiet HEAD -- tld-extensions.txt; then
+          echo "  No changes to TLD extensions"
+        else
+          echo "  TLD extensions updated:"
+          wc -l tld-extensions.txt | awk '{print "  Total TLDs: " $1}'
+        fi
+        
+        echo ""
+        echo "🔗 Domain Combinations:"
+        if git diff --quiet HEAD -- regima-domains.txt; then
+          echo "  No changes to domain combinations"
+        else
+          echo "  Domain combinations updated:"
+          wc -l regima-domains.txt | awk '{print "  Total domains: " $1}'
+          
+          # Show some new domains if they exist
+          echo "  Sample domains:"
+          head -10 regima-domains.txt | tail -5
+        fi
+
+    - name: Commit and push changes
+      if: steps.check-changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add the modified files
+        git add tld-extensions.txt regima-domains.txt
+        
+        # Create commit message with stats
+        TLD_COUNT=$(wc -l < tld-extensions.txt)
+        DOMAIN_COUNT=$(wc -l < regima-domains.txt)
+        
+        git commit -m "🤖 Update TLD extensions and domain combinations - Updated TLD extensions: ${TLD_COUNT} total TLDs - Generated domain combinations: ${DOMAIN_COUNT} total domains - Automated update via GitHub Actions"
+        
+        git push
+
+    - name: Create summary
+      if: steps.check-changes.outputs.changes == 'true'
+      run: |
+        TLD_COUNT=$(wc -l < tld-extensions.txt)
+        DOMAIN_COUNT=$(wc -l < regima-domains.txt)
+        
+        echo "## 🎉 Domain Update Completed" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "| Metric | Count |" >> $GITHUB_STEP_SUMMARY
+        echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+        echo "| TLD Extensions | ${TLD_COUNT} |" >> $GITHUB_STEP_SUMMARY
+        echo "| Domain Combinations | ${DOMAIN_COUNT} |" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📝 Changes Made" >> $GITHUB_STEP_SUMMARY
+        echo "- ✅ Updated \`tld-extensions.txt\` with latest IANA TLD list" >> $GITHUB_STEP_SUMMARY
+        echo "- ✅ Generated domain combinations from \`regima-patterns.txt\`" >> $GITHUB_STEP_SUMMARY  
+        echo "- ✅ Updated \`regima-domains.txt\` with new combinations" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 🔍 Sample Generated Domains" >> $GITHUB_STEP_SUMMARY
+        echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+        head -10 regima-domains.txt | sed 's/^[0-9]*\.//' >> $GITHUB_STEP_SUMMARY
+        echo "..." >> $GITHUB_STEP_SUMMARY
+        echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+
+    - name: No changes summary
+      if: steps.check-changes.outputs.changes == 'false'
+      run: |
+        echo "## ℹ️ No Updates Needed" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "The TLD extensions and domain combinations are already up to date." >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        TLD_COUNT=$(wc -l < tld-extensions.txt)
+        DOMAIN_COUNT=$(wc -l < regima-domains.txt)
+        echo "| Current Status | Count |" >> $GITHUB_STEP_SUMMARY
+        echo "|---------------|-------|" >> $GITHUB_STEP_SUMMARY
+        echo "| TLD Extensions | ${TLD_COUNT} |" >> $GITHUB_STEP_SUMMARY
+        echo "| Domain Combinations | ${DOMAIN_COUNT} |" >> $GITHUB_STEP_SUMMARY

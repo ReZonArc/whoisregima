@@ -228,7 +228,45 @@ import { RegimaManager } from 'whoiser';
 ```
 
 See [REGIMA_GUIDE.md](REGIMA_GUIDE.md) for comprehensive documentation and examples.
+
+### Automated Domain Generation
+
+This repository includes automated systems to maintain up-to-date domain lists and TLD extensions:
+
+#### TLD Extensions Auto-Update
+- **File**: `tld-extensions.txt`
+- **Source**: IANA's official TLD list (`data.iana.org`)
+- **Frequency**: Weekly via GitHub Actions
+- **Fallback**: Comprehensive fallback list when IANA is unavailable
+
+#### Domain Combination Generation
+- **Input**: Patterns from `regima-patterns.txt` + TLD extensions
+- **Output**: Generated domains in `regima-domains.txt`
+- **Patterns Supported**:
+  - `regima.*` → `regima.com`, `regima.org`, etc.
+  - `regima*.*` → `regimazone.com`, `regimaskin.org`, etc.
+  - `*regima.*` → `wwwregima.com`, `myregima.org`, etc.
+  - Complex multi-level patterns for country TLDs
+
+#### Manual Commands
+```bash
+# Update TLD extensions from IANA
+npm run update-tlds
+
+# Generate domain combinations from patterns
+npm run generate-domains
+
+# Do both operations
+npm run update-all
 ```
+
+#### GitHub Actions Automation
+The workflow runs:
+- **Weekly**: Every Sunday at 2 AM UTC
+- **On push**: When pattern files or scripts change
+- **Manual**: Via workflow dispatch
+
+The automation ensures domain lists stay current with new TLD releases and pattern updates.
 
 ## Roadmap
 Aiming to have these features:
