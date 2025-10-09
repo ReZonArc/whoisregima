@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.it
 
-**Last Updated:** 2025-10-08T16:07:56.011Z
-**Checked At:** 2025-10-08T16:07:56.011Z
+**Last Updated:** 2025-10-09T03:25:01.777Z
+**Checked At:** 2025-10-09T03:25:01.777Z
 
 ## WHOIS Information
 
