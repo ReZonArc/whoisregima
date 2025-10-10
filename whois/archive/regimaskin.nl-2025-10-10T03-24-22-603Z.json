@@ -1,0 +1,14 @@
+{
+  "domain": "regimaskin.nl",
+  "lastUpdated": "2025-10-09T03:24:16.580Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-09T03:24:16.581Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}

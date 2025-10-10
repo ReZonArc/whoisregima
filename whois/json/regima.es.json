@@ -1,14 +1,15 @@
 {
   "domain": "regima.es",
-  "lastUpdated": "2025-10-09T03:21:59.590Z",
+  "lastUpdated": "2025-10-10T03:22:09.219Z",
   "whoisData": {
     "error": "connect ECONNREFUSED 54.72.161.36:43"
   },
   "metadata": {
-    "checkedAt": "2025-10-09T03:21:59.590Z",
+    "checkedAt": "2025-10-10T03:22:09.219Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "none"
+    "dataCompleteness": "none",
+    "refreshedAt": "2025-10-10T03:22:09.220Z"
   }
 }

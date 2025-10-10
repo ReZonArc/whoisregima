@@ -1,14 +1,18 @@
 {
   "domain": "regimaskin.nl",
-  "lastUpdated": "2025-10-09T03:24:16.580Z",
+  "lastUpdated": "2025-10-10T03:24:22.603Z",
   "whoisData": {
-    "error": "read ECONNRESET"
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      "regimaskin.nl is free"
+    ]
   },
   "metadata": {
-    "checkedAt": "2025-10-09T03:24:16.581Z",
+    "checkedAt": "2025-10-10T03:24:22.603Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "none"
+    "dataCompleteness": "minimal"
   }
 }

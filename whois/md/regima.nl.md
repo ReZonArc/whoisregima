@@ -1,9 +1,25 @@
 # WHOIS Record: regima.nl
 
-**Last Updated:** 2025-10-09T03:22:27.575Z
-**Checked At:** 2025-10-09T03:22:27.575Z
+**Last Updated:** 2025-10-10T03:22:36.317Z
+**Checked At:** 2025-10-10T03:22:36.317Z
 
 ## WHOIS Information
 
-**error:** read ECONNRESET
+**Domain Status:** active
+
+**Name Server:** ns1.dovendi.nl, ns3.dovendi.eu, ns2.dovendi.eu
+
+**text:** 
+
+**Domain Name:** regima.nl
+
+**Registrar:** XNS Registrar B.V. H.J.E. Wenckebachweg 123 1096AM Amsterdam Netherlands SIDN BV
+
+**Abuse Contact:** domains@xnsregistrar.com
+
+**DNSSEC:** yes
+
+**Created Date:** 2019-11-10
+
+**Updated Date:** 2023-04-24
 

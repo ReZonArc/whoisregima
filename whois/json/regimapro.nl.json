@@ -1,14 +1,18 @@
 {
   "domain": "regimapro.nl",
-  "lastUpdated": "2025-10-09T03:23:23.616Z",
+  "lastUpdated": "2025-10-10T03:23:30.954Z",
   "whoisData": {
-    "error": "read ECONNRESET"
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      "regimapro.nl is free"
+    ]
   },
   "metadata": {
-    "checkedAt": "2025-10-09T03:23:23.616Z",
+    "checkedAt": "2025-10-10T03:23:30.954Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "none"
+    "dataCompleteness": "minimal"
   }
 }

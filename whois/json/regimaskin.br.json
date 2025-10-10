@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.br",
-  "lastUpdated": "2025-10-09T03:23:40.511Z",
+  "lastUpdated": "2025-10-10T03:23:47.307Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "% Privacy Policy at https://registro.br/upp . Distribution,",
       "% commercialization, reproduction, and use for advertising or similar",
       "% purposes are expressly prohibited.",
-      "% 2025-10-09T00:23:40-03:00 - 104.209.7.226",
+      "% 2025-10-10T00:23:47-03:00 - 20.55.87.146",
       "",
       "% No match for regimaskin.br",
       "",
@@ -21,11 +21,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2025-10-09T03:23:40.511Z",
+    "checkedAt": "2025-10-10T03:23:47.308Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-10-09T03:23:40.511Z"
+    "refreshedAt": "2025-10-10T03:23:47.308Z"
   }
 }
