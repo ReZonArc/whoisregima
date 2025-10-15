@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.fr",
-  "lastUpdated": "2025-10-14T03:26:04.982Z",
+  "lastUpdated": "2025-10-15T03:28:22.758Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -16,14 +16,14 @@
       "%%",
       "%% NOT FOUND"
     ],
-    ">>> Last update of WHOIS database": "2025-10-14T03:26:04.922433Z <<<"
+    ">>> Last update of WHOIS database": "2025-10-15T03:28:22.716252Z <<<"
   },
   "metadata": {
-    "checkedAt": "2025-10-14T03:26:04.983Z",
+    "checkedAt": "2025-10-15T03:28:22.758Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-10-14T03:26:04.983Z"
+    "refreshedAt": "2025-10-15T03:28:22.758Z"
   }
 }
