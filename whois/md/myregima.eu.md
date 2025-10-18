@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.eu
 
-**Last Updated:** 2025-10-17T03:22:07.679Z
-**Checked At:** 2025-10-17T03:22:07.680Z
+**Last Updated:** 2025-10-18T03:16:50.291Z
+**Checked At:** 2025-10-18T03:16:50.291Z
 
 ## WHOIS Information
 

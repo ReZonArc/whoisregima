@@ -1,15 +1,15 @@
 {
   "domain": "regimazone.co.za",
-  "lastUpdated": "2025-10-17T03:25:50.479Z",
+  "lastUpdated": "2025-10-18T03:20:45.682Z",
   "whoisData": {
     "error": "TLD for \"regimazone.co.za\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2025-10-17T03:25:50.479Z",
+    "checkedAt": "2025-10-18T03:20:45.682Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2025-10-17T03:25:50.479Z"
+    "refreshedAt": "2025-10-18T03:20:45.682Z"
   }
 }
