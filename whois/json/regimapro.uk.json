@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.uk",
-  "lastUpdated": "2025-10-18T03:19:19.234Z",
+  "lastUpdated": "2025-10-19T03:32:21.919Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "",
       "This domain name has not been registered.",
       "",
-      "WHOIS lookup made at 04:19:19 18-Oct-2025",
+      "WHOIS lookup made at 04:32:21 19-Oct-2025",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -27,11 +27,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2025-10-18T03:19:19.235Z",
+    "checkedAt": "2025-10-19T03:32:21.919Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-10-18T03:19:19.235Z"
+    "refreshedAt": "2025-10-19T03:32:21.919Z"
   }
 }

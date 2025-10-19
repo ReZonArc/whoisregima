@@ -1,6 +1,6 @@
 {
   "domain": "myregima.nl",
-  "lastUpdated": "2025-10-18T03:17:07.153Z",
+  "lastUpdated": "2025-10-19T03:30:06.870Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,11 +9,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2025-10-18T03:17:07.153Z",
+    "checkedAt": "2025-10-19T03:30:06.871Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-10-18T03:17:07.153Z"
+    "refreshedAt": "2025-10-19T03:30:06.871Z"
   }
 }
