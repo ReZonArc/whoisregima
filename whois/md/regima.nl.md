@@ -1,7 +1,7 @@
 # WHOIS Record: regima.nl
 
-**Last Updated:** 2025-10-22T03:29:23.546Z
-**Checked At:** 2025-10-22T03:29:23.546Z
+**Last Updated:** 2025-10-23T03:25:08.413Z
+**Checked At:** 2025-10-23T03:25:08.414Z
 
 ## WHOIS Information
 
@@ -13,13 +13,13 @@
 
 **Domain Name:** regima.nl
 
-**Registrar:** XNS Registrar B.V. H.J.E. Wenckebachweg 123 1096AM Amsterdam Netherlands SIDN BV
+**Registrar:** Commercive B.V. Oosterhoogte 3 6861VH Oosterbeek Netherlands SIDN BV
 
-**Abuse Contact:** domains@xnsregistrar.com
+**Abuse Contact:** +31.263397906 abuse@commercive.nl
 
-**DNSSEC:** yes
+**DNSSEC:** no
 
 **Created Date:** 2019-11-10
 
-**Updated Date:** 2023-04-24
+**Updated Date:** 2025-10-22
 
