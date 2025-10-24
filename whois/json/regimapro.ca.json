@@ -1,24 +1,24 @@
 {
   "domain": "regimapro.ca",
-  "lastUpdated": "2025-10-23T03:25:36.909Z",
+  "lastUpdated": "2025-10-24T03:23:22.359Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
     "text": [
       "%",
       "% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal",
-      "% Notice, available at http://www.cira.ca/legal-notice/?lang=en",
+      "% Notice, available at https://www.cira.ca/en/resources/documents/about/website-terms-use",
       "%",
       "% (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)"
     ],
     "Not found": "regimapro.ca"
   },
   "metadata": {
-    "checkedAt": "2025-10-23T03:25:36.910Z",
+    "checkedAt": "2025-10-24T03:23:22.359Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-10-23T03:25:36.910Z"
+    "refreshedAt": "2025-10-24T03:23:22.359Z"
   }
 }

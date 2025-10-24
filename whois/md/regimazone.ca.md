@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.ca
 
-**Last Updated:** 2025-10-23T03:27:32.878Z
-**Checked At:** 2025-10-23T03:27:32.878Z
+**Last Updated:** 2025-10-24T03:25:15.849Z
+**Checked At:** 2025-10-24T03:25:15.849Z
 
 ## WHOIS Information
 
@@ -9,7 +9,7 @@
 
 **Name Server:** 
 
-**text:** %, % Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal, % Notice, available at http://www.cira.ca/legal-notice/?lang=en, %, % (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)
+**text:** %, % Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal, % Notice, available at https://www.cira.ca/en/resources/documents/about/website-terms-use, %, % (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)
 
 **Not found:** regimazone.ca
 
