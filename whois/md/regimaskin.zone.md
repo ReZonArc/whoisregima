@@ -1,11 +1,11 @@
 # WHOIS Record: regimaskin.zone
 
-**Last Updated:** 2025-10-24T03:25:06.608Z
-**Checked At:** 2025-10-24T03:25:06.608Z
+**Last Updated:** 2025-10-25T03:27:48.466Z
+**Checked At:** 2025-10-25T03:27:48.466Z
 
 ## WHOIS Information
 
-**error:** TLD for "regimaskin.zone" not supported
+**error:** Timeout
 
 **status:** error
 

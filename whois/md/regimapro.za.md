@@ -1,11 +1,11 @@
 # WHOIS Record: regimapro.za
 
-**Last Updated:** 2025-10-24T03:23:57.912Z
-**Checked At:** 2025-10-24T03:23:57.912Z
+**Last Updated:** 2025-10-25T03:26:23.442Z
+**Checked At:** 2025-10-25T03:26:23.442Z
 
 ## WHOIS Information
 
-**error:** TLD for "regimapro.za" not supported
+**error:** Timeout
 
 **status:** error
 

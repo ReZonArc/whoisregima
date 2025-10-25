@@ -1,11 +1,11 @@
 # WHOIS Record: regimaskin.za
 
-**Last Updated:** 2025-10-24T03:25:04.327Z
-**Checked At:** 2025-10-24T03:25:04.327Z
+**Last Updated:** 2025-10-25T03:27:45.463Z
+**Checked At:** 2025-10-25T03:27:45.463Z
 
 ## WHOIS Information
 
-**error:** TLD for "regimaskin.za" not supported
+**error:** Timeout
 
 **status:** error
 

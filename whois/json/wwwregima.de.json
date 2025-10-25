@@ -1,22 +1,14 @@
 {
   "domain": "wwwregima.de",
-  "lastUpdated": "2025-10-24T03:26:17.211Z",
+  "lastUpdated": "2025-10-25T03:29:27.927Z",
   "whoisData": {
-    "Domain Status": [
-      "free"
-    ],
-    "Name Server": [],
-    "text": [
-      ""
-    ],
-    "Domain Name": "wwwregima.de"
+    "error": "Timeout",
+    "status": "error"
   },
   "metadata": {
-    "checkedAt": "2025-10-24T03:26:17.211Z",
+    "checkedAt": "2025-10-25T03:29:27.927Z",
     "source": "whois-checker-action",
-    "timeout": 15000,
-    "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2025-10-24T03:26:17.211Z"
+    "dataCompleteness": "error",
+    "errorType": "Error"
   }
 }

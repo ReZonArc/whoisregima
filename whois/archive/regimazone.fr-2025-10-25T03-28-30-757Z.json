@@ -1,0 +1,29 @@
+{
+  "domain": "regimazone.fr",
+  "lastUpdated": "2025-10-24T03:25:35.510Z",
+  "whoisData": {
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      "%%",
+      "%% This is the AFNIC Whois server.",
+      "%%",
+      "%% complete date format: YYYY-MM-DDThh:mm:ssZ",
+      "%%",
+      "%% Rights restricted by copyright.",
+      "%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/",
+      "%%",
+      "%%",
+      "%% NOT FOUND"
+    ],
+    ">>> Last update of WHOIS database": "2025-10-24T03:25:35.459498Z <<<"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-24T03:25:35.511Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "minimal",
+    "refreshedAt": "2025-10-24T03:25:35.511Z"
+  }
+}

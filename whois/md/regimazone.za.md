@@ -1,11 +1,11 @@
 # WHOIS Record: regimazone.za
 
-**Last Updated:** 2025-10-24T03:25:55.317Z
-**Checked At:** 2025-10-24T03:25:55.317Z
+**Last Updated:** 2025-10-25T03:28:53.916Z
+**Checked At:** 2025-10-25T03:28:53.916Z
 
 ## WHOIS Information
 
-**error:** TLD for "regimazone.za" not supported
+**error:** Timeout
 
 **status:** error
 

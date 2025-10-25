@@ -1,29 +1,14 @@
 {
   "domain": "regimapro.fr",
-  "lastUpdated": "2025-10-24T03:23:37.447Z",
+  "lastUpdated": "2025-10-25T03:25:58.014Z",
   "whoisData": {
-    "Domain Status": [],
-    "Name Server": [],
-    "text": [
-      "%%",
-      "%% This is the AFNIC Whois server.",
-      "%%",
-      "%% complete date format: YYYY-MM-DDThh:mm:ssZ",
-      "%%",
-      "%% Rights restricted by copyright.",
-      "%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/",
-      "%%",
-      "%%",
-      "%% NOT FOUND"
-    ],
-    ">>> Last update of WHOIS database": "2025-10-24T03:23:37.398803Z <<<"
+    "error": "Timeout",
+    "status": "error"
   },
   "metadata": {
-    "checkedAt": "2025-10-24T03:23:37.447Z",
+    "checkedAt": "2025-10-25T03:25:58.014Z",
     "source": "whois-checker-action",
-    "timeout": 15000,
-    "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2025-10-24T03:23:37.447Z"
+    "dataCompleteness": "error",
+    "errorType": "Error"
   }
 }
