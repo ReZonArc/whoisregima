@@ -1,0 +1,14 @@
+{
+  "domain": "regima.de",
+  "lastUpdated": "2025-10-25T03:24:13.272Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-25T03:24:13.272Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

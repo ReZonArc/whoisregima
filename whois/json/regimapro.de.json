@@ -1,14 +1,21 @@
 {
   "domain": "regimapro.de",
-  "lastUpdated": "2025-10-25T03:25:47.594Z",
+  "lastUpdated": "2025-10-26T03:28:13.058Z",
   "whoisData": {
-    "error": "Timeout",
-    "status": "error"
+    "Domain Status": [
+      "free"
+    ],
+    "Name Server": [],
+    "text": [
+      ""
+    ],
+    "Domain Name": "regimapro.de"
   },
   "metadata": {
-    "checkedAt": "2025-10-25T03:25:47.594Z",
+    "checkedAt": "2025-10-26T03:28:13.058Z",
     "source": "whois-checker-action",
-    "dataCompleteness": "error",
-    "errorType": "Error"
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "minimal"
   }
 }

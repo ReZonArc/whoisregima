@@ -1,0 +1,14 @@
+{
+  "domain": "myregima.nl",
+  "lastUpdated": "2025-10-25T03:23:13.310Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-25T03:23:13.310Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

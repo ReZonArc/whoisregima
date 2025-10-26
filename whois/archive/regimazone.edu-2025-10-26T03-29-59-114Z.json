@@ -1,0 +1,14 @@
+{
+  "domain": "regimazone.edu",
+  "lastUpdated": "2025-10-25T03:28:23.125Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-25T03:28:23.125Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

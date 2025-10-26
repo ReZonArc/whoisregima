@@ -1,11 +1,13 @@
 # WHOIS Record: wwwregima.nl
 
-**Last Updated:** 2025-10-25T03:30:01.119Z
-**Checked At:** 2025-10-25T03:30:01.119Z
+**Last Updated:** 2025-10-26T03:31:10.563Z
+**Checked At:** 2025-10-26T03:31:10.563Z
 
 ## WHOIS Information
 
-**error:** Timeout
+**Domain Status:** 
 
-**status:** error
+**Name Server:** 
+
+**text:** wwwregima.nl is free
 

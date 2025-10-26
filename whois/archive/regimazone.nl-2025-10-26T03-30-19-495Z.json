@@ -1,0 +1,14 @@
+{
+  "domain": "regimazone.nl",
+  "lastUpdated": "2025-10-25T03:28:45.967Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-25T03:28:45.967Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

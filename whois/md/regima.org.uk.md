@@ -1,11 +1,27 @@
 # WHOIS Record: regima.org.uk
 
-**Last Updated:** 2025-10-25T03:25:06.865Z
-**Checked At:** 2025-10-25T03:25:06.865Z
+**Last Updated:** 2025-10-26T03:27:48.740Z
+**Checked At:** 2025-10-26T03:27:48.740Z
 
 ## WHOIS Information
 
-**error:** Timeout
+**Domain Status:** Registered until expiry date.
 
-**status:** error
+**Name Server:** pdns07.domaincontrol.com, pdns08.domaincontrol.com
+
+**text:** WHOIS lookup made at 03:27:48 26-Oct-2025, , --, This WHOIS information is provided for free by Nominet UK the central registry, for .uk domain names. This information and the .uk WHOIS are:, , Copyright Nominet UK 1996 - 2025., , You may not access the .uk WHOIS or use any data from it except as permitted, by the terms of use available in full at https://www.nominet.uk/whoisterms,, which includes restrictions on: (A) use of the data for advertising, or its, repackaging, recompilation, redistribution or reuse (B) obscuring, removing, or hiding any or all of this notice and (C) exceeding query rate or volume, limits. The data is provided on an 'as-is' basis and may lag behind the, register. Access may be withdrawn or restricted at any time.
+
+**Domain Name:** regima.org.uk
+
+**Data validation:** Nominet was able to match the registrant's name and address against a 3rd party data source on 18-Feb-2025
+
+**Registrar:** GoDaddy.com, LLC. [Tag = GODADDY]
+
+**Registrar URL:** http://uk.godaddy.com
+
+**Created Date:** 27-Jan-2022
+
+**Expiry Date:** 27-Jan-2026
+
+**Updated Date:** 28-Jan-2025
 

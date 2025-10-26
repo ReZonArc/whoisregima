@@ -1,0 +1,14 @@
+{
+  "domain": "regimaskin.fr",
+  "lastUpdated": "2025-10-25T03:27:18.326Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-25T03:27:18.326Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

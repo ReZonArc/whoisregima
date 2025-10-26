@@ -1,0 +1,14 @@
+{
+  "domain": "wwwregima.br",
+  "lastUpdated": "2025-10-25T03:29:09.545Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-25T03:29:09.545Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

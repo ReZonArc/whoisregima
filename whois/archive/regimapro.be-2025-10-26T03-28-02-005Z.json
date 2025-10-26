@@ -1,0 +1,14 @@
+{
+  "domain": "regimapro.be",
+  "lastUpdated": "2025-10-25T03:25:31.448Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2025-10-25T03:25:31.448Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

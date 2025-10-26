@@ -1,11 +1,13 @@
 # WHOIS Record: regimaskin.nl
 
-**Last Updated:** 2025-10-25T03:27:37.273Z
-**Checked At:** 2025-10-25T03:27:37.273Z
+**Last Updated:** 2025-10-26T03:29:27.366Z
+**Checked At:** 2025-10-26T03:29:27.367Z
 
 ## WHOIS Information
 
-**error:** Timeout
+**Domain Status:** 
 
-**status:** error
+**Name Server:** 
+
+**text:** regimaskin.nl is free
 

@@ -1,14 +1,30 @@
 {
   "domain": "regima.gov",
-  "lastUpdated": "2025-10-25T03:24:26.797Z",
+  "lastUpdated": "2025-10-26T03:27:17.718Z",
   "whoisData": {
-    "error": "Timeout",
-    "status": "error"
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      "Domain not found.",
+      "",
+      "WHOIS information is provided by the registry solely for query-based,",
+      "informational purposes. Any information provided is \"as is\" without any",
+      "guarantee of accuracy. You may not use such information to (a) allow,",
+      "enable, or otherwise support the transmission of mass unsolicited,",
+      "commercial advertising or solicitations; (b) enable high volume, automated,",
+      "electronic processes that access the registry's systems or any",
+      "ICANN-Accredited Registrar, except as reasonably necessary to register",
+      "domain names or modify existing registrations; or (c) engage in or support",
+      "unlawful behavior. We reserve the right to restrict or deny your access to",
+      "the WHOIS database, and may modify these terms at any time."
+    ],
+    ">>> Last update of WHOIS database": "2025-10-26T03:27:17Z <<<"
   },
   "metadata": {
-    "checkedAt": "2025-10-25T03:24:26.797Z",
+    "checkedAt": "2025-10-26T03:27:17.718Z",
     "source": "whois-checker-action",
-    "dataCompleteness": "error",
-    "errorType": "Error"
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "minimal"
   }
 }
