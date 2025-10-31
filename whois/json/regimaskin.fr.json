@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.fr",
-  "lastUpdated": "2025-10-30T03:31:11.049Z",
+  "lastUpdated": "2025-10-31T03:31:27.053Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -16,14 +16,14 @@
       "%%",
       "%% NOT FOUND"
     ],
-    ">>> Last update of WHOIS database": "2025-10-30T03:31:10.973577Z <<<"
+    ">>> Last update of WHOIS database": "2025-10-31T03:31:26.512339Z <<<"
   },
   "metadata": {
-    "checkedAt": "2025-10-30T03:31:11.049Z",
+    "checkedAt": "2025-10-31T03:31:27.053Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-10-30T03:31:11.049Z"
+    "refreshedAt": "2025-10-31T03:31:27.053Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.es",
-  "lastUpdated": "2025-10-30T03:31:06.309Z",
+  "lastUpdated": "2025-10-31T03:31:21.862Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -40,11 +40,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2025-10-30T03:31:06.309Z",
+    "checkedAt": "2025-10-31T03:31:21.863Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-10-30T03:31:06.309Z"
+    "refreshedAt": "2025-10-31T03:31:21.863Z"
   }
 }
