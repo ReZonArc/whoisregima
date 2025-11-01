@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.zone
 
-**Last Updated:** 2025-10-31T03:28:30.102Z
-**Checked At:** 2025-10-31T03:28:30.102Z
+**Last Updated:** 2025-11-01T03:28:25.000Z
+**Checked At:** 2025-11-01T03:28:25.000Z
 
 ## WHOIS Information
 
