@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.jp
 
-**Last Updated:** 2025-11-01T03:32:08.968Z
-**Checked At:** 2025-11-01T03:32:08.968Z
+**Last Updated:** 2025-11-02T03:33:59.513Z
+**Checked At:** 2025-11-02T03:33:59.513Z
 
 ## WHOIS Information
 
