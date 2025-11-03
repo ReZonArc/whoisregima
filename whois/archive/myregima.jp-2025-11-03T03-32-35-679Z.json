@@ -1,0 +1,14 @@
+{
+  "domain": "myregima.jp",
+  "lastUpdated": "2025-11-02T03:29:47.753Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2025-11-02T03:29:47.753Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}
