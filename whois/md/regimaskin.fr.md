@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.fr
 
-**Last Updated:** 2025-11-03T03:35:49.678Z
-**Checked At:** 2025-11-03T03:35:49.678Z
+**Last Updated:** 2025-11-04T03:30:12.418Z
+**Checked At:** 2025-11-04T03:30:12.419Z
 
 ## WHOIS Information
 
@@ -11,5 +11,5 @@
 
 **text:** %%, %% This is the AFNIC Whois server., %%, %% complete date format: YYYY-MM-DDThh:mm:ssZ, %%, %% Rights restricted by copyright., %% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/, %%, %%, %% NOT FOUND
 
-**>>> Last update of WHOIS database:** 2025-11-03T03:35:49.613858Z <<<
+**>>> Last update of WHOIS database:** 2025-11-04T03:30:12.374618Z <<<
 
