@@ -1,15 +1,15 @@
 {
   "domain": "regimapro.za",
-  "lastUpdated": "2025-11-05T03:30:32.081Z",
+  "lastUpdated": "2025-11-06T03:32:41.375Z",
   "whoisData": {
     "error": "TLD for \"regimapro.za\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2025-11-05T03:30:32.081Z",
+    "checkedAt": "2025-11-06T03:32:41.375Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2025-11-05T03:30:32.081Z"
+    "refreshedAt": "2025-11-06T03:32:41.375Z"
   }
 }
