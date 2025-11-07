@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.de
 
-**Last Updated:** 2025-11-06T03:35:01.523Z
-**Checked At:** 2025-11-06T03:35:01.523Z
+**Last Updated:** 2025-11-07T03:33:24.875Z
+**Checked At:** 2025-11-07T03:33:24.875Z
 
 ## WHOIS Information
 
