@@ -1,0 +1,14 @@
+{
+  "domain": "regimazone.gov",
+  "lastUpdated": "2025-11-07T03:32:44.414Z",
+  "whoisData": {
+    "error": "Timeout"
+  },
+  "metadata": {
+    "checkedAt": "2025-11-07T03:32:44.414Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
