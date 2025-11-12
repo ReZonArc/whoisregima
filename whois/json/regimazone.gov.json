@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.gov",
-  "lastUpdated": "2025-11-11T03:33:43.427Z",
+  "lastUpdated": "2025-11-12T03:32:43.367Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -18,14 +18,14 @@
       "unlawful behavior. We reserve the right to restrict or deny your access to",
       "the WHOIS database, and may modify these terms at any time."
     ],
-    ">>> Last update of WHOIS database": "2025-11-11T03:33:43Z <<<"
+    ">>> Last update of WHOIS database": "2025-11-12T03:32:43Z <<<"
   },
   "metadata": {
-    "checkedAt": "2025-11-11T03:33:43.427Z",
+    "checkedAt": "2025-11-12T03:32:43.367Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-11-11T03:33:43.427Z"
+    "refreshedAt": "2025-11-12T03:32:43.367Z"
   }
 }
