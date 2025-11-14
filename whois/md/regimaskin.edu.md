@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.edu
 
-**Last Updated:** 2025-11-13T03:33:12.600Z
-**Checked At:** 2025-11-13T03:33:12.601Z
+**Last Updated:** 2025-11-14T03:32:27.652Z
+**Checked At:** 2025-11-14T03:32:27.653Z
 
 ## WHOIS Information
 
@@ -15,5 +15,5 @@
 
 **URL of the ICANN WHOIS Data Problem Reporting System:** http://wdprs.internic.net/
 
-**>>> Last update of WHOIS database:** 2025-11-13T03:33:12+00:00 <<<
+**>>> Last update of WHOIS database:** 2025-11-14T03:32:27+00:00 <<<
 
