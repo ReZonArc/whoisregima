@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.gov
 
-**Last Updated:** 2025-11-22T03:24:17.280Z
-**Checked At:** 2025-11-22T03:24:17.281Z
+**Last Updated:** 2025-11-23T03:36:55.257Z
+**Checked At:** 2025-11-23T03:36:55.258Z
 
 ## WHOIS Information
 
@@ -11,5 +11,5 @@
 
 **text:** Domain not found., , WHOIS information is provided by the registry solely for query-based,, informational purposes. Any information provided is "as is" without any, guarantee of accuracy. You may not use such information to (a) allow,, enable, or otherwise support the transmission of mass unsolicited,, commercial advertising or solicitations; (b) enable high volume, automated,, electronic processes that access the registry's systems or any, ICANN-Accredited Registrar, except as reasonably necessary to register, domain names or modify existing registrations; or (c) engage in or support, unlawful behavior. We reserve the right to restrict or deny your access to, the WHOIS database, and may modify these terms at any time.
 
-**>>> Last update of WHOIS database:** 2025-11-22T03:24:17Z <<<
+**>>> Last update of WHOIS database:** 2025-11-23T03:36:55Z <<<
 

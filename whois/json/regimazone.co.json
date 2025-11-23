@@ -1,15 +1,15 @@
 {
   "domain": "regimazone.co",
-  "lastUpdated": "2025-11-22T03:27:59.788Z",
+  "lastUpdated": "2025-11-23T03:40:38.844Z",
   "whoisData": {
     "error": "getaddrinfo ENOTFOUND whois.nic.co"
   },
   "metadata": {
-    "checkedAt": "2025-11-22T03:27:59.788Z",
+    "checkedAt": "2025-11-23T03:40:38.845Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2025-11-22T03:27:59.788Z"
+    "refreshedAt": "2025-11-23T03:40:38.845Z"
   }
 }
