@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.es
 
-**Last Updated:** 2025-11-24T03:41:25.722Z
-**Checked At:** 2025-11-24T03:41:25.722Z
+**Last Updated:** 2025-11-25T03:35:27.665Z
+**Checked At:** 2025-11-25T03:35:27.665Z
 
 ## WHOIS Information
 

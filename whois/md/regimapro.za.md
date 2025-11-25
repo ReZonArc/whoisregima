@@ -1,7 +1,7 @@
 # WHOIS Record: regimapro.za
 
-**Last Updated:** 2025-11-24T03:38:57.892Z
-**Checked At:** 2025-11-24T03:38:57.892Z
+**Last Updated:** 2025-11-25T03:33:05.678Z
+**Checked At:** 2025-11-25T03:33:05.678Z
 
 ## WHOIS Information
 
