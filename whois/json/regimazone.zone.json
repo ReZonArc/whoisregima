@@ -1,15 +1,15 @@
 {
   "domain": "regimazone.zone",
-  "lastUpdated": "2025-11-26T03:35:18.908Z",
+  "lastUpdated": "2025-11-27T03:33:08.219Z",
   "whoisData": {
     "error": "TLD for \"regimazone.zone\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2025-11-26T03:35:18.908Z",
+    "checkedAt": "2025-11-27T03:33:08.219Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2025-11-26T03:35:18.908Z"
+    "refreshedAt": "2025-11-27T03:33:08.219Z"
   }
 }

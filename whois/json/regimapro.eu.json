@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.eu",
-  "lastUpdated": "2025-11-26T03:33:09.001Z",
+  "lastUpdated": "2025-11-27T03:31:00.384Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -55,11 +55,11 @@
     "Script": "LATIN"
   },
   "metadata": {
-    "checkedAt": "2025-11-26T03:33:09.001Z",
+    "checkedAt": "2025-11-27T03:31:00.385Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-11-26T03:33:09.001Z"
+    "refreshedAt": "2025-11-27T03:31:00.385Z"
   }
 }
