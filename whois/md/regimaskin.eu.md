@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.eu
 
-**Last Updated:** 2025-11-27T03:31:53.047Z
-**Checked At:** 2025-11-27T03:31:53.047Z
+**Last Updated:** 2025-11-28T03:31:34.635Z
+**Checked At:** 2025-11-28T03:31:34.635Z
 
 ## WHOIS Information
 
