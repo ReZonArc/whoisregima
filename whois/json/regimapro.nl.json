@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.nl",
-  "lastUpdated": "2025-11-29T03:30:44.826Z",
+  "lastUpdated": "2025-11-30T03:39:27.469Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,11 +9,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2025-11-29T03:30:44.826Z",
+    "checkedAt": "2025-11-30T03:39:27.469Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-11-29T03:30:44.826Z"
+    "refreshedAt": "2025-11-30T03:39:27.470Z"
   }
 }
