@@ -1,11 +1,14 @@
 {
-  "domain": "regimaskin.eu",
-  "lastUpdated": "2025-12-01T03:44:40.209Z",
+  "domain": "regimazone.eu",
+  "lastUpdated": "2025-11-30T03:40:56.035Z",
   "whoisData": {
-    "Domain Status": [
-      "AVAILABLE"
+    "Domain Status": [],
+    "Name Server": [
+      "ns-cloud-a2.googledomains.com",
+      "ns-cloud-a1.googledomains.com",
+      "ns-cloud-a4.googledomains.com",
+      "ns-cloud-a3.googledomains.com"
     ],
-    "Name Server": [],
     "text": [
       "% The WHOIS service offered by EURid and the access to the records",
       "% in the EURid WHOIS database are provided for information purposes",
@@ -49,17 +52,22 @@
       "% Registrant and on-site contact information can be obtained through use of the",
       "% web-based WHOIS service available from the EURid website www.eurid.eu",
       "%",
-      "% WHOIS regimaskin.eu"
+      "% WHOIS regimazone.eu",
+      "",
+      "Please visit www.eurid.eu for more info."
     ],
-    "Domain Name": "regimaskin.eu",
-    "Script": "LATIN"
+    "Domain Name": "regimazone.eu",
+    "Script": "LATIN",
+    "Registrant Name": "NOT DISCLOSED! Visit www.eurid.eu for the web-based WHOIS.",
+    "On-site(s)": "NOT DISCLOSED! Visit www.eurid.eu for the web-based WHOIS.",
+    "Registrar": "Tucows.com Co.",
+    "Registrar URL": "http://www.tucows.com"
   },
   "metadata": {
-    "checkedAt": "2025-12-01T03:44:40.209Z",
+    "checkedAt": "2025-11-30T03:40:56.035Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2025-12-01T03:44:40.210Z"
+    "dataCompleteness": "minimal"
   }
 }
