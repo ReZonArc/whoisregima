@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.au",
-  "lastUpdated": "2025-12-01T03:45:07.409Z",
+  "lastUpdated": "2025-12-02T03:36:52.388Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -26,14 +26,14 @@
       "The WHOIS Service is provided for information purposes only. By using the WHOIS Service, you agree to be bound by these terms and conditions. The WHOIS Service is operated in",
       "accordance with the auDA WHOIS Policy (available at https://www.auda.org.au/policy/2014-07-whois-policy)."
     ],
-    ">>> Last update of WHOIS database": "2025-12-01T03:45:07Z <<<"
+    ">>> Last update of WHOIS database": "2025-12-02T03:36:52Z <<<"
   },
   "metadata": {
-    "checkedAt": "2025-12-01T03:45:07.410Z",
+    "checkedAt": "2025-12-02T03:36:52.388Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-12-01T03:45:07.410Z"
+    "refreshedAt": "2025-12-02T03:36:52.389Z"
   }
 }
