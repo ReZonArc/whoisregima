@@ -1,6 +1,6 @@
 {
   "domain": "myregimazone.net",
-  "lastUpdated": "2025-12-02T03:33:47.750Z",
+  "lastUpdated": "2025-12-03T03:33:07.510Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -41,14 +41,14 @@
       "The Registry database contains ONLY .COM, .NET, .EDU domains and",
       "Registrars."
     ],
-    ">>> Last update of whois database": "2025-12-02T03:33:38Z <<<"
+    ">>> Last update of whois database": "2025-12-03T03:32:53Z <<<"
   },
   "metadata": {
-    "checkedAt": "2025-12-02T03:33:47.751Z",
+    "checkedAt": "2025-12-03T03:33:07.510Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-12-02T03:33:47.751Z"
+    "refreshedAt": "2025-12-03T03:33:07.510Z"
   }
 }

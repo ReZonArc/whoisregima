@@ -1,6 +1,6 @@
 {
   "domain": "wwwregima.eu",
-  "lastUpdated": "2025-12-02T03:38:07.428Z",
+  "lastUpdated": "2025-12-03T03:37:23.925Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -55,11 +55,11 @@
     "Script": "LATIN"
   },
   "metadata": {
-    "checkedAt": "2025-12-02T03:38:07.429Z",
+    "checkedAt": "2025-12-03T03:37:23.926Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-12-02T03:38:07.429Z"
+    "refreshedAt": "2025-12-03T03:37:23.926Z"
   }
 }

@@ -1,13 +1,13 @@
 # WHOIS Record: regima.nl
 
-**Last Updated:** 2025-12-02T03:34:54.000Z
-**Checked At:** 2025-12-02T03:34:54.001Z
+**Last Updated:** 2025-12-03T03:34:06.951Z
+**Checked At:** 2025-12-03T03:34:06.951Z
 
 ## WHOIS Information
 
 **Domain Status:** active
 
-**Name Server:** ns1.dovendi.nl, ns3.dovendi.eu, ns2.dovendi.eu
+**Name Server:** pns2.directdomain.nl, pns1.directdomain.nl
 
 **text:** 
 
@@ -21,5 +21,5 @@
 
 **Created Date:** 2019-11-10
 
-**Updated Date:** 2025-10-22
+**Updated Date:** 2025-12-02
 
