@@ -1,15 +1,15 @@
 {
   "domain": "regimapro.zone",
-  "lastUpdated": "2025-12-06T03:30:00.070Z",
+  "lastUpdated": "2025-12-07T03:39:54.103Z",
   "whoisData": {
     "error": "TLD for \"regimapro.zone\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2025-12-06T03:30:00.070Z",
+    "checkedAt": "2025-12-07T03:39:54.103Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2025-12-06T03:30:00.070Z"
+    "refreshedAt": "2025-12-07T03:39:54.103Z"
   }
 }
