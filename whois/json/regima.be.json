@@ -1,16 +1,11 @@
 {
   "domain": "regima.be",
-  "lastUpdated": "2025-12-10T03:36:57.225Z",
+  "lastUpdated": "2025-12-11T03:37:05.973Z",
   "whoisData": {
     "Domain Status": [
-      "NOT AVAILABLE"
+      "AVAILABLE"
     ],
-    "Name Server": [
-      "ns-cloud-d3.googledomains.com",
-      "ns-cloud-d1.googledomains.com",
-      "ns-cloud-d4.googledomains.com",
-      "ns-cloud-d2.googledomains.com"
-    ],
+    "Name Server": [],
     "text": [
       "% .be Whois Server 6.1",
       "%",
@@ -46,24 +41,15 @@
       "% By submitting the query you agree to abide by this policy and accept that",
       "% DNS Belgium can take measures to limit the use of its whois services in order to",
       "% protect the privacy of its registrants or the integrity of the database.",
-      "%",
-      "",
-      "Please visit www.dnsbelgium.be for more info."
+      "%"
     ],
-    "Domain Name": "regima.be",
-    "Created Date": "Fri Oct 6 2023",
-    "Registrant Name": "Not shown, please visit www.dnsbelgium.be for webbased whois.",
-    "Registrar Technical Contacts": "",
-    "Registrar": "Tucows Inc.",
-    "Registrar URL": "http://www.tucows.com",
-    "Keys": ""
+    "Domain Name": "regima.be"
   },
   "metadata": {
-    "checkedAt": "2025-12-10T03:36:57.225Z",
+    "checkedAt": "2025-12-11T03:37:05.973Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2025-12-10T03:36:57.225Z"
+    "dataCompleteness": "minimal"
   }
 }
