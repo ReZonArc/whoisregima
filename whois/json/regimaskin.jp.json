@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.jp",
-  "lastUpdated": "2025-12-11T03:39:39.264Z",
+  "lastUpdated": "2025-12-12T03:40:02.414Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -17,11 +17,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2025-12-11T03:39:39.265Z",
+    "checkedAt": "2025-12-12T03:40:02.415Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2025-12-11T03:39:39.265Z"
+    "refreshedAt": "2025-12-12T03:40:02.415Z"
   }
 }
