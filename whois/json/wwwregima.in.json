@@ -1,15 +1,15 @@
 {
   "domain": "wwwregima.in",
-  "lastUpdated": "2025-12-12T03:41:40.651Z",
+  "lastUpdated": "2025-12-13T03:35:48.102Z",
   "whoisData": {
     "error": "getaddrinfo ENOTFOUND whois.registry.in"
   },
   "metadata": {
-    "checkedAt": "2025-12-12T03:41:40.652Z",
+    "checkedAt": "2025-12-13T03:35:48.103Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2025-12-12T03:41:40.652Z"
+    "refreshedAt": "2025-12-13T03:35:48.103Z"
   }
 }
