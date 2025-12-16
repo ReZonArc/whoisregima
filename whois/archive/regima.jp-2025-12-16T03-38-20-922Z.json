@@ -1,0 +1,14 @@
+{
+  "domain": "regima.jp",
+  "lastUpdated": "2025-12-15T03:41:11.844Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2025-12-15T03:41:11.844Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
