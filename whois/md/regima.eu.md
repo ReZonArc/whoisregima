@@ -1,7 +1,7 @@
 # WHOIS Record: regima.eu
 
-**Last Updated:** 2025-12-17T03:36:08.351Z
-**Checked At:** 2025-12-17T03:36:08.351Z
+**Last Updated:** 2025-12-18T03:36:38.561Z
+**Checked At:** 2025-12-18T03:36:38.561Z
 
 ## WHOIS Information
 
