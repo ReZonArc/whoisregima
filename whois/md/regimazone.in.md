@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.in
 
-**Last Updated:** 2025-12-19T03:40:26.718Z
-**Checked At:** 2025-12-19T03:40:26.719Z
+**Last Updated:** 2025-12-20T03:34:45.959Z
+**Checked At:** 2025-12-20T03:34:45.959Z
 
 ## WHOIS Information
 
