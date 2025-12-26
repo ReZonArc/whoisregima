@@ -1,15 +1,15 @@
 {
   "domain": "regimaskin.co",
-  "lastUpdated": "2025-12-25T03:40:03.650Z",
+  "lastUpdated": "2025-12-26T03:39:18.141Z",
   "whoisData": {
     "error": "getaddrinfo ENOTFOUND whois.nic.co"
   },
   "metadata": {
-    "checkedAt": "2025-12-25T03:40:03.651Z",
+    "checkedAt": "2025-12-26T03:39:18.142Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2025-12-25T03:40:03.651Z"
+    "refreshedAt": "2025-12-26T03:39:18.142Z"
   }
 }
