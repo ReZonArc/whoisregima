@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.au",
-  "lastUpdated": "2026-01-07T03:39:42.480Z",
+  "lastUpdated": "2026-01-08T03:40:13.500Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -26,14 +26,14 @@
       "The WHOIS Service is provided for information purposes only. By using the WHOIS Service, you agree to be bound by these terms and conditions. The WHOIS Service is operated in",
       "accordance with the auDA WHOIS Policy (available at https://www.auda.org.au/policy/2014-07-whois-policy)."
     ],
-    ">>> Last update of WHOIS database": "2026-01-07T03:39:42Z <<<"
+    ">>> Last update of WHOIS database": "2026-01-08T03:40:13Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-01-07T03:39:42.480Z",
+    "checkedAt": "2026-01-08T03:40:13.500Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-01-07T03:39:42.480Z"
+    "refreshedAt": "2026-01-08T03:40:13.501Z"
   }
 }

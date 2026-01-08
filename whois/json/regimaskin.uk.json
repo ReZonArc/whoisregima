@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.uk",
-  "lastUpdated": "2026-01-07T03:41:14.224Z",
+  "lastUpdated": "2026-01-08T03:42:16.860Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "",
       "This domain name has not been registered.",
       "",
-      "WHOIS lookup made at 03:41:14 07-Jan-2026",
+      "WHOIS lookup made at 03:42:16 08-Jan-2026",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -27,11 +27,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-01-07T03:41:14.224Z",
+    "checkedAt": "2026-01-08T03:42:16.861Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-01-07T03:41:14.224Z"
+    "refreshedAt": "2026-01-08T03:42:16.861Z"
   }
 }
