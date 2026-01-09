@@ -1,7 +1,7 @@
 # WHOIS Record: regimapro.co
 
-**Last Updated:** 2026-01-08T03:40:22.148Z
-**Checked At:** 2026-01-08T03:40:22.148Z
+**Last Updated:** 2026-01-09T03:39:52.172Z
+**Checked At:** 2026-01-09T03:39:52.172Z
 
 ## WHOIS Information
 
