@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.de
 
-**Last Updated:** 2026-01-09T03:40:48.012Z
-**Checked At:** 2026-01-09T03:40:48.013Z
+**Last Updated:** 2026-01-10T03:39:22.464Z
+**Checked At:** 2026-01-10T03:39:22.464Z
 
 ## WHOIS Information
 
