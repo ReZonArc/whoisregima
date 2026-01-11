@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.net",
-  "lastUpdated": "2026-01-10T03:39:42.471Z",
+  "lastUpdated": "2026-01-11T03:43:29.624Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -41,14 +41,14 @@
       "The Registry database contains ONLY .COM, .NET, .EDU domains and",
       "Registrars."
     ],
-    ">>> Last update of whois database": "2026-01-10T03:39:27Z <<<"
+    ">>> Last update of whois database": "2026-01-11T03:43:19Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-01-10T03:39:42.472Z",
+    "checkedAt": "2026-01-11T03:43:29.624Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-01-10T03:39:42.472Z"
+    "refreshedAt": "2026-01-11T03:43:29.624Z"
   }
 }
