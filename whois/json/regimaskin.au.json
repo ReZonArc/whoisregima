@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.au",
-  "lastUpdated": "2026-01-14T04:15:45.931Z",
+  "lastUpdated": "2026-01-15T04:11:06.035Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -26,14 +26,14 @@
       "The WHOIS Service is provided for information purposes only. By using the WHOIS Service, you agree to be bound by these terms and conditions. The WHOIS Service is operated in",
       "accordance with the auDA WHOIS Policy (available at https://www.auda.org.au/whois-policy)."
     ],
-    ">>> Last update of WHOIS database": "2026-01-14T04:15:45Z <<<"
+    ">>> Last update of WHOIS database": "2026-01-15T04:11:05Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-01-14T04:15:45.931Z",
+    "checkedAt": "2026-01-15T04:11:06.035Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-01-14T04:15:45.932Z"
+    "refreshedAt": "2026-01-15T04:11:06.035Z"
   }
 }

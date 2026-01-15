@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.be
 
-**Last Updated:** 2026-01-14T04:15:48.335Z
-**Checked At:** 2026-01-14T04:15:48.336Z
+**Last Updated:** 2026-01-15T04:11:08.518Z
+**Checked At:** 2026-01-15T04:11:08.518Z
 
 ## WHOIS Information
 
