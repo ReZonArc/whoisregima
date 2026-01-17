@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.edu",
-  "lastUpdated": "2026-01-16T04:09:44.961Z",
+  "lastUpdated": "2026-01-17T04:03:01.681Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -11,14 +11,14 @@
     ],
     "Domain Name": "regimazone.edu",
     "URL of the ICANN WHOIS Data Problem Reporting System": "http://wdprs.internic.net/",
-    ">>> Last update of WHOIS database": "2026-01-16T04:09:44+00:00 <<<"
+    ">>> Last update of WHOIS database": "2026-01-17T04:03:01+00:00 <<<"
   },
   "metadata": {
-    "checkedAt": "2026-01-16T04:09:44.962Z",
+    "checkedAt": "2026-01-17T04:03:01.682Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-01-16T04:09:44.962Z"
+    "refreshedAt": "2026-01-17T04:03:01.682Z"
   }
 }
