@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.in
 
-**Last Updated:** 2026-01-17T03:59:01.911Z
-**Checked At:** 2026-01-17T03:59:01.912Z
+**Last Updated:** 2026-01-18T04:10:35.270Z
+**Checked At:** 2026-01-18T04:10:35.271Z
 
 ## WHOIS Information
 
