@@ -1,14 +1,15 @@
 {
   "domain": "regimazone.es",
-  "lastUpdated": "2026-01-18T04:14:30.888Z",
+  "lastUpdated": "2026-01-19T04:20:42.924Z",
   "whoisData": {
     "error": "connect ECONNREFUSED 54.72.161.36:43"
   },
   "metadata": {
-    "checkedAt": "2026-01-18T04:14:30.889Z",
+    "checkedAt": "2026-01-19T04:20:42.924Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "none"
+    "dataCompleteness": "none",
+    "refreshedAt": "2026-01-19T04:20:42.925Z"
   }
 }
