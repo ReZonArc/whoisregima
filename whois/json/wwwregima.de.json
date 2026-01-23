@@ -1,6 +1,6 @@
 {
   "domain": "wwwregima.de",
-  "lastUpdated": "2026-01-22T04:18:53.701Z",
+  "lastUpdated": "2026-01-23T03:43:51.334Z",
   "whoisData": {
     "Domain Status": [
       "free"
@@ -12,11 +12,11 @@
     "Domain Name": "wwwregima.de"
   },
   "metadata": {
-    "checkedAt": "2026-01-22T04:18:53.701Z",
+    "checkedAt": "2026-01-23T03:43:51.334Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-01-22T04:18:53.701Z"
+    "refreshedAt": "2026-01-23T03:43:51.334Z"
   }
 }
