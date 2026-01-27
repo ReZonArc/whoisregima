@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.gov",
-  "lastUpdated": "2026-01-26T03:46:31.732Z",
+  "lastUpdated": "2026-01-27T03:42:32.595Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -18,14 +18,14 @@
       "unlawful behavior. We reserve the right to restrict or deny your access to",
       "the WHOIS database, and may modify these terms at any time."
     ],
-    ">>> Last update of WHOIS database": "2026-01-26T03:46:31Z <<<"
+    ">>> Last update of WHOIS database": "2026-01-27T03:42:32Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-01-26T03:46:31.732Z",
+    "checkedAt": "2026-01-27T03:42:32.596Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-01-26T03:46:31.732Z"
+    "refreshedAt": "2026-01-27T03:42:32.596Z"
   }
 }

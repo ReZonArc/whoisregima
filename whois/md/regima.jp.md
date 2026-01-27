@@ -1,7 +1,7 @@
 # WHOIS Record: regima.jp
 
-**Last Updated:** 2026-01-26T03:45:34.287Z
-**Checked At:** 2026-01-26T03:45:34.288Z
+**Last Updated:** 2026-01-27T03:41:33.874Z
+**Checked At:** 2026-01-27T03:41:33.875Z
 
 ## WHOIS Information
 
