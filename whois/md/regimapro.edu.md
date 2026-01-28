@@ -1,19 +1,11 @@
 # WHOIS Record: regimapro.edu
 
-**Last Updated:** 2026-01-27T03:42:23.575Z
-**Checked At:** 2026-01-27T03:42:23.575Z
+**Last Updated:** 2026-01-28T03:41:14.923Z
+**Checked At:** 2026-01-28T03:41:14.923Z
 
 ## WHOIS Information
 
-**Domain Status:** 
+**error:** read ECONNRESET
 
-**Name Server:** 
-
-**text:** The domain name you requested was not found in our database., , To check the availability of this domain name, please visit our website at https://www.101domain.com/
-
-**Domain Name:** regimapro.edu
-
-**URL of the ICANN WHOIS Data Problem Reporting System:** http://wdprs.internic.net/
-
-**>>> Last update of WHOIS database:** 2026-01-27T03:42:23+00:00 <<<
+**status:** error
 
