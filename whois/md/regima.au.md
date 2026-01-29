@@ -1,7 +1,7 @@
 # WHOIS Record: regima.au
 
-**Last Updated:** 2026-01-28T03:39:44.871Z
-**Checked At:** 2026-01-28T03:39:44.871Z
+**Last Updated:** 2026-01-29T03:51:54.642Z
+**Checked At:** 2026-01-29T03:51:54.642Z
 
 ## WHOIS Information
 
@@ -11,5 +11,5 @@
 
 **text:** Domain not found., , Identity Digital Australia Pty Ltd, for itself and on behalf of .au Domain Administration Limited (auDA), makes the WHOIS registration data directory service (WHOIS Service) available solely for the purposes of:, , (a) querying the availability of a domain name licence;, , (b) identifying the holder of a domain name licence; and/or, , (c) contacting the holder of a domain name licence in relation to that domain name and its use., , The WHOIS Service must not be used for any other purpose (even if that purpose is lawful), including:, , (a) aggregating, collecting or compiling information from the WHOIS database, whether for personal or commercial purposes;, , (b) enabling the sending of unsolicited electronic communications; and / or, , (c) enabling high volume, automated, electronic processes that send queries or data to the systems of Afilias, any registrar, any domain name licence holder, or auDA., , The WHOIS Service is provided for information purposes only. By using the WHOIS Service, you agree to be bound by these terms and conditions. The WHOIS Service is operated in, accordance with the auDA WHOIS Policy (available at https://www.auda.org.au/whois-policy).
 
-**>>> Last update of WHOIS database:** 2026-01-28T03:39:44Z <<<
+**>>> Last update of WHOIS database:** 2026-01-29T03:51:54Z <<<
 

@@ -1,0 +1,15 @@
+{
+  "domain": "regimapro.es",
+  "lastUpdated": "2026-01-28T03:41:17.050Z",
+  "whoisData": {
+    "error": "read ECONNRESET",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-01-28T03:41:17.050Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error",
+    "refreshedAt": "2026-01-28T03:41:17.050Z"
+  }
+}

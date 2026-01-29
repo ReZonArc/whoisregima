@@ -1,0 +1,14 @@
+{
+  "domain": "regimaskin.edu",
+  "lastUpdated": "2026-01-28T03:42:22.006Z",
+  "whoisData": {
+    "error": "read ECONNRESET",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-01-28T03:42:22.006Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

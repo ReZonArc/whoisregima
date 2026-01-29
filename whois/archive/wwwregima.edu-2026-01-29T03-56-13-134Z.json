@@ -1,0 +1,14 @@
+{
+  "domain": "wwwregima.edu",
+  "lastUpdated": "2026-01-28T03:44:04.713Z",
+  "whoisData": {
+    "error": "read ECONNRESET",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-01-28T03:44:04.713Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

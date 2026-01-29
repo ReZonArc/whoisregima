@@ -1,11 +1,19 @@
 # WHOIS Record: regimazone.edu
 
-**Last Updated:** 2026-01-28T03:43:13.619Z
-**Checked At:** 2026-01-28T03:43:13.619Z
+**Last Updated:** 2026-01-29T03:55:22.154Z
+**Checked At:** 2026-01-29T03:55:22.155Z
 
 ## WHOIS Information
 
-**error:** read ECONNRESET
+**Domain Status:** 
 
-**status:** error
+**Name Server:** 
+
+**text:** The domain name you requested was not found in our database., , To check the availability of this domain name, please visit our website at https://www.101domain.com/
+
+**Domain Name:** regimazone.edu
+
+**URL of the ICANN WHOIS Data Problem Reporting System:** http://wdprs.internic.net/
+
+**>>> Last update of WHOIS database:** 2026-01-29T03:55:22+00:00 <<<
 

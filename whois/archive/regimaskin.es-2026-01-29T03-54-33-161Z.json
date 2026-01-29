@@ -1,0 +1,15 @@
+{
+  "domain": "regimaskin.es",
+  "lastUpdated": "2026-01-28T03:42:24.150Z",
+  "whoisData": {
+    "error": "read ECONNRESET",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-01-28T03:42:24.150Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error",
+    "refreshedAt": "2026-01-28T03:42:24.150Z"
+  }
+}

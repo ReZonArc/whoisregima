@@ -1,0 +1,14 @@
+{
+  "domain": "regimazone.edu",
+  "lastUpdated": "2026-01-28T03:43:13.619Z",
+  "whoisData": {
+    "error": "read ECONNRESET",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-01-28T03:43:13.619Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

@@ -1,14 +1,23 @@
 {
   "domain": "regimazone.edu",
-  "lastUpdated": "2026-01-28T03:43:13.619Z",
+  "lastUpdated": "2026-01-29T03:55:22.154Z",
   "whoisData": {
-    "error": "read ECONNRESET",
-    "status": "error"
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      "The domain name you requested was not found in our database.",
+      "",
+      "To check the availability of this domain name, please visit our website at https://www.101domain.com/"
+    ],
+    "Domain Name": "regimazone.edu",
+    "URL of the ICANN WHOIS Data Problem Reporting System": "http://wdprs.internic.net/",
+    ">>> Last update of WHOIS database": "2026-01-29T03:55:22+00:00 <<<"
   },
   "metadata": {
-    "checkedAt": "2026-01-28T03:43:13.619Z",
+    "checkedAt": "2026-01-29T03:55:22.155Z",
     "source": "whois-checker-action",
-    "dataCompleteness": "error",
-    "errorType": "Error"
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "minimal"
   }
 }

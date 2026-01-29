@@ -1,0 +1,14 @@
+{
+  "domain": "regimaskin.de",
+  "lastUpdated": "2026-01-28T03:42:19.822Z",
+  "whoisData": {
+    "error": "read ECONNRESET",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-01-28T03:42:19.822Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

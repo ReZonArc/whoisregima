@@ -1,0 +1,14 @@
+{
+  "domain": "myregima.de",
+  "lastUpdated": "2026-01-28T03:39:03.719Z",
+  "whoisData": {
+    "error": "read ECONNRESET",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-01-28T03:39:03.719Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}
