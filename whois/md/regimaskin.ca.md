@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.ca
 
-**Last Updated:** 2026-01-30T03:53:40.360Z
-**Checked At:** 2026-01-30T03:53:40.360Z
+**Last Updated:** 2026-01-31T03:52:28.029Z
+**Checked At:** 2026-01-31T03:52:28.029Z
 
 ## WHOIS Information
 
