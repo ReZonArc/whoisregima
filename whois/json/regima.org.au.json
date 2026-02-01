@@ -1,6 +1,6 @@
 {
   "domain": "regima.org.au",
-  "lastUpdated": "2026-01-31T03:51:18.754Z",
+  "lastUpdated": "2026-02-01T04:04:07.776Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -26,14 +26,14 @@
       "The WHOIS Service is provided for information purposes only. By using the WHOIS Service, you agree to be bound by these terms and conditions. The WHOIS Service is operated in",
       "accordance with the auDA WHOIS Policy (available at https://www.auda.org.au/whois-policy)."
     ],
-    ">>> Last update of WHOIS database": "2026-01-31T03:51:18Z <<<"
+    ">>> Last update of WHOIS database": "2026-02-01T04:04:07Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-01-31T03:51:18.755Z",
+    "checkedAt": "2026-02-01T04:04:07.777Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-01-31T03:51:18.755Z"
+    "refreshedAt": "2026-02-01T04:04:07.777Z"
   }
 }

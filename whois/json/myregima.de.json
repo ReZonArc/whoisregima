@@ -1,6 +1,6 @@
 {
   "domain": "myregima.de",
-  "lastUpdated": "2026-01-31T03:49:38.258Z",
+  "lastUpdated": "2026-02-01T04:02:25.338Z",
   "whoisData": {
     "Domain Status": [
       "free"
@@ -12,11 +12,11 @@
     "Domain Name": "myregima.de"
   },
   "metadata": {
-    "checkedAt": "2026-01-31T03:49:38.259Z",
+    "checkedAt": "2026-02-01T04:02:25.338Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-01-31T03:49:38.259Z"
+    "refreshedAt": "2026-02-01T04:02:25.338Z"
   }
 }
