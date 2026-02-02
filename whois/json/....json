@@ -1,15 +1,15 @@
 {
   "domain": "...",
-  "lastUpdated": "2026-02-01T04:02:08.314Z",
+  "lastUpdated": "2026-02-02T03:56:17.346Z",
   "whoisData": {
     "error": "Invalid TLD \"\"",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-02-01T04:02:08.314Z",
+    "checkedAt": "2026-02-02T03:56:17.346Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-02-01T04:02:08.314Z"
+    "refreshedAt": "2026-02-02T03:56:17.346Z"
   }
 }
