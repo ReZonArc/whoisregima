@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.ca
 
-**Last Updated:** 2026-02-02T03:56:26.873Z
-**Checked At:** 2026-02-02T03:56:26.873Z
+**Last Updated:** 2026-02-03T03:52:19.662Z
+**Checked At:** 2026-02-03T03:52:19.662Z
 
 ## WHOIS Information
 
