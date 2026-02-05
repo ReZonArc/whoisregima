@@ -1,11 +1,11 @@
 # WHOIS Record: myregima.za
 
-**Last Updated:** 2026-02-04T03:52:21.093Z
-**Checked At:** 2026-02-04T03:52:21.093Z
+**Last Updated:** 2026-02-05T03:52:47.402Z
+**Checked At:** 2026-02-05T03:52:47.402Z
 
 ## WHOIS Information
 
-**error:** TLD for "myregima.za" not supported
+**error:** Timeout
 
 **status:** error
 
