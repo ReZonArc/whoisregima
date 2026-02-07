@@ -1,6 +1,6 @@
 {
   "domain": "myregima.br",
-  "lastUpdated": "2026-02-06T03:52:09.612Z",
+  "lastUpdated": "2026-02-07T03:49:54.815Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "% Privacy Policy at https://registro.br/upp . Distribution,",
       "% commercialization, reproduction, and use for advertising or similar",
       "% purposes are expressly prohibited.",
-      "% 2026-02-06T00:52:09-03:00 - 20.171.126.216",
+      "% 2026-02-07T00:49:54-03:00 - 64.236.133.129",
       "",
       "% No match for myregima.br",
       "",
@@ -21,11 +21,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-02-06T03:52:09.612Z",
+    "checkedAt": "2026-02-07T03:49:54.815Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-02-06T03:52:09.612Z"
+    "refreshedAt": "2026-02-07T03:49:54.816Z"
   }
 }

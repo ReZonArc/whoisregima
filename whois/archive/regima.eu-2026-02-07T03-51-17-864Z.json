@@ -1,11 +1,12 @@
 {
-  "domain": "myregima.eu",
-  "lastUpdated": "2026-02-07T03:50:10.480Z",
+  "domain": "regima.eu",
+  "lastUpdated": "2026-02-06T03:53:45.411Z",
   "whoisData": {
-    "Domain Status": [
-      "AVAILABLE"
+    "Domain Status": [],
+    "Name Server": [
+      "pdns03.domaincontrol.com",
+      "pdns04.domaincontrol.com"
     ],
-    "Name Server": [],
     "text": [
       "% The WHOIS service offered by EURid and the access to the records",
       "% in the EURid WHOIS database are provided for information purposes",
@@ -49,17 +50,23 @@
       "% Registrant and on-site contact information can be obtained through use of the",
       "% web-based WHOIS service available from the EURid website www.eurid.eu",
       "%",
-      "% WHOIS myregima.eu"
+      "% WHOIS regima.eu",
+      "",
+      "Please visit www.eurid.eu for more info."
     ],
-    "Domain Name": "myregima.eu",
-    "Script": "LATIN"
+    "Domain Name": "regima.eu",
+    "Script": "LATIN",
+    "Registrant Name": "NOT DISCLOSED! Visit www.eurid.eu for the web-based WHOIS.",
+    "On-site(s)": "NOT DISCLOSED! Visit www.eurid.eu for the web-based WHOIS.",
+    "Registrar": "GoDaddy.com, LLC",
+    "Registrar URL": "http://www.godaddy.com"
   },
   "metadata": {
-    "checkedAt": "2026-02-07T03:50:10.481Z",
+    "checkedAt": "2026-02-06T03:53:45.411Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-02-07T03:50:10.481Z"
+    "refreshedAt": "2026-02-06T03:53:45.412Z"
   }
 }
