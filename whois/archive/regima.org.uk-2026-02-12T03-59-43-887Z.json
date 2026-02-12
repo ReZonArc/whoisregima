@@ -1,0 +1,14 @@
+{
+  "domain": "regima.org.uk",
+  "lastUpdated": "2026-02-11T04:03:44.176Z",
+  "whoisData": {
+    "error": "Timeout"
+  },
+  "metadata": {
+    "checkedAt": "2026-02-11T04:03:44.177Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}

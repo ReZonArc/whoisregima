@@ -1,0 +1,14 @@
+{
+  "domain": "regimaskin.co.uk",
+  "lastUpdated": "2026-02-11T04:05:42.353Z",
+  "whoisData": {
+    "error": "Timeout"
+  },
+  "metadata": {
+    "checkedAt": "2026-02-11T04:05:42.354Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
