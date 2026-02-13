@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.de",
-  "lastUpdated": "2026-02-12T04:00:07.991Z",
+  "lastUpdated": "2026-02-13T03:57:21.139Z",
   "whoisData": {
     "Domain Status": [
       "free"
@@ -12,11 +12,11 @@
     "Domain Name": "regimapro.de"
   },
   "metadata": {
-    "checkedAt": "2026-02-12T04:00:07.992Z",
+    "checkedAt": "2026-02-13T03:57:21.140Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-02-12T04:00:07.992Z"
+    "refreshedAt": "2026-02-13T03:57:21.140Z"
   }
 }
