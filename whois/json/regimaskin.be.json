@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.be",
-  "lastUpdated": "2026-02-13T03:57:58.224Z",
+  "lastUpdated": "2026-02-14T03:53:56.783Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -46,11 +46,11 @@
     "Domain Name": "regimaskin.be"
   },
   "metadata": {
-    "checkedAt": "2026-02-13T03:57:58.224Z",
+    "checkedAt": "2026-02-14T03:53:56.784Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-02-13T03:57:58.224Z"
+    "refreshedAt": "2026-02-14T03:53:56.784Z"
   }
 }
