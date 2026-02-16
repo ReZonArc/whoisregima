@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.ca
 
-**Last Updated:** 2026-02-15T03:59:45.691Z
-**Checked At:** 2026-02-15T03:59:45.692Z
+**Last Updated:** 2026-02-16T04:01:09.357Z
+**Checked At:** 2026-02-16T04:01:09.358Z
 
 ## WHOIS Information
 
