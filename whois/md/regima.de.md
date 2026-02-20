@@ -1,7 +1,7 @@
 # WHOIS Record: regima.de
 
-**Last Updated:** 2026-02-19T03:55:13.179Z
-**Checked At:** 2026-02-19T03:55:13.180Z
+**Last Updated:** 2026-02-20T03:53:19.843Z
+**Checked At:** 2026-02-20T03:53:19.844Z
 
 ## WHOIS Information
 
@@ -9,7 +9,7 @@
 
 **Name Server:** sl1.sedo.com, sl2.sedo.com
 
-**text:** % Restricted rights., %, % Terms and Conditions of Use, %, % The above data may only be used within the scope of technical or, % administrative necessities of Internet operation or to remedy legal, % problems., % The use for other purposes, in particular for advertising, is not permitted., %, % The DENIC whois service on port 43 doesn't disclose any information concerning, % the domain holder, general request and abuse contact., % This information can be obtained through use of our web-based whois service, % available at the DENIC website:, % http://www.denic.de/en/domains/whois-service/web-whois.html, %, %
+**text:** % Restricted rights., %, % Terms and Conditions of Use, %, % The above data may only be used within the scope of technical or, % administrative necessities of Internet operation or to remedy legal, % problems., % The use for other purposes, in particular for advertising, is not permitted., %, % The DENIC whois service on port 43 doesn't disclose any information concerning, % the domain holder, general request and abuse contact., % This information can be obtained through use of our web-based whois service, % available at the DENIC website:, % https://webwhois.denic.de/?lang=en, %, %
 
 **Domain Name:** regima.de
 

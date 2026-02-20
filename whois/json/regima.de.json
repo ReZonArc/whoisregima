@@ -1,6 +1,6 @@
 {
   "domain": "regima.de",
-  "lastUpdated": "2026-02-19T03:55:13.179Z",
+  "lastUpdated": "2026-02-20T03:53:19.843Z",
   "whoisData": {
     "Domain Status": [
       "connect"
@@ -23,7 +23,7 @@
       "% the domain holder, general request and abuse contact.",
       "% This information can be obtained through use of our web-based whois service",
       "% available at the DENIC website:",
-      "% http://www.denic.de/en/domains/whois-service/web-whois.html",
+      "% https://webwhois.denic.de/?lang=en",
       "%",
       "%"
     ],
@@ -31,11 +31,11 @@
     "Updated Date": "2023-09-01T09:48:53+02:00"
   },
   "metadata": {
-    "checkedAt": "2026-02-19T03:55:13.180Z",
+    "checkedAt": "2026-02-20T03:53:19.844Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-02-19T03:55:13.180Z"
+    "refreshedAt": "2026-02-20T03:53:19.844Z"
   }
 }
