@@ -1,0 +1,14 @@
+{
+  "domain": "myregima.gov",
+  "lastUpdated": "2026-02-21T03:50:07.594Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-02-21T03:50:07.594Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}
