@@ -1,11 +1,11 @@
 # WHOIS Record: regima.net.za
 
-**Last Updated:** 2026-02-22T03:54:21.344Z
-**Checked At:** 2026-02-22T03:54:21.344Z
+**Last Updated:** 2026-02-23T03:57:55.746Z
+**Checked At:** 2026-02-23T03:57:55.746Z
 
 ## WHOIS Information
 
-**error:** Timeout
+**error:** TLD for "regima.net.za" not supported
 
 **status:** error
 

@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.be
 
-**Last Updated:** 2026-02-22T03:57:31.328Z
-**Checked At:** 2026-02-22T03:57:31.328Z
+**Last Updated:** 2026-02-23T04:00:52.122Z
+**Checked At:** 2026-02-23T04:00:52.122Z
 
 ## WHOIS Information
 
