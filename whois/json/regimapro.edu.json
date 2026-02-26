@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.edu",
-  "lastUpdated": "2026-02-25T03:56:00.571Z",
+  "lastUpdated": "2026-02-26T03:55:25.526Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -11,14 +11,14 @@
     ],
     "Domain Name": "regimapro.edu",
     "URL of the ICANN WHOIS Data Problem Reporting System": "http://wdprs.internic.net/",
-    ">>> Last update of WHOIS database": "2026-02-25T03:56:00+00:00 <<<"
+    ">>> Last update of WHOIS database": "2026-02-26T03:55:25+00:00 <<<"
   },
   "metadata": {
-    "checkedAt": "2026-02-25T03:56:00.571Z",
+    "checkedAt": "2026-02-26T03:55:25.527Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-02-25T03:56:00.571Z"
+    "refreshedAt": "2026-02-26T03:55:25.527Z"
   }
 }
