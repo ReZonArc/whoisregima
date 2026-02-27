@@ -1,9 +1,13 @@
 # WHOIS Record: regimapro.nl
 
-**Last Updated:** 2026-02-26T03:55:45.604Z
-**Checked At:** 2026-02-26T03:55:45.605Z
+**Last Updated:** 2026-02-27T03:54:15.123Z
+**Checked At:** 2026-02-27T03:54:15.124Z
 
 ## WHOIS Information
 
-**error:** read ECONNRESET
+**Domain Status:** 
+
+**Name Server:** 
+
+**text:** regimapro.nl is free
 

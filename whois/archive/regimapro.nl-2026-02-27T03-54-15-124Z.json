@@ -1,0 +1,14 @@
+{
+  "domain": "regimapro.nl",
+  "lastUpdated": "2026-02-26T03:55:45.604Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2026-02-26T03:55:45.605Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
