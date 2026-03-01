@@ -1,6 +1,6 @@
 {
   "domain": "regima.net.uk",
-  "lastUpdated": "2026-02-28T03:43:51.388Z",
+  "lastUpdated": "2026-03-01T03:58:35.748Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "",
       "This domain name has not been registered.",
       "",
-      "WHOIS lookup made at 03:43:51 28-Feb-2026",
+      "WHOIS lookup made at 03:58:35 01-Mar-2026",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -27,11 +27,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-02-28T03:43:51.389Z",
+    "checkedAt": "2026-03-01T03:58:35.748Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-02-28T03:43:51.389Z"
+    "refreshedAt": "2026-03-01T03:58:35.748Z"
   }
 }

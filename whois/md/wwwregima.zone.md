@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.zone
 
-**Last Updated:** 2026-02-28T03:47:34.539Z
-**Checked At:** 2026-02-28T03:47:34.539Z
+**Last Updated:** 2026-03-01T04:02:25.884Z
+**Checked At:** 2026-03-01T04:02:25.884Z
 
 ## WHOIS Information
 
