@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.be",
-  "lastUpdated": "2026-03-01T03:59:03.141Z",
+  "lastUpdated": "2026-03-02T03:54:20.750Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -46,11 +46,11 @@
     "Domain Name": "regimapro.be"
   },
   "metadata": {
-    "checkedAt": "2026-03-01T03:59:03.142Z",
+    "checkedAt": "2026-03-02T03:54:20.751Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-03-01T03:59:03.142Z"
+    "refreshedAt": "2026-03-02T03:54:20.751Z"
   }
 }
