@@ -1,11 +1,11 @@
 # WHOIS Record: wwwregima.zone
 
-**Last Updated:** 2026-03-05T03:58:22.682Z
-**Checked At:** 2026-03-05T03:58:22.682Z
+**Last Updated:** 2026-03-06T03:56:41.059Z
+**Checked At:** 2026-03-06T03:56:41.059Z
 
 ## WHOIS Information
 
-**error:** TLD for "wwwregima.zone" not supported
+**error:** Timeout
 
 **status:** error
 
