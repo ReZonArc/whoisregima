@@ -1,0 +1,14 @@
+{
+  "domain": "regimapro.edu",
+  "lastUpdated": "2026-03-06T03:53:29.955Z",
+  "whoisData": {
+    "error": "Timeout",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-03-06T03:53:29.955Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}
