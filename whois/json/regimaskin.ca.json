@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.ca",
-  "lastUpdated": "2026-03-16T04:08:26.576Z",
+  "lastUpdated": "2026-03-17T03:55:35.518Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -14,11 +14,11 @@
     "Not found": "regimaskin.ca"
   },
   "metadata": {
-    "checkedAt": "2026-03-16T04:08:26.576Z",
+    "checkedAt": "2026-03-17T03:55:35.518Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-03-16T04:08:26.576Z"
+    "refreshedAt": "2026-03-17T03:55:35.518Z"
   }
 }
