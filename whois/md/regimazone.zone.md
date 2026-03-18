@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.zone
 
-**Last Updated:** 2026-03-17T03:57:27.475Z
-**Checked At:** 2026-03-17T03:57:27.475Z
+**Last Updated:** 2026-03-18T04:01:05.935Z
+**Checked At:** 2026-03-18T04:01:05.935Z
 
 ## WHOIS Information
 
