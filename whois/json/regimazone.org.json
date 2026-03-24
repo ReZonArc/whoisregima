@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.org",
-  "lastUpdated": "2026-03-23T04:03:33.267Z",
+  "lastUpdated": "2026-03-24T03:57:30.630Z",
   "whoisData": {
     "Domain Status": [
       "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
@@ -30,14 +30,14 @@
     "Registrar Abuse Contact Phone": "+1.4806242505",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://icann.org/wicf/",
-    ">>> Last update of WHOIS database": "2026-03-23T04:03:33Z <<<"
+    ">>> Last update of WHOIS database": "2026-03-24T03:57:30Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-03-23T04:03:33.267Z",
+    "checkedAt": "2026-03-24T03:57:30.630Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-03-23T04:03:33.267Z"
+    "refreshedAt": "2026-03-24T03:57:30.630Z"
   }
 }
