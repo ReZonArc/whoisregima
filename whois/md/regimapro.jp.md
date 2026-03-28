@@ -1,7 +1,7 @@
 # WHOIS Record: regimapro.jp
 
-**Last Updated:** 2026-03-27T04:04:52.915Z
-**Checked At:** 2026-03-27T04:04:52.916Z
+**Last Updated:** 2026-03-28T03:55:34.650Z
+**Checked At:** 2026-03-28T03:55:34.651Z
 
 ## WHOIS Information
 

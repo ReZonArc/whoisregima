@@ -1,7 +1,7 @@
 # WHOIS Record: regima.net.uk
 
-**Last Updated:** 2026-03-27T04:03:57.243Z
-**Checked At:** 2026-03-27T04:03:57.244Z
+**Last Updated:** 2026-03-28T03:54:38.848Z
+**Checked At:** 2026-03-28T03:54:38.849Z
 
 ## WHOIS Information
 
@@ -9,5 +9,5 @@
 
 **Name Server:** 
 
-**text:** No match for "regima.net.uk"., , This domain name has not been registered., , WHOIS lookup made at 04:03:57 27-Mar-2026, , --, This WHOIS information is provided for free by Nominet UK the central registry, for .uk domain names. This information and the .uk WHOIS are:, , Copyright Nominet UK 1996 - 2026., , You may not access the .uk WHOIS or use any data from it except as permitted, by the terms of use available in full at https://www.nominet.uk/whoisterms,, which includes restrictions on: (A) use of the data for advertising, or its, repackaging, recompilation, redistribution or reuse (B) obscuring, removing, or hiding any or all of this notice and (C) exceeding query rate or volume, limits. The data is provided on an 'as-is' basis and may lag behind the, register. Access may be withdrawn or restricted at any time.
+**text:** No match for "regima.net.uk"., , This domain name has not been registered., , WHOIS lookup made at 03:54:38 28-Mar-2026, , --, This WHOIS information is provided for free by Nominet UK the central registry, for .uk domain names. This information and the .uk WHOIS are:, , Copyright Nominet UK 1996 - 2026., , You may not access the .uk WHOIS or use any data from it except as permitted, by the terms of use available in full at https://www.nominet.uk/whoisterms,, which includes restrictions on: (A) use of the data for advertising, or its, repackaging, recompilation, redistribution or reuse (B) obscuring, removing, or hiding any or all of this notice and (C) exceeding query rate or volume, limits. The data is provided on an 'as-is' basis and may lag behind the, register. Access may be withdrawn or restricted at any time.
 
