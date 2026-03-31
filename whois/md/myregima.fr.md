@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.fr
 
-**Last Updated:** 2026-03-30T04:07:06.428Z
-**Checked At:** 2026-03-30T04:07:06.428Z
+**Last Updated:** 2026-03-31T04:02:55.948Z
+**Checked At:** 2026-03-31T04:02:55.949Z
 
 ## WHOIS Information
 
@@ -11,5 +11,5 @@
 
 **text:** %%, %% This is the AFNIC Whois server., %%, %% complete date format: YYYY-MM-DDThh:mm:ssZ, %%, %% Rights restricted by copyright., %% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/, %%, %%, %% NOT FOUND
 
-**>>> Last update of WHOIS database:** 2026-03-30T04:07:06.385386Z <<<
+**>>> Last update of WHOIS database:** 2026-03-31T04:02:55.878187Z <<<
 
