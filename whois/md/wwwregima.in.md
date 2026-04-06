@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.in
 
-**Last Updated:** 2026-04-05T04:09:20.425Z
-**Checked At:** 2026-04-05T04:09:20.426Z
+**Last Updated:** 2026-04-06T04:11:57.493Z
+**Checked At:** 2026-04-06T04:11:57.494Z
 
 ## WHOIS Information
 
