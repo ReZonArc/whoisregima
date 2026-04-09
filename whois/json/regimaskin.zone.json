@@ -1,15 +1,15 @@
 {
   "domain": "regimaskin.zone",
-  "lastUpdated": "2026-04-08T04:06:40.908Z",
+  "lastUpdated": "2026-04-09T04:05:25.019Z",
   "whoisData": {
     "error": "TLD for \"regimaskin.zone\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-04-08T04:06:40.908Z",
+    "checkedAt": "2026-04-09T04:05:25.019Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-04-08T04:06:40.908Z"
+    "refreshedAt": "2026-04-09T04:05:25.019Z"
   }
 }
