@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.br
 
-**Last Updated:** 2026-04-09T04:04:39.113Z
-**Checked At:** 2026-04-09T04:04:39.113Z
+**Last Updated:** 2026-04-10T04:09:35.236Z
+**Checked At:** 2026-04-10T04:09:35.236Z
 
 ## WHOIS Information
 
@@ -9,5 +9,5 @@
 
 **Name Server:** 
 
-**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-04-09T01:04:39-03:00 - 172.184.213.178, , % No match for regimaskin.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
+**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-04-10T01:09:35-03:00 - 74.235.126.85, , % No match for regimaskin.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
 
