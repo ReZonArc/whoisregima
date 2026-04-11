@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.it",
-  "lastUpdated": "2026-04-10T04:10:55.236Z",
+  "lastUpdated": "2026-04-11T03:58:49.065Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -12,11 +12,11 @@
     "Domain Name": "regimazone.it"
   },
   "metadata": {
-    "checkedAt": "2026-04-10T04:10:55.237Z",
+    "checkedAt": "2026-04-11T03:58:49.065Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-04-10T04:10:55.237Z"
+    "refreshedAt": "2026-04-11T03:58:49.065Z"
   }
 }
