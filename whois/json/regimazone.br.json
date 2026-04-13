@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.br",
-  "lastUpdated": "2026-04-12T04:11:23.440Z",
+  "lastUpdated": "2026-04-13T05:51:58.784Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "% Privacy Policy at https://registro.br/upp . Distribution,",
       "% commercialization, reproduction, and use for advertising or similar",
       "% purposes are expressly prohibited.",
-      "% 2026-04-12T01:11:23-03:00 - 20.168.110.17",
+      "% 2026-04-13T02:51:58-03:00 - 74.235.70.226",
       "",
       "% No match for regimazone.br",
       "",
@@ -21,11 +21,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-04-12T04:11:23.440Z",
+    "checkedAt": "2026-04-13T05:51:58.784Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-04-12T04:11:23.440Z"
+    "refreshedAt": "2026-04-13T05:51:58.784Z"
   }
 }

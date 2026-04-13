@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.br
 
-**Last Updated:** 2026-04-12T04:11:23.440Z
-**Checked At:** 2026-04-12T04:11:23.440Z
+**Last Updated:** 2026-04-13T05:51:58.784Z
+**Checked At:** 2026-04-13T05:51:58.784Z
 
 ## WHOIS Information
 
@@ -9,5 +9,5 @@
 
 **Name Server:** 
 
-**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-04-12T01:11:23-03:00 - 20.168.110.17, , % No match for regimazone.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
+**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-04-13T02:51:58-03:00 - 74.235.70.226, , % No match for regimazone.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
 
