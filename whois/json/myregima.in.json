@@ -1,15 +1,15 @@
 {
   "domain": "myregima.in",
-  "lastUpdated": "2026-04-15T05:30:09.489Z",
+  "lastUpdated": "2026-04-16T05:35:40.548Z",
   "whoisData": {
     "error": "getaddrinfo ENOTFOUND whois.registry.in"
   },
   "metadata": {
-    "checkedAt": "2026-04-15T05:30:09.490Z",
+    "checkedAt": "2026-04-16T05:35:40.548Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2026-04-15T05:30:09.490Z"
+    "refreshedAt": "2026-04-16T05:35:40.548Z"
   }
 }
