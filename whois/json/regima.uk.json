@@ -1,6 +1,6 @@
 {
   "domain": "regima.uk",
-  "lastUpdated": "2026-04-16T05:37:17.119Z",
+  "lastUpdated": "2026-04-17T05:35:24.924Z",
   "whoisData": {
     "Domain Status": [
       "Renewal required.",
@@ -11,7 +11,7 @@
       "pdns04.domaincontrol.com"
     ],
     "text": [
-      "WHOIS lookup made at 06:37:17 16-Apr-2026",
+      "WHOIS lookup made at 06:35:24 17-Apr-2026",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -36,11 +36,11 @@
     "Updated Date": "28-Jan-2025"
   },
   "metadata": {
-    "checkedAt": "2026-04-16T05:37:17.119Z",
+    "checkedAt": "2026-04-17T05:35:24.924Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-04-16T05:37:17.119Z"
+    "refreshedAt": "2026-04-17T05:35:24.924Z"
   }
 }
