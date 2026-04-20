@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.eu",
-  "lastUpdated": "2026-04-19T05:38:51.137Z",
+  "lastUpdated": "2026-04-20T04:16:21.590Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [
@@ -64,10 +64,11 @@
     "Registrar URL": "http://www.tucows.com"
   },
   "metadata": {
-    "checkedAt": "2026-04-19T05:38:51.138Z",
+    "checkedAt": "2026-04-20T04:16:21.590Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal"
+    "dataCompleteness": "minimal",
+    "refreshedAt": "2026-04-20T04:16:21.590Z"
   }
 }

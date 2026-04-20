@@ -1,6 +1,6 @@
 {
   "domain": "myregima.es",
-  "lastUpdated": "2026-04-19T05:34:14.742Z",
+  "lastUpdated": "2026-04-20T04:12:26.101Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -40,10 +40,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-04-19T05:34:14.742Z",
+    "checkedAt": "2026-04-20T04:12:26.102Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal"
+    "dataCompleteness": "minimal",
+    "refreshedAt": "2026-04-20T04:12:26.102Z"
   }
 }
