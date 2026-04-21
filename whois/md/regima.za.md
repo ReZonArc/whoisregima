@@ -1,7 +1,7 @@
 # WHOIS Record: regima.za
 
-**Last Updated:** 2026-04-20T04:14:13.955Z
-**Checked At:** 2026-04-20T04:14:13.955Z
+**Last Updated:** 2026-04-21T04:09:37.256Z
+**Checked At:** 2026-04-21T04:09:37.256Z
 
 ## WHOIS Information
 
