@@ -1,6 +1,6 @@
 {
   "domain": "wwwregima.net",
-  "lastUpdated": "2026-04-21T04:12:52.548Z",
+  "lastUpdated": "2026-04-22T04:11:34.442Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -41,14 +41,14 @@
       "The Registry database contains ONLY .COM, .NET, .EDU domains and",
       "Registrars."
     ],
-    ">>> Last update of whois database": "2026-04-21T04:12:41Z <<<"
+    ">>> Last update of whois database": "2026-04-22T04:11:13Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-04-21T04:12:52.549Z",
+    "checkedAt": "2026-04-22T04:11:34.442Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-04-21T04:12:52.549Z"
+    "refreshedAt": "2026-04-22T04:11:34.442Z"
   }
 }

@@ -1,7 +1,7 @@
 # WHOIS Record: regima.nl
 
-**Last Updated:** 2026-04-21T04:09:21.300Z
-**Checked At:** 2026-04-21T04:09:21.301Z
+**Last Updated:** 2026-04-22T04:08:04.818Z
+**Checked At:** 2026-04-22T04:08:04.818Z
 
 ## WHOIS Information
 
@@ -13,13 +13,13 @@
 
 **Domain Name:** regima.nl
 
-**Registrar:** Commercive B.V. Oosterhoogte 3 6861VH Oosterbeek Netherlands SIDN BV
+**Registrar:** Hostable B.V. Oosterhoogte 3 6861VH Oosterbeek Netherlands SIDN BV
 
-**Abuse Contact:** +31.263397906 abuse@commercive.nl
+**Abuse Contact:** +31.0262062000 misbruik@hostable.nl
 
 **DNSSEC:** no
 
 **Created Date:** 2019-11-10
 
-**Updated Date:** 2025-12-03
+**Updated Date:** 2026-04-21
 

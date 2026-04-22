@@ -1,6 +1,6 @@
 {
   "domain": "regima.nl",
-  "lastUpdated": "2026-04-21T04:09:21.300Z",
+  "lastUpdated": "2026-04-22T04:08:04.818Z",
   "whoisData": {
     "Domain Status": [
       "active"
@@ -13,18 +13,17 @@
       ""
     ],
     "Domain Name": "regima.nl",
-    "Registrar": "Commercive B.V. Oosterhoogte 3 6861VH Oosterbeek Netherlands SIDN BV",
-    "Abuse Contact": "+31.263397906 abuse@commercive.nl",
+    "Registrar": "Hostable B.V. Oosterhoogte 3 6861VH Oosterbeek Netherlands SIDN BV",
+    "Abuse Contact": "+31.0262062000 misbruik@hostable.nl",
     "DNSSEC": "no",
     "Created Date": "2019-11-10",
-    "Updated Date": "2025-12-03"
+    "Updated Date": "2026-04-21"
   },
   "metadata": {
-    "checkedAt": "2026-04-21T04:09:21.301Z",
+    "checkedAt": "2026-04-22T04:08:04.818Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-04-21T04:09:21.301Z"
+    "dataCompleteness": "minimal"
   }
 }
