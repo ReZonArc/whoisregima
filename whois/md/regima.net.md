@@ -1,7 +1,7 @@
 # WHOIS Record: regima.net
 
-**Last Updated:** 2026-04-24T04:12:17.039Z
-**Checked At:** 2026-04-24T04:12:17.039Z
+**Last Updated:** 2026-04-25T04:04:27.906Z
+**Checked At:** 2026-04-25T04:04:27.906Z
 
 ## WHOIS Information
 
@@ -37,5 +37,5 @@
 
 **URL of the ICANN Whois Inaccuracy Complaint Form:** https://www.icann.org/wicf/
 
-**>>> Last update of whois database:** 2026-04-24T04:11:58Z <<<
+**>>> Last update of whois database:** 2026-04-25T04:04:16Z <<<
 

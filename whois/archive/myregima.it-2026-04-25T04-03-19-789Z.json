@@ -1,0 +1,18 @@
+{
+  "domain": "myregima.it",
+  "lastUpdated": "2026-04-24T04:11:09.908Z",
+  "whoisData": {
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      ""
+    ]
+  },
+  "metadata": {
+    "checkedAt": "2026-04-24T04:11:09.909Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "minimal"
+  }
+}
