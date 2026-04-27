@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.com
 
-**Last Updated:** 2026-04-26T04:19:14.319Z
-**Checked At:** 2026-04-26T04:19:14.319Z
+**Last Updated:** 2026-04-27T04:23:37.491Z
+**Checked At:** 2026-04-27T04:23:37.491Z
 
 ## WHOIS Information
 
@@ -37,5 +37,5 @@
 
 **URL of the ICANN Whois Inaccuracy Complaint Form:** https://www.icann.org/wicf/
 
-**>>> Last update of whois database:** 2026-04-26T04:18:59Z <<<
+**>>> Last update of whois database:** 2026-04-27T04:23:19Z <<<
 
