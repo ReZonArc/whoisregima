@@ -1,7 +1,7 @@
 # WHOIS Record: regima.zone
 
-**Last Updated:** 2026-04-29T04:20:49.151Z
-**Checked At:** 2026-04-29T04:20:49.151Z
+**Last Updated:** 2026-04-30T04:22:46.819Z
+**Checked At:** 2026-04-30T04:22:46.819Z
 
 ## WHOIS Information
 
