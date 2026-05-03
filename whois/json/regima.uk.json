@@ -1,17 +1,13 @@
 {
   "domain": "regima.uk",
-  "lastUpdated": "2026-05-02T04:14:05.922Z",
+  "lastUpdated": "2026-05-03T04:26:36.109Z",
   "whoisData": {
     "Domain Status": [
-      "Renewal required.",
-      "*** This registration has been SUSPENDED. ***"
+      "Registered until expiry date."
     ],
-    "Name Server": [
-      "pdns03.domaincontrol.com",
-      "pdns04.domaincontrol.com"
-    ],
+    "Name Server": [],
     "text": [
-      "WHOIS lookup made at 05:14:05 02-May-2026",
+      "WHOIS lookup made at 05:26:36 03-May-2026",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -28,19 +24,16 @@
       "register. Access may be withdrawn or restricted at any time."
     ],
     "Domain Name": "regima.uk",
-    "Data validation": "Nominet was able to match the registrant's name and address against a 3rd party data source on 18-Feb-2025",
-    "Registrar": "GoDaddy.com, LLC. [Tag = GODADDY]",
-    "Registrar URL": "http://uk.godaddy.com",
-    "Created Date": "27-Jan-2022",
-    "Expiry Date": "27-Jan-2026",
-    "Updated Date": "28-Jan-2025"
+    "Data validation": "Nominet was able to match the registrant's name and address against a 3rd party data source on 09-Nov-2020",
+    "Registrar": "Premkumar Veerabadran t/a sitekart [Tag = PREMKUMARV]",
+    "Created Date": "02-May-2026",
+    "Expiry Date": "02-May-2027"
   },
   "metadata": {
-    "checkedAt": "2026-05-02T04:14:05.922Z",
+    "checkedAt": "2026-05-03T04:26:36.110Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-05-02T04:14:05.922Z"
+    "dataCompleteness": "minimal"
   }
 }

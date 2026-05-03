@@ -1,0 +1,14 @@
+{
+  "domain": "regima.edu",
+  "lastUpdated": "2026-05-02T04:13:17.870Z",
+  "whoisData": {
+    "error": "Timeout"
+  },
+  "metadata": {
+    "checkedAt": "2026-05-02T04:13:17.870Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
