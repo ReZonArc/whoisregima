@@ -1,15 +1,15 @@
 {
   "domain": "myregima.co",
-  "lastUpdated": "2026-05-03T04:24:38.972Z",
+  "lastUpdated": "2026-05-04T04:24:55.426Z",
   "whoisData": {
     "error": "getaddrinfo ENOTFOUND whois.nic.co"
   },
   "metadata": {
-    "checkedAt": "2026-05-03T04:24:38.972Z",
+    "checkedAt": "2026-05-04T04:24:55.427Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2026-05-03T04:24:38.972Z"
+    "refreshedAt": "2026-05-04T04:24:55.427Z"
   }
 }
