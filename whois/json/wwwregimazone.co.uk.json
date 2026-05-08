@@ -1,6 +1,6 @@
 {
   "domain": "wwwregimazone.co.uk",
-  "lastUpdated": "2026-05-07T04:27:01.616Z",
+  "lastUpdated": "2026-05-08T04:15:07.708Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "",
       "This domain name has not been registered.",
       "",
-      "WHOIS lookup made at 05:27:01 07-May-2026",
+      "WHOIS lookup made at 05:15:07 08-May-2026",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -27,11 +27,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-05-07T04:27:01.616Z",
+    "checkedAt": "2026-05-08T04:15:07.709Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-05-07T04:27:01.616Z"
+    "refreshedAt": "2026-05-08T04:15:07.709Z"
   }
 }
