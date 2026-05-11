@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.za
 
-**Last Updated:** 2026-05-10T04:27:58.635Z
-**Checked At:** 2026-05-10T04:27:58.635Z
+**Last Updated:** 2026-05-11T04:33:28.625Z
+**Checked At:** 2026-05-11T04:33:28.625Z
 
 ## WHOIS Information
 
