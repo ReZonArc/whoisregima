@@ -1,13 +1,17 @@
 {
   "domain": "regima.uk",
-  "lastUpdated": "2026-05-11T04:34:46.890Z",
+  "lastUpdated": "2026-05-12T04:23:52.478Z",
   "whoisData": {
     "Domain Status": [
       "Registered until expiry date."
     ],
-    "Name Server": [],
+    "Name Server": [
+      "ns1.afternic.com",
+      "ns2.afternic.com",
+      "verification-kychg6v62cjy2sq3kx5ou5.ns101.verify.hn"
+    ],
     "text": [
-      "WHOIS lookup made at 05:34:46 11-May-2026",
+      "WHOIS lookup made at 05:23:52 12-May-2026",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -27,14 +31,14 @@
     "Data validation": "Nominet was able to match the registrant's name and address against a 3rd party data source on 09-Nov-2020",
     "Registrar": "Premkumar Veerabadran t/a sitekart [Tag = PREMKUMARV]",
     "Created Date": "02-May-2026",
-    "Expiry Date": "02-May-2027"
+    "Expiry Date": "02-May-2027",
+    "Updated Date": "11-May-2026"
   },
   "metadata": {
-    "checkedAt": "2026-05-11T04:34:46.890Z",
+    "checkedAt": "2026-05-12T04:23:52.479Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-05-11T04:34:46.890Z"
+    "dataCompleteness": "minimal"
   }
 }
