@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.be",
-  "lastUpdated": "2026-05-15T06:41:14.683Z",
+  "lastUpdated": "2026-05-16T06:08:25.540Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -46,11 +46,11 @@
     "Domain Name": "regimazone.be"
   },
   "metadata": {
-    "checkedAt": "2026-05-15T06:41:14.683Z",
+    "checkedAt": "2026-05-16T06:08:25.540Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-05-15T06:41:14.683Z"
+    "refreshedAt": "2026-05-16T06:08:25.541Z"
   }
 }

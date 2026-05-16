@@ -1,12 +1,13 @@
 {
   "domain": "regima.org",
-  "lastUpdated": "2026-05-15T06:39:16.772Z",
+  "lastUpdated": "2026-05-16T06:06:27.459Z",
   "whoisData": {
     "Domain Status": [
       "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
       "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
       "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
-      "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+      "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+      "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
     ],
     "Name Server": [
       "pdns08.domaincontrol.com",
@@ -21,23 +22,22 @@
     "Registry Domain ID": "REDACTED",
     "Registrar WHOIS Server": "http://whois.godaddy.com",
     "Registrar URL": "http://www.whois.godaddy.com",
-    "Updated Date": "2025-06-30T05:15:59Z",
+    "Updated Date": "2026-05-16T05:15:49Z",
     "Created Date": "2014-05-16T05:15:09Z",
-    "Expiry Date": "2026-05-16T05:15:09Z",
+    "Expiry Date": "2027-05-16T05:15:09Z",
     "Registrar": "GoDaddy.com, LLC",
     "Registrar IANA ID": "146",
     "Registrar Abuse Contact Email": "abuse@godaddy.com",
     "Registrar Abuse Contact Phone": "+1.4806242505",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://icann.org/wicf/",
-    ">>> Last update of WHOIS database": "2026-05-15T06:39:16Z <<<"
+    ">>> Last update of WHOIS database": "2026-05-16T06:06:27Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-05-15T06:39:16.772Z",
+    "checkedAt": "2026-05-16T06:06:27.459Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-05-15T06:39:16.772Z"
+    "dataCompleteness": "minimal"
   }
 }
