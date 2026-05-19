@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.de",
-  "lastUpdated": "2026-05-18T07:06:03.246Z",
+  "lastUpdated": "2026-05-19T06:57:15.008Z",
   "whoisData": {
     "Domain Status": [
       "free"
@@ -12,11 +12,11 @@
     "Domain Name": "regimazone.de"
   },
   "metadata": {
-    "checkedAt": "2026-05-18T07:06:03.247Z",
+    "checkedAt": "2026-05-19T06:57:15.008Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-05-18T07:06:03.247Z"
+    "refreshedAt": "2026-05-19T06:57:15.009Z"
   }
 }

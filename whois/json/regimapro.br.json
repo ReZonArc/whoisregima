@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.br",
-  "lastUpdated": "2026-05-18T07:03:49.140Z",
+  "lastUpdated": "2026-05-19T06:55:22.826Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "% Privacy Policy at https://registro.br/upp . Distribution,",
       "% commercialization, reproduction, and use for advertising or similar",
       "% purposes are expressly prohibited.",
-      "% 2026-05-18T04:03:49-03:00 - 20.119.78.68",
+      "% 2026-05-19T03:55:22-03:00 - 130.131.237.132",
       "",
       "% No match for regimapro.br",
       "",
@@ -21,11 +21,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-05-18T07:03:49.140Z",
+    "checkedAt": "2026-05-19T06:55:22.827Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-05-18T07:03:49.140Z"
+    "refreshedAt": "2026-05-19T06:55:22.827Z"
   }
 }
