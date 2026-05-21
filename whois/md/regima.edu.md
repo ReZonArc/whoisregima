@@ -1,7 +1,7 @@
 # WHOIS Record: regima.edu
 
-**Last Updated:** 2026-05-20T04:33:48.820Z
-**Checked At:** 2026-05-20T04:33:48.821Z
+**Last Updated:** 2026-05-21T04:36:51.681Z
+**Checked At:** 2026-05-21T04:36:51.682Z
 
 ## WHOIS Information
 
@@ -15,5 +15,5 @@
 
 **URL of the ICANN WHOIS Data Problem Reporting System:** http://wdprs.internic.net/
 
-**>>> Last update of WHOIS database:** 2026-05-20T04:33:48+00:00 <<<
+**>>> Last update of WHOIS database:** 2026-05-21T04:36:51+00:00 <<<
 
