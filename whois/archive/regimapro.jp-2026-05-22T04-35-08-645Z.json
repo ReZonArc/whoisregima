@@ -1,0 +1,14 @@
+{
+  "domain": "regimapro.jp",
+  "lastUpdated": "2026-05-21T04:38:12.682Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2026-05-21T04:38:12.682Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}

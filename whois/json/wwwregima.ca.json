@@ -1,24 +1,14 @@
 {
   "domain": "wwwregima.ca",
-  "lastUpdated": "2026-05-21T04:40:23.815Z",
+  "lastUpdated": "2026-05-22T04:37:22.272Z",
   "whoisData": {
-    "Domain Status": [],
-    "Name Server": [],
-    "text": [
-      "%",
-      "% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal",
-      "% Notice, available at https://www.cira.ca/en/resources/documents/about/website-terms-use",
-      "%",
-      "% (c) 2026 Canadian Internet Registration Authority, (http://www.cira.ca/)"
-    ],
-    "Not found": "wwwregima.ca"
+    "error": "read ECONNRESET"
   },
   "metadata": {
-    "checkedAt": "2026-05-21T04:40:23.815Z",
+    "checkedAt": "2026-05-22T04:37:22.272Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-05-21T04:40:23.815Z"
+    "dataCompleteness": "none"
   }
 }
