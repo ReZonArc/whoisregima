@@ -1,6 +1,6 @@
 {
   "domain": "regima.net",
-  "lastUpdated": "2026-05-22T04:33:49.098Z",
+  "lastUpdated": "2026-05-23T04:23:43.480Z",
   "whoisData": {
     "Domain Status": [
       "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
@@ -53,7 +53,7 @@
     "Registry Domain ID": "1858903967_DOMAIN_NET-VRSN",
     "Registrar WHOIS Server": "whois.godaddy.com",
     "Registrar URL": "http://www.godaddy.com",
-    "Updated Date": "2026-05-21T10:08:50Z",
+    "Updated Date": "2026-05-22T10:10:09Z",
     "Created Date": "2014-05-16T05:15:49Z",
     "Expiry Date": "2027-05-16T05:15:49Z",
     "Registrar": "GoDaddy.com, LLC",
@@ -62,10 +62,10 @@
     "Registrar Abuse Contact Phone": "480-624-2505",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-05-22T04:33:38Z <<<"
+    ">>> Last update of whois database": "2026-05-23T04:23:26Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-05-22T04:33:49.098Z",
+    "checkedAt": "2026-05-23T04:23:43.480Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,

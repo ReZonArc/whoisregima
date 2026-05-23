@@ -1,0 +1,14 @@
+{
+  "domain": "regimapro.ca",
+  "lastUpdated": "2026-05-22T04:34:29.920Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2026-05-22T04:34:29.920Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}

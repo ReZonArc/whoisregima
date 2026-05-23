@@ -1,15 +1,15 @@
 {
   "domain": "regimaskin.in",
-  "lastUpdated": "2026-05-22T04:36:00.225Z",
+  "lastUpdated": "2026-05-23T04:25:33.504Z",
   "whoisData": {
     "error": "getaddrinfo ENOTFOUND whois.registry.in"
   },
   "metadata": {
-    "checkedAt": "2026-05-22T04:36:00.226Z",
+    "checkedAt": "2026-05-23T04:25:33.505Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2026-05-22T04:36:00.226Z"
+    "refreshedAt": "2026-05-23T04:25:33.505Z"
   }
 }

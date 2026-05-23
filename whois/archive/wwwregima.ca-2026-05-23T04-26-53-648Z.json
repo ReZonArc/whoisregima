@@ -1,0 +1,14 @@
+{
+  "domain": "wwwregima.ca",
+  "lastUpdated": "2026-05-22T04:37:22.272Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2026-05-22T04:37:22.272Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}

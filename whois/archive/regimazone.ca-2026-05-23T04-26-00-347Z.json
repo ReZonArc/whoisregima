@@ -1,0 +1,14 @@
+{
+  "domain": "regimazone.ca",
+  "lastUpdated": "2026-05-22T04:36:27.352Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2026-05-22T04:36:27.352Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
