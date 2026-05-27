@@ -1,7 +1,7 @@
 # WHOIS Record: regima.co
 
-**Last Updated:** 2026-05-26T04:32:40.055Z
-**Checked At:** 2026-05-26T04:32:40.055Z
+**Last Updated:** 2026-05-27T04:37:30.440Z
+**Checked At:** 2026-05-27T04:37:30.440Z
 
 ## WHOIS Information
 
