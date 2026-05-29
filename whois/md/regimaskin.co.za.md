@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.co.za
 
-**Last Updated:** 2026-05-28T04:36:55.288Z
-**Checked At:** 2026-05-28T04:36:55.288Z
+**Last Updated:** 2026-05-29T04:38:17.384Z
+**Checked At:** 2026-05-29T04:38:17.384Z
 
 ## WHOIS Information
 
