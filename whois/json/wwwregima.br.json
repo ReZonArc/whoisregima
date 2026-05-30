@@ -1,6 +1,6 @@
 {
   "domain": "wwwregima.br",
-  "lastUpdated": "2026-05-29T04:40:06.451Z",
+  "lastUpdated": "2026-05-30T04:32:45.829Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "% Privacy Policy at https://registro.br/upp . Distribution,",
       "% commercialization, reproduction, and use for advertising or similar",
       "% purposes are expressly prohibited.",
-      "% 2026-05-29T01:40:06-03:00 - 52.234.1.97",
+      "% 2026-05-30T01:32:45-03:00 - 64.236.200.226",
       "",
       "% No match for wwwregima.br",
       "",
@@ -21,11 +21,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-05-29T04:40:06.452Z",
+    "checkedAt": "2026-05-30T04:32:45.830Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-05-29T04:40:06.452Z"
+    "refreshedAt": "2026-05-30T04:32:45.830Z"
   }
 }
