@@ -1,15 +1,15 @@
 {
   "domain": "regimapro.co",
-  "lastUpdated": "2026-05-31T04:38:55.746Z",
+  "lastUpdated": "2026-06-01T04:42:26.028Z",
   "whoisData": {
     "error": "getaddrinfo ENOTFOUND whois.nic.co"
   },
   "metadata": {
-    "checkedAt": "2026-05-31T04:38:55.746Z",
+    "checkedAt": "2026-06-01T04:42:26.028Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2026-05-31T04:38:55.746Z"
+    "refreshedAt": "2026-06-01T04:42:26.028Z"
   }
 }

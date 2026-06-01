@@ -1,11 +1,11 @@
 {
-  "domain": "regima.es",
-  "lastUpdated": "2026-06-01T04:41:29.026Z",
+  "domain": "myregima.es",
+  "lastUpdated": "2026-05-31T04:36:55.898Z",
   "whoisData": {
     "error": "connect ECONNREFUSED 54.72.161.36:43"
   },
   "metadata": {
-    "checkedAt": "2026-06-01T04:41:29.026Z",
+    "checkedAt": "2026-05-31T04:36:55.898Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
