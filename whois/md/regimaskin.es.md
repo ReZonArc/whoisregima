@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.es
 
-**Last Updated:** 2026-06-02T04:40:03.678Z
-**Checked At:** 2026-06-02T04:40:03.679Z
+**Last Updated:** 2026-06-03T04:40:48.974Z
+**Checked At:** 2026-06-03T04:40:48.975Z
 
 ## WHOIS Information
 

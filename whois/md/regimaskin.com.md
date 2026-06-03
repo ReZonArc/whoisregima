@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.com
 
-**Last Updated:** 2026-06-02T04:39:57.368Z
-**Checked At:** 2026-06-02T04:39:57.369Z
+**Last Updated:** 2026-06-03T04:40:42.425Z
+**Checked At:** 2026-06-03T04:40:42.426Z
 
 ## WHOIS Information
 
@@ -37,5 +37,5 @@
 
 **URL of the ICANN Whois Inaccuracy Complaint Form:** https://www.icann.org/wicf/
 
-**>>> Last update of whois database:** 2026-06-02T04:39:45Z <<<
+**>>> Last update of whois database:** 2026-06-03T04:40:15Z <<<
 
