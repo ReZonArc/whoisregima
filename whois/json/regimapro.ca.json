@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.ca",
-  "lastUpdated": "2026-06-04T04:38:50.653Z",
+  "lastUpdated": "2026-06-05T04:38:12.063Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -14,11 +14,11 @@
     "Not found": "regimapro.ca"
   },
   "metadata": {
-    "checkedAt": "2026-06-04T04:38:50.654Z",
+    "checkedAt": "2026-06-05T04:38:12.064Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-06-04T04:38:50.654Z"
+    "refreshedAt": "2026-06-05T04:38:12.064Z"
   }
 }
