@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.it
 
-**Last Updated:** 2026-06-05T04:41:11.047Z
-**Checked At:** 2026-06-05T04:41:11.048Z
+**Last Updated:** 2026-06-06T04:34:06.084Z
+**Checked At:** 2026-06-06T04:34:06.084Z
 
 ## WHOIS Information
 
