@@ -1,0 +1,14 @@
+{
+  "domain": "regimaskin.nl",
+  "lastUpdated": "2026-06-06T04:32:16.802Z",
+  "whoisData": {
+    "error": "Timeout"
+  },
+  "metadata": {
+    "checkedAt": "2026-06-06T04:32:16.802Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
