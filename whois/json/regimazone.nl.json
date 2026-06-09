@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.nl",
-  "lastUpdated": "2026-06-08T04:42:44.151Z",
+  "lastUpdated": "2026-06-09T04:35:45.484Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,11 +9,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-06-08T04:42:44.151Z",
+    "checkedAt": "2026-06-09T04:35:45.485Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-06-08T04:42:44.152Z"
+    "refreshedAt": "2026-06-09T04:35:45.485Z"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "domain": "regimaskin.jp",
+  "lastUpdated": "2026-06-08T04:41:48.153Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2026-06-08T04:41:48.153Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
