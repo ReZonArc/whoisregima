@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.be
 
-**Last Updated:** 2026-06-10T04:40:19.340Z
-**Checked At:** 2026-06-10T04:40:19.340Z
+**Last Updated:** 2026-06-11T04:40:51.824Z
+**Checked At:** 2026-06-11T04:40:51.824Z
 
 ## WHOIS Information
 

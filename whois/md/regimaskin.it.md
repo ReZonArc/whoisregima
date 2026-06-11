@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.it
 
-**Last Updated:** 2026-06-10T04:39:53.187Z
-**Checked At:** 2026-06-10T04:39:53.188Z
+**Last Updated:** 2026-06-11T04:40:30.297Z
+**Checked At:** 2026-06-11T04:40:30.297Z
 
 ## WHOIS Information
 
