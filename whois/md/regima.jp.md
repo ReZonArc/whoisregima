@@ -1,13 +1,9 @@
 # WHOIS Record: regima.jp
 
-**Last Updated:** 2026-06-12T04:38:24.118Z
-**Checked At:** 2026-06-12T04:38:24.118Z
+**Last Updated:** 2026-06-13T07:04:23.206Z
+**Checked At:** 2026-06-13T07:04:23.206Z
 
 ## WHOIS Information
 
-**Domain Status:** 
-
-**Name Server:** 
-
-**text:** undefined, - All of registered JP domain name, - gTLD domain name of which sponsoring registrar is JPRS, - JPNIC WHOIS (whois.nic.ad.jp), - APNIC WHOIS (whois.apnic.net), - ARIN WHOIS (whois.arin.net), - RIPE WHOIS (whois.ripe.net), - LACNIC WHOIS (whois.lacnic.net), - AfriNIC WHOIS (whois.afrinic.net)
+**error:** read ECONNRESET
 
