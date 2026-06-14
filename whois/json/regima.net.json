@@ -1,6 +1,6 @@
 {
   "domain": "regima.net",
-  "lastUpdated": "2026-06-13T07:04:25.257Z",
+  "lastUpdated": "2026-06-14T07:54:06.827Z",
   "whoisData": {
     "Domain Status": [
       "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
@@ -62,14 +62,14 @@
     "Registrar Abuse Contact Phone": "480-624-2505",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-06-13T07:04:10Z <<<"
+    ">>> Last update of whois database": "2026-06-14T07:53:58Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-06-13T07:04:25.258Z",
+    "checkedAt": "2026-06-14T07:54:06.828Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-06-13T07:04:25.258Z"
+    "refreshedAt": "2026-06-14T07:54:06.828Z"
   }
 }
