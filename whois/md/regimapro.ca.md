@@ -1,7 +1,7 @@
 # WHOIS Record: regimapro.ca
 
-**Last Updated:** 2026-06-14T07:54:45.045Z
-**Checked At:** 2026-06-14T07:54:45.046Z
+**Last Updated:** 2026-06-15T09:31:52.240Z
+**Checked At:** 2026-06-15T09:31:52.240Z
 
 ## WHOIS Information
 
