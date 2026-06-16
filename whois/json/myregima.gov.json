@@ -1,6 +1,6 @@
 {
   "domain": "myregima.gov",
-  "lastUpdated": "2026-06-15T09:30:00.605Z",
+  "lastUpdated": "2026-06-16T08:50:54.968Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -18,14 +18,14 @@
       "unlawful behavior. We reserve the right to restrict or deny your access to",
       "the WHOIS database, and may modify these terms at any time."
     ],
-    ">>> Last update of WHOIS database": "2026-06-15T09:30:00Z <<<"
+    ">>> Last update of WHOIS database": "2026-06-16T08:50:54Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-06-15T09:30:00.605Z",
+    "checkedAt": "2026-06-16T08:50:54.968Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-06-15T09:30:00.605Z"
+    "refreshedAt": "2026-06-16T08:50:54.969Z"
   }
 }

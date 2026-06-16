@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.edu
 
-**Last Updated:** 2026-06-15T09:33:43.059Z
-**Checked At:** 2026-06-15T09:33:43.059Z
+**Last Updated:** 2026-06-16T08:55:17.248Z
+**Checked At:** 2026-06-16T08:55:17.248Z
 
 ## WHOIS Information
 
@@ -15,5 +15,5 @@
 
 **URL of the ICANN WHOIS Data Problem Reporting System:** http://wdprs.internic.net/
 
-**>>> Last update of WHOIS database:** 2026-06-15T09:33:43+00:00 <<<
+**>>> Last update of WHOIS database:** 2026-06-16T08:55:17+00:00 <<<
 
