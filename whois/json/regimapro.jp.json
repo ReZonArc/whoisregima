@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.jp",
-  "lastUpdated": "2026-06-20T04:37:26.977Z",
+  "lastUpdated": "2026-06-21T04:41:32.308Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -17,11 +17,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-06-20T04:37:26.978Z",
+    "checkedAt": "2026-06-21T04:41:32.309Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-06-20T04:37:26.978Z"
+    "refreshedAt": "2026-06-21T04:41:32.309Z"
   }
 }

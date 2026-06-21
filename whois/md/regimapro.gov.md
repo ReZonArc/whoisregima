@@ -1,7 +1,7 @@
 # WHOIS Record: regimapro.gov
 
-**Last Updated:** 2026-06-20T04:37:20.041Z
-**Checked At:** 2026-06-20T04:37:20.041Z
+**Last Updated:** 2026-06-21T04:41:25.599Z
+**Checked At:** 2026-06-21T04:41:25.600Z
 
 ## WHOIS Information
 
@@ -11,5 +11,5 @@
 
 **text:** Domain not found., , WHOIS information is provided by the registry solely for query-based,, informational purposes. Any information provided is "as is" without any, guarantee of accuracy. You may not use such information to (a) allow,, enable, or otherwise support the transmission of mass unsolicited,, commercial advertising or solicitations; (b) enable high volume, automated,, electronic processes that access the registry's systems or any, ICANN-Accredited Registrar, except as reasonably necessary to register, domain names or modify existing registrations; or (c) engage in or support, unlawful behavior. We reserve the right to restrict or deny your access to, the WHOIS database, and may modify these terms at any time.
 
-**>>> Last update of WHOIS database:** 2026-06-20T04:37:20Z <<<
+**>>> Last update of WHOIS database:** 2026-06-21T04:41:25Z <<<
 
