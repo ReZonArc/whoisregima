@@ -1,12 +1,12 @@
 {
   "domain": "regimazone.eu",
-  "lastUpdated": "2026-06-21T04:43:19.468Z",
+  "lastUpdated": "2026-06-22T04:44:15.888Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [
       "ns-cloud-a3.googledomains.com",
-      "ns-cloud-a4.googledomains.com",
       "ns-cloud-a2.googledomains.com",
+      "ns-cloud-a4.googledomains.com",
       "ns-cloud-a1.googledomains.com"
     ],
     "text": [
@@ -64,7 +64,7 @@
     "Registrar URL": "http://www.tucows.com"
   },
   "metadata": {
-    "checkedAt": "2026-06-21T04:43:19.469Z",
+    "checkedAt": "2026-06-22T04:44:15.889Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,

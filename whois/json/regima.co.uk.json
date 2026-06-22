@@ -1,6 +1,6 @@
 {
   "domain": "regima.co.uk",
-  "lastUpdated": "2026-06-21T04:39:35.939Z",
+  "lastUpdated": "2026-06-22T04:40:46.346Z",
   "whoisData": {
     "Domain Status": [
       "Registered until expiry date."
@@ -11,7 +11,7 @@
       "ns2.host-h.net"
     ],
     "text": [
-      "WHOIS lookup made at 05:39:35 21-Jun-2026",
+      "WHOIS lookup made at 05:40:46 22-Jun-2026",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -32,15 +32,14 @@
     "Registrar": "Tucows Inc t/a Tucows [Tag = TUCOWS-CA]",
     "Registrar URL": "https://www.tucowsdomains.com",
     "Created Date": "21-Jul-2006",
-    "Expiry Date": "21-Jul-2026",
-    "Updated Date": "22-Jun-2024"
+    "Expiry Date": "21-Jul-2028",
+    "Updated Date": "22-Jun-2026"
   },
   "metadata": {
-    "checkedAt": "2026-06-21T04:39:35.940Z",
+    "checkedAt": "2026-06-22T04:40:46.347Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-06-21T04:39:35.940Z"
+    "dataCompleteness": "minimal"
   }
 }

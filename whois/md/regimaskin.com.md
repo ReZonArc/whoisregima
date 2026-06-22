@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.com
 
-**Last Updated:** 2026-06-21T04:42:04.257Z
-**Checked At:** 2026-06-21T04:42:04.258Z
+**Last Updated:** 2026-06-22T04:43:03.899Z
+**Checked At:** 2026-06-22T04:43:03.899Z
 
 ## WHOIS Information
 
@@ -19,11 +19,11 @@
 
 **Registrar URL:** http://www.domains.co.za
 
-**Updated Date:** 2025-06-20T13:16:46Z
+**Updated Date:** 2026-06-21T08:22:55Z
 
 **Created Date:** 2025-06-20T13:16:46Z
 
-**Expiry Date:** 2026-06-20T13:16:46Z
+**Expiry Date:** 2027-06-20T13:16:46Z
 
 **Registrar:** Diamatrix C.C.
 
@@ -37,5 +37,5 @@
 
 **URL of the ICANN Whois Inaccuracy Complaint Form:** https://www.icann.org/wicf/
 
-**>>> Last update of whois database:** 2026-06-21T04:41:55Z <<<
+**>>> Last update of whois database:** 2026-06-22T04:42:45Z <<<
 
