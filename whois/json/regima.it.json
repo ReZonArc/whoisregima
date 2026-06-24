@@ -1,6 +1,6 @@
 {
   "domain": "regima.it",
-  "lastUpdated": "2026-06-23T04:30:44.202Z",
+  "lastUpdated": "2026-06-24T04:32:59.060Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -12,11 +12,11 @@
     "Domain Name": "regima.it"
   },
   "metadata": {
-    "checkedAt": "2026-06-23T04:30:44.203Z",
+    "checkedAt": "2026-06-24T04:32:59.060Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-06-23T04:30:44.203Z"
+    "refreshedAt": "2026-06-24T04:32:59.060Z"
   }
 }

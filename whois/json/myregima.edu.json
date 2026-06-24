@@ -1,6 +1,6 @@
 {
   "domain": "myregima.edu",
-  "lastUpdated": "2026-06-23T04:29:27.655Z",
+  "lastUpdated": "2026-06-24T04:31:40.937Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -11,14 +11,14 @@
     ],
     "Domain Name": "myregima.edu",
     "URL of the ICANN WHOIS Data Problem Reporting System": "http://wdprs.internic.net/",
-    ">>> Last update of WHOIS database": "2026-06-23T04:29:27+00:00 <<<"
+    ">>> Last update of WHOIS database": "2026-06-24T04:31:40+00:00 <<<"
   },
   "metadata": {
-    "checkedAt": "2026-06-23T04:29:27.655Z",
+    "checkedAt": "2026-06-24T04:31:40.937Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-06-23T04:29:27.656Z"
+    "refreshedAt": "2026-06-24T04:31:40.937Z"
   }
 }
