@@ -1,0 +1,14 @@
+{
+  "domain": "myregima.eu",
+  "lastUpdated": "2026-06-24T04:31:45.963Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2026-06-24T04:31:45.964Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
