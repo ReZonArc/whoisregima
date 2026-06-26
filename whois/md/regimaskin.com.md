@@ -1,11 +1,11 @@
 # WHOIS Record: regimaskin.com
 
-**Last Updated:** 2026-06-25T04:34:00.168Z
-**Checked At:** 2026-06-25T04:34:00.169Z
+**Last Updated:** 2026-06-26T04:37:28.331Z
+**Checked At:** 2026-06-26T04:37:28.331Z
 
 ## WHOIS Information
 
-**Domain Status:** clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+**Domain Status:** clientHold https://icann.org/epp#clientHold, clientTransferProhibited https://icann.org/epp#clientTransferProhibited
 
 **Name Server:** NS1.TLD-NS.NET, NS2.TLD-NS.COM, NS3.TLD-NS.NET, NS4.TLD-NS.COM
 
@@ -19,7 +19,7 @@
 
 **Registrar URL:** http://www.domains.co.za
 
-**Updated Date:** 2026-06-21T08:22:55Z
+**Updated Date:** 2026-06-25T13:17:41Z
 
 **Created Date:** 2025-06-20T13:16:46Z
 
@@ -37,5 +37,5 @@
 
 **URL of the ICANN Whois Inaccuracy Complaint Form:** https://www.icann.org/wicf/
 
-**>>> Last update of whois database:** 2026-06-25T04:33:47Z <<<
+**>>> Last update of whois database:** 2026-06-26T04:37:17Z <<<
 
