@@ -1,7 +1,7 @@
 # WHOIS Record: regimapro.edu
 
-**Last Updated:** 2026-06-27T04:29:49.236Z
-**Checked At:** 2026-06-27T04:29:49.237Z
+**Last Updated:** 2026-06-28T04:39:39.352Z
+**Checked At:** 2026-06-28T04:39:39.352Z
 
 ## WHOIS Information
 
@@ -15,5 +15,5 @@
 
 **URL of the ICANN WHOIS Data Problem Reporting System:** http://wdprs.internic.net/
 
-**>>> Last update of WHOIS database:** 2026-06-27T04:29:49+00:00 <<<
+**>>> Last update of WHOIS database:** 2026-06-28T04:39:39+00:00 <<<
 
