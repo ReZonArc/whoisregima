@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.gov
 
-**Last Updated:** 2026-06-28T04:41:09.123Z
-**Checked At:** 2026-06-28T04:41:09.123Z
+**Last Updated:** 2026-06-29T04:42:47.658Z
+**Checked At:** 2026-06-29T04:42:47.658Z
 
 ## WHOIS Information
 
