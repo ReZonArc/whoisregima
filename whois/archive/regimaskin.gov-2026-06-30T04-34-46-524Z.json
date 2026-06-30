@@ -1,0 +1,15 @@
+{
+  "domain": "regimaskin.gov",
+  "lastUpdated": "2026-06-29T04:42:47.658Z",
+  "whoisData": {
+    "error": "Timeout"
+  },
+  "metadata": {
+    "checkedAt": "2026-06-29T04:42:47.658Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none",
+    "refreshedAt": "2026-06-29T04:42:47.658Z"
+  }
+}
