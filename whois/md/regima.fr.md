@@ -1,7 +1,7 @@
 # WHOIS Record: regima.fr
 
-**Last Updated:** 2026-06-30T04:32:48.243Z
-**Checked At:** 2026-06-30T04:32:48.243Z
+**Last Updated:** 2026-07-01T04:39:47.242Z
+**Checked At:** 2026-07-01T04:39:47.242Z
 
 ## WHOIS Information
 
@@ -11,5 +11,5 @@
 
 **text:** %%, %% This is the AFNIC Whois server., %%, %% complete date format: YYYY-MM-DDThh:mm:ssZ, %%, %% Rights restricted by copyright., %% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/, %%, %%, %% NOT FOUND
 
-**>>> Last update of WHOIS database:** 2026-06-30T04:32:48.193402Z <<<
+**>>> Last update of WHOIS database:** 2026-07-01T04:39:47.191135Z <<<
 

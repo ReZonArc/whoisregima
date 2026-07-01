@@ -1,11 +1,11 @@
 # WHOIS Record: regima.org
 
-**Last Updated:** 2026-06-30T04:33:12.883Z
-**Checked At:** 2026-06-30T04:33:12.883Z
+**Last Updated:** 2026-07-01T04:40:12.291Z
+**Checked At:** 2026-07-01T04:40:12.292Z
 
 ## WHOIS Information
 
-**Domain Status:** clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited, clientRenewProhibited https://icann.org/epp#clientRenewProhibited, clientTransferProhibited https://icann.org/epp#clientTransferProhibited, clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited, autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+**Domain Status:** clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited, clientRenewProhibited https://icann.org/epp#clientRenewProhibited, clientTransferProhibited https://icann.org/epp#clientTransferProhibited, clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
 
 **Name Server:** pdns08.domaincontrol.com, pdns07.domaincontrol.com
 
@@ -19,7 +19,7 @@
 
 **Registrar URL:** http://www.whois.godaddy.com
 
-**Updated Date:** 2026-05-22T10:10:09Z
+**Updated Date:** 2026-06-30T05:15:44Z
 
 **Created Date:** 2014-05-16T05:15:09Z
 
@@ -37,5 +37,5 @@
 
 **URL of the ICANN Whois Inaccuracy Complaint Form:** https://icann.org/wicf/
 
-**>>> Last update of WHOIS database:** 2026-06-30T04:33:12Z <<<
+**>>> Last update of WHOIS database:** 2026-07-01T04:40:12Z <<<
 
