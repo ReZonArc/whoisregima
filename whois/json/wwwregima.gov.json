@@ -1,14 +1,15 @@
 {
   "domain": "wwwregima.gov",
-  "lastUpdated": "2026-07-05T04:34:54.695Z",
+  "lastUpdated": "2026-07-06T04:40:46.688Z",
   "whoisData": {
     "error": "Timeout"
   },
   "metadata": {
-    "checkedAt": "2026-07-05T04:34:54.695Z",
+    "checkedAt": "2026-07-06T04:40:46.688Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "none"
+    "dataCompleteness": "none",
+    "refreshedAt": "2026-07-06T04:40:46.688Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "domain": "regima.co.uk",
-  "lastUpdated": "2026-07-05T04:29:43.829Z",
+  "lastUpdated": "2026-07-06T04:35:15.265Z",
   "whoisData": {
     "Domain Status": [
       "Registered until expiry date."
@@ -11,7 +11,7 @@
       "ns2.host-h.net"
     ],
     "text": [
-      "WHOIS lookup made at 05:29:43 05-Jul-2026",
+      "WHOIS lookup made at 05:35:15 06-Jul-2026",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -36,11 +36,11 @@
     "Updated Date": "22-Jun-2026"
   },
   "metadata": {
-    "checkedAt": "2026-07-05T04:29:43.830Z",
+    "checkedAt": "2026-07-06T04:35:15.266Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-05T04:29:43.830Z"
+    "refreshedAt": "2026-07-06T04:35:15.266Z"
   }
 }
