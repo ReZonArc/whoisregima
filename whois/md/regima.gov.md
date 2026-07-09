@@ -1,7 +1,7 @@
 # WHOIS Record: regima.gov
 
-**Last Updated:** 2026-07-08T04:09:02.102Z
-**Checked At:** 2026-07-08T04:09:02.103Z
+**Last Updated:** 2026-07-09T04:26:03.251Z
+**Checked At:** 2026-07-09T04:26:03.251Z
 
 ## WHOIS Information
 

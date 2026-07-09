@@ -1,7 +1,7 @@
 # WHOIS Record: regima.ca
 
-**Last Updated:** 2026-07-08T04:08:21.153Z
-**Checked At:** 2026-07-08T04:08:21.154Z
+**Last Updated:** 2026-07-09T04:25:21.689Z
+**Checked At:** 2026-07-09T04:25:21.689Z
 
 ## WHOIS Information
 

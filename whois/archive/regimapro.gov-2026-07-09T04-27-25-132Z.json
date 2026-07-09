@@ -1,0 +1,19 @@
+{
+  "domain": "regimapro.gov",
+  "lastUpdated": "2026-07-08T04:10:16.630Z",
+  "whoisData": {
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      ""
+    ]
+  },
+  "metadata": {
+    "checkedAt": "2026-07-08T04:10:16.630Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "minimal",
+    "refreshedAt": "2026-07-08T04:10:16.630Z"
+  }
+}
