@@ -1,7 +1,7 @@
 # WHOIS Record: regima.nl
 
-**Last Updated:** 2026-07-09T04:26:24.515Z
-**Checked At:** 2026-07-09T04:26:24.516Z
+**Last Updated:** 2026-07-10T04:27:37.193Z
+**Checked At:** 2026-07-10T04:27:37.193Z
 
 ## WHOIS Information
 
