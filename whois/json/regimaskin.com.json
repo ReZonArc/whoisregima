@@ -1,10 +1,11 @@
 {
   "domain": "regimaskin.com",
-  "lastUpdated": "2026-07-10T04:29:00.847Z",
+  "lastUpdated": "2026-07-11T04:10:01.613Z",
   "whoisData": {
     "Domain Status": [
       "clientHold https://icann.org/epp#clientHold",
-      "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+      "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+      "redemptionPeriod https://icann.org/epp#redemptionPeriod"
     ],
     "Name Server": [
       "NS1.TLD-NS.NET",
@@ -53,23 +54,22 @@
     "Registry Domain ID": "2993337375_DOMAIN_COM-VRSN",
     "Registrar WHOIS Server": "whois.domains.co.za",
     "Registrar URL": "http://www.domains.co.za",
-    "Updated Date": "2026-06-25T13:17:41Z",
+    "Updated Date": "2026-07-10T13:17:37Z",
     "Created Date": "2025-06-20T13:16:46Z",
-    "Expiry Date": "2027-06-20T13:16:46Z",
+    "Expiry Date": "2026-06-20T13:16:46Z",
     "Registrar": "Diamatrix C.C.",
     "Registrar IANA ID": "1645",
     "Registrar Abuse Contact Email": "abuse@domains.co.za",
     "Registrar Abuse Contact Phone": "+27.116409700",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-07-10T04:28:40Z <<<"
+    ">>> Last update of whois database": "2026-07-11T04:09:54Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-07-10T04:29:00.847Z",
+    "checkedAt": "2026-07-11T04:10:01.614Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-10T04:29:00.848Z"
+    "dataCompleteness": "minimal"
   }
 }

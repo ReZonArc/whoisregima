@@ -1,11 +1,11 @@
 # WHOIS Record: regimaskin.com
 
-**Last Updated:** 2026-07-10T04:29:00.847Z
-**Checked At:** 2026-07-10T04:29:00.847Z
+**Last Updated:** 2026-07-11T04:10:01.613Z
+**Checked At:** 2026-07-11T04:10:01.614Z
 
 ## WHOIS Information
 
-**Domain Status:** clientHold https://icann.org/epp#clientHold, clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+**Domain Status:** clientHold https://icann.org/epp#clientHold, clientTransferProhibited https://icann.org/epp#clientTransferProhibited, redemptionPeriod https://icann.org/epp#redemptionPeriod
 
 **Name Server:** NS1.TLD-NS.NET, NS2.TLD-NS.COM, NS3.TLD-NS.NET, NS4.TLD-NS.COM
 
@@ -19,11 +19,11 @@
 
 **Registrar URL:** http://www.domains.co.za
 
-**Updated Date:** 2026-06-25T13:17:41Z
+**Updated Date:** 2026-07-10T13:17:37Z
 
 **Created Date:** 2025-06-20T13:16:46Z
 
-**Expiry Date:** 2027-06-20T13:16:46Z
+**Expiry Date:** 2026-06-20T13:16:46Z
 
 **Registrar:** Diamatrix C.C.
 
@@ -37,5 +37,5 @@
 
 **URL of the ICANN Whois Inaccuracy Complaint Form:** https://www.icann.org/wicf/
 
-**>>> Last update of whois database:** 2026-07-10T04:28:40Z <<<
+**>>> Last update of whois database:** 2026-07-11T04:09:54Z <<<
 

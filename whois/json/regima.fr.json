@@ -1,6 +1,6 @@
 {
   "domain": "regima.fr",
-  "lastUpdated": "2026-07-10T04:27:14.434Z",
+  "lastUpdated": "2026-07-11T04:07:54.147Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -16,14 +16,14 @@
       "%%",
       "%% NOT FOUND"
     ],
-    ">>> Last update of WHOIS database": "2026-07-10T04:27:14.359099Z <<<"
+    ">>> Last update of WHOIS database": "2026-07-11T04:07:54.087481Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-07-10T04:27:14.434Z",
+    "checkedAt": "2026-07-11T04:07:54.148Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-10T04:27:14.434Z"
+    "refreshedAt": "2026-07-11T04:07:54.148Z"
   }
 }
