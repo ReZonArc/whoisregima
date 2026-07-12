@@ -1,0 +1,14 @@
+{
+  "domain": "regimapro.gov",
+  "lastUpdated": "2026-07-11T04:09:20.883Z",
+  "whoisData": {
+    "error": "Timeout"
+  },
+  "metadata": {
+    "checkedAt": "2026-07-11T04:09:20.884Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
