@@ -1,6 +1,6 @@
 {
-  "domain": "regimaskin.es",
-  "lastUpdated": "2026-07-14T05:40:13.032Z",
+  "domain": "wwwregima.es",
+  "lastUpdated": "2026-07-13T06:30:41.895Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -40,11 +40,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-07-14T05:40:13.032Z",
+    "checkedAt": "2026-07-13T06:30:41.896Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-14T05:40:13.032Z"
+    "refreshedAt": "2026-07-13T06:30:41.896Z"
   }
 }
