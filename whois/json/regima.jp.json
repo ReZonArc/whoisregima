@@ -1,6 +1,6 @@
 {
   "domain": "regima.jp",
-  "lastUpdated": "2026-07-15T05:39:32.367Z",
+  "lastUpdated": "2026-07-16T05:47:24.240Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -17,11 +17,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-07-15T05:39:32.368Z",
+    "checkedAt": "2026-07-16T05:47:24.240Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-15T05:39:32.368Z"
+    "refreshedAt": "2026-07-16T05:47:24.240Z"
   }
 }
