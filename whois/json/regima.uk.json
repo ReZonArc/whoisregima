@@ -1,6 +1,6 @@
 {
   "domain": "regima.uk",
-  "lastUpdated": "2026-07-16T05:47:51.787Z",
+  "lastUpdated": "2026-07-17T05:49:00.753Z",
   "whoisData": {
     "Domain Status": [
       "Registered until expiry date."
@@ -11,7 +11,13 @@
       "verification-kychg6v62cjy2sq3kx5ou5.ns101.verify.hn"
     ],
     "text": [
-      "WHOIS lookup made at 06:47:51 16-Jul-2026",
+      "WHOIS lookup made at 06:49:00 17-Jul-2026",
+      "",
+      "********************************************************************************",
+      "* WHOIS service for .UK will cease on 9th of February 2027                     *",
+      "* For more information on the replacement RDAP services please see:            *",
+      "* https://theukdomain.uk/rdap                                                  *",
+      "********************************************************************************",
       "",
       "--",
       "This WHOIS information is provided for free by Nominet UK the central registry",
@@ -35,11 +41,11 @@
     "Updated Date": "11-May-2026"
   },
   "metadata": {
-    "checkedAt": "2026-07-16T05:47:51.788Z",
+    "checkedAt": "2026-07-17T05:49:00.754Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-16T05:47:51.788Z"
+    "refreshedAt": "2026-07-17T05:49:00.754Z"
   }
 }
