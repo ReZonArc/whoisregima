@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.uk",
-  "lastUpdated": "2026-07-18T05:36:23.121Z",
+  "lastUpdated": "2026-07-19T06:07:51.810Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "",
       "This domain name has not been registered.",
       "",
-      "WHOIS lookup made at 06:36:23 18-Jul-2026",
+      "WHOIS lookup made at 07:07:51 19-Jul-2026",
       "",
       "********************************************************************************",
       "* WHOIS service for .UK will cease on 9th of February 2027                     *",
@@ -33,11 +33,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-07-18T05:36:23.122Z",
+    "checkedAt": "2026-07-19T06:07:51.810Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-18T05:36:23.122Z"
+    "refreshedAt": "2026-07-19T06:07:51.811Z"
   }
 }
