@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.uk
 
-**Last Updated:** 2026-07-22T05:58:51.450Z
-**Checked At:** 2026-07-22T05:58:51.451Z
+**Last Updated:** 2026-07-23T06:10:00.824Z
+**Checked At:** 2026-07-23T06:10:00.825Z
 
 ## WHOIS Information
 
@@ -9,5 +9,5 @@
 
 **Name Server:** 
 
-**text:** No match for "regimaskin.uk"., , This domain name has not been registered., , WHOIS lookup made at 06:58:51 22-Jul-2026, , ********************************************************************************, * WHOIS service for .UK will cease on 9th of February 2027                     *, * For more information on the replacement RDAP services please see:            *, * https://theukdomain.uk/rdap                                                  *, ********************************************************************************, , --, This WHOIS information is provided for free by Nominet UK the central registry, for .uk domain names. This information and the .uk WHOIS are:, , Copyright Nominet UK 1996 - 2026., , You may not access the .uk WHOIS or use any data from it except as permitted, by the terms of use available in full at https://www.nominet.uk/whoisterms,, which includes restrictions on: (A) use of the data for advertising, or its, repackaging, recompilation, redistribution or reuse (B) obscuring, removing, or hiding any or all of this notice and (C) exceeding query rate or volume, limits. The data is provided on an 'as-is' basis and may lag behind the, register. Access may be withdrawn or restricted at any time.
+**text:** No match for "regimaskin.uk"., , This domain name has not been registered., , WHOIS lookup made at 07:10:00 23-Jul-2026, , ********************************************************************************, * WHOIS service for .UK will cease on 9th of February 2027                     *, * For more information on the replacement RDAP services please see:            *, * https://theukdomain.uk/rdap                                                  *, ********************************************************************************, , --, This WHOIS information is provided for free by Nominet UK the central registry, for .uk domain names. This information and the .uk WHOIS are:, , Copyright Nominet UK 1996 - 2026., , You may not access the .uk WHOIS or use any data from it except as permitted, by the terms of use available in full at https://www.nominet.uk/whoisterms,, which includes restrictions on: (A) use of the data for advertising, or its, repackaging, recompilation, redistribution or reuse (B) obscuring, removing, or hiding any or all of this notice and (C) exceeding query rate or volume, limits. The data is provided on an 'as-is' basis and may lag behind the, register. Access may be withdrawn or restricted at any time.
 
