@@ -1,6 +1,6 @@
 {
   "domain": "myregima.uk",
-  "lastUpdated": "2026-07-23T06:07:00.358Z",
+  "lastUpdated": "2026-07-24T05:55:03.765Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "",
       "This domain name has not been registered.",
       "",
-      "WHOIS lookup made at 07:07:00 23-Jul-2026",
+      "WHOIS lookup made at 06:55:03 24-Jul-2026",
       "",
       "********************************************************************************",
       "* WHOIS service for .UK will cease on 9th of February 2027                     *",
@@ -33,11 +33,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-07-23T06:07:00.358Z",
+    "checkedAt": "2026-07-24T05:55:03.766Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-23T06:07:00.358Z"
+    "refreshedAt": "2026-07-24T05:55:03.766Z"
   }
 }
