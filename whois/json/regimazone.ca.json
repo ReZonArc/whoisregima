@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.ca",
-  "lastUpdated": "2026-07-24T05:58:24.378Z",
+  "lastUpdated": "2026-07-25T05:52:07.255Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -14,11 +14,11 @@
     "Not found": "regimazone.ca"
   },
   "metadata": {
-    "checkedAt": "2026-07-24T05:58:24.378Z",
+    "checkedAt": "2026-07-25T05:52:07.255Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-24T05:58:24.379Z"
+    "refreshedAt": "2026-07-25T05:52:07.255Z"
   }
 }
