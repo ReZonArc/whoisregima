@@ -1,12 +1,9 @@
 {
   "domain": "regimazone.com",
-  "lastUpdated": "2026-07-25T05:52:16.233Z",
+  "lastUpdated": "2026-07-26T06:14:48.096Z",
   "whoisData": {
     "Domain Status": [
-      "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
-      "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
-      "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
-      "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+      "ok https://icann.org/epp#ok"
     ],
     "Name Server": [
       "NSG1.NAMEBRIGHTDNS.COM",
@@ -53,7 +50,7 @@
     "Registry Domain ID": "1823823596_DOMAIN_COM-VRSN",
     "Registrar WHOIS Server": "whois.godaddy.com",
     "Registrar URL": "http://www.godaddy.com",
-    "Updated Date": "2025-10-09T00:23:44Z",
+    "Updated Date": "2026-07-26T00:33:05Z",
     "Created Date": "2013-08-27T14:21:29Z",
     "Expiry Date": "2026-08-27T14:21:29Z",
     "Registrar": "GoDaddy.com, LLC",
@@ -62,14 +59,13 @@
     "Registrar Abuse Contact Phone": "480-624-2505",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-07-25T05:52:09Z <<<"
+    ">>> Last update of whois database": "2026-07-26T06:14:27Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-07-25T05:52:16.234Z",
+    "checkedAt": "2026-07-26T06:14:48.097Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-25T05:52:16.234Z"
+    "dataCompleteness": "minimal"
   }
 }

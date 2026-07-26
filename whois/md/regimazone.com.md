@@ -1,11 +1,11 @@
 # WHOIS Record: regimazone.com
 
-**Last Updated:** 2026-07-25T05:52:16.233Z
-**Checked At:** 2026-07-25T05:52:16.234Z
+**Last Updated:** 2026-07-26T06:14:48.096Z
+**Checked At:** 2026-07-26T06:14:48.097Z
 
 ## WHOIS Information
 
-**Domain Status:** clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited, clientRenewProhibited https://icann.org/epp#clientRenewProhibited, clientTransferProhibited https://icann.org/epp#clientTransferProhibited, clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+**Domain Status:** ok https://icann.org/epp#ok
 
 **Name Server:** NSG1.NAMEBRIGHTDNS.COM, NSG2.NAMEBRIGHTDNS.COM
 
@@ -19,7 +19,7 @@
 
 **Registrar URL:** http://www.godaddy.com
 
-**Updated Date:** 2025-10-09T00:23:44Z
+**Updated Date:** 2026-07-26T00:33:05Z
 
 **Created Date:** 2013-08-27T14:21:29Z
 
@@ -37,5 +37,5 @@
 
 **URL of the ICANN Whois Inaccuracy Complaint Form:** https://www.icann.org/wicf/
 
-**>>> Last update of whois database:** 2026-07-25T05:52:09Z <<<
+**>>> Last update of whois database:** 2026-07-26T06:14:27Z <<<
 
