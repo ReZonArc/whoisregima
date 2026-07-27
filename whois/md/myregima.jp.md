@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.jp
 
-**Last Updated:** 2026-07-26T06:11:15.349Z
-**Checked At:** 2026-07-26T06:11:15.350Z
+**Last Updated:** 2026-07-27T04:21:18.660Z
+**Checked At:** 2026-07-27T04:21:18.661Z
 
 ## WHOIS Information
 

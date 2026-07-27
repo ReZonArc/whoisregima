@@ -1,13 +1,13 @@
 {
   "domain": "regimazone.eu",
-  "lastUpdated": "2026-07-26T06:14:56.970Z",
+  "lastUpdated": "2026-07-27T04:24:59.899Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [
-      "ns-cloud-a3.googledomains.com",
+      "ns-cloud-a1.googledomains.com",
       "ns-cloud-a4.googledomains.com",
-      "ns-cloud-a2.googledomains.com",
-      "ns-cloud-a1.googledomains.com"
+      "ns-cloud-a3.googledomains.com",
+      "ns-cloud-a2.googledomains.com"
     ],
     "text": [
       "% The WHOIS service offered by EURid and the access to the records",
@@ -64,7 +64,7 @@
     "Registrar URL": "http://www.tucows.com"
   },
   "metadata": {
-    "checkedAt": "2026-07-26T06:14:56.970Z",
+    "checkedAt": "2026-07-27T04:24:59.899Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
