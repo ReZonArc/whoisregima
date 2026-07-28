@@ -1,9 +1,13 @@
 # WHOIS Record: regimaskin.jp
 
-**Last Updated:** 2026-07-27T04:24:19.251Z
-**Checked At:** 2026-07-27T04:24:19.251Z
+**Last Updated:** 2026-07-28T04:09:15.850Z
+**Checked At:** 2026-07-28T04:09:15.850Z
 
 ## WHOIS Information
 
-**error:** read ECONNRESET
+**Domain Status:** 
+
+**Name Server:** 
+
+**text:** undefined, - All of registered JP domain name, - gTLD domain name of which sponsoring registrar is JPRS, - JPNIC WHOIS (whois.nic.ad.jp), - APNIC WHOIS (whois.apnic.net), - ARIN WHOIS (whois.arin.net), - RIPE WHOIS (whois.ripe.net), - LACNIC WHOIS (whois.lacnic.net), - AfriNIC WHOIS (whois.afrinic.net)
 
