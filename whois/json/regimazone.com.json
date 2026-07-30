@@ -1,13 +1,13 @@
 {
   "domain": "regimazone.com",
-  "lastUpdated": "2026-07-29T04:11:13.658Z",
+  "lastUpdated": "2026-07-30T04:09:05.444Z",
   "whoisData": {
     "Domain Status": [
-      "pendingTransfer https://icann.org/epp#pendingTransfer"
+      "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
     ],
     "Name Server": [
-      "NSG1.NAMEBRIGHTDNS.COM",
-      "NSG2.NAMEBRIGHTDNS.COM"
+      "NS1.NAMEBRIGHTDNS.COM",
+      "NS2.NAMEBRIGHTDNS.COM"
     ],
     "text": [
       "For more information on Whois status codes, please visit https://icann.org/epp",
@@ -48,21 +48,21 @@
     ],
     "Domain Name": "REGIMAZONE.COM",
     "Registry Domain ID": "1823823596_DOMAIN_COM-VRSN",
-    "Registrar WHOIS Server": "whois.godaddy.com",
-    "Registrar URL": "http://www.godaddy.com",
-    "Updated Date": "2026-07-29T00:50:14Z",
+    "Registrar WHOIS Server": "whois.namebright.com",
+    "Registrar URL": "http://www.NameBright.com",
+    "Updated Date": "2026-07-29T20:43:26Z",
     "Created Date": "2013-08-27T14:21:29Z",
-    "Expiry Date": "2026-08-27T14:21:29Z",
-    "Registrar": "GoDaddy.com, LLC",
-    "Registrar IANA ID": "146",
-    "Registrar Abuse Contact Email": "abuse@godaddy.com",
-    "Registrar Abuse Contact Phone": "480-624-2505",
+    "Expiry Date": "2027-08-27T14:21:29Z",
+    "Registrar": "TurnCommerce, Inc. DBA NameBright.com",
+    "Registrar IANA ID": "1441",
+    "Registrar Abuse Contact Email": "support@namebright.com",
+    "Registrar Abuse Contact Phone": "17204960020",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-07-29T04:10:58Z <<<"
+    ">>> Last update of whois database": "2026-07-30T04:08:59Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-07-29T04:11:13.658Z",
+    "checkedAt": "2026-07-30T04:09:05.445Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,

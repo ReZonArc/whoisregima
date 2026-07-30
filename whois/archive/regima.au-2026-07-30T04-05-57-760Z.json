@@ -1,0 +1,14 @@
+{
+  "domain": "regima.au",
+  "lastUpdated": "2026-07-29T04:07:59.313Z",
+  "whoisData": {
+    "error": "Timeout"
+  },
+  "metadata": {
+    "checkedAt": "2026-07-29T04:07:59.313Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
