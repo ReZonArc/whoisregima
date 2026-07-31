@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.uk",
-  "lastUpdated": "2026-07-30T04:09:33.989Z",
+  "lastUpdated": "2026-07-31T04:17:01.339Z",
   "whoisData": {
     "Domain Status": [
       "Registered until expiry date."
@@ -10,7 +10,7 @@
       "ns7.wixdns.net"
     ],
     "text": [
-      "WHOIS lookup made at 05:09:33 30-Jul-2026",
+      "WHOIS lookup made at 05:17:01 31-Jul-2026",
       "",
       "********************************************************************************",
       "* WHOIS service for .UK will cease on 9th of February 2027                     *",
@@ -41,11 +41,11 @@
     "Updated Date": "22-Aug-2025"
   },
   "metadata": {
-    "checkedAt": "2026-07-30T04:09:33.990Z",
+    "checkedAt": "2026-07-31T04:17:01.340Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-30T04:09:33.990Z"
+    "refreshedAt": "2026-07-31T04:17:01.340Z"
   }
 }

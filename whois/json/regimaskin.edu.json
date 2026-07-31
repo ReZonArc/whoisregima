@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.edu",
-  "lastUpdated": "2026-07-30T04:08:18.130Z",
+  "lastUpdated": "2026-07-31T04:15:44.410Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -11,14 +11,14 @@
     ],
     "Domain Name": "regimaskin.edu",
     "URL of the ICANN WHOIS Data Problem Reporting System": "http://wdprs.internic.net/",
-    ">>> Last update of WHOIS database": "2026-07-30T04:08:18+00:00 <<<"
+    ">>> Last update of WHOIS database": "2026-07-31T04:15:44+00:00 <<<"
   },
   "metadata": {
-    "checkedAt": "2026-07-30T04:08:18.131Z",
+    "checkedAt": "2026-07-31T04:15:44.411Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-30T04:08:18.131Z"
+    "refreshedAt": "2026-07-31T04:15:44.411Z"
   }
 }

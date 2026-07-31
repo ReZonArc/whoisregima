@@ -1,13 +1,13 @@
 {
   "domain": "regimazone.com",
-  "lastUpdated": "2026-07-30T04:09:05.444Z",
+  "lastUpdated": "2026-07-31T04:16:31.357Z",
   "whoisData": {
     "Domain Status": [
       "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
     ],
     "Name Server": [
-      "NS1.NAMEBRIGHTDNS.COM",
-      "NS2.NAMEBRIGHTDNS.COM"
+      "NSG1.NAMEBRIGHTDNS.COM",
+      "NSG2.NAMEBRIGHTDNS.COM"
     ],
     "text": [
       "For more information on Whois status codes, please visit https://icann.org/epp",
@@ -50,7 +50,7 @@
     "Registry Domain ID": "1823823596_DOMAIN_COM-VRSN",
     "Registrar WHOIS Server": "whois.namebright.com",
     "Registrar URL": "http://www.NameBright.com",
-    "Updated Date": "2026-07-29T20:43:26Z",
+    "Updated Date": "2026-07-30T11:50:52Z",
     "Created Date": "2013-08-27T14:21:29Z",
     "Expiry Date": "2027-08-27T14:21:29Z",
     "Registrar": "TurnCommerce, Inc. DBA NameBright.com",
@@ -59,10 +59,10 @@
     "Registrar Abuse Contact Phone": "17204960020",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-07-30T04:08:59Z <<<"
+    ">>> Last update of whois database": "2026-07-31T04:16:14Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-07-30T04:09:05.445Z",
+    "checkedAt": "2026-07-31T04:16:31.357Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,

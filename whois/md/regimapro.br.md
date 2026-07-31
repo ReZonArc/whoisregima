@@ -1,7 +1,7 @@
 # WHOIS Record: regimapro.br
 
-**Last Updated:** 2026-07-30T04:07:15.971Z
-**Checked At:** 2026-07-30T04:07:15.971Z
+**Last Updated:** 2026-07-31T04:14:39.292Z
+**Checked At:** 2026-07-31T04:14:39.292Z
 
 ## WHOIS Information
 
@@ -9,5 +9,5 @@
 
 **Name Server:** 
 
-**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-07-30T01:07:15-03:00 - 20.55.86.50, , % No match for regimapro.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
+**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-07-31T01:14:39-03:00 - 4.154.245.229, , % No match for regimapro.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
 
