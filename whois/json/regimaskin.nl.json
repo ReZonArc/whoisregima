@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.nl",
-  "lastUpdated": "2026-07-31T04:16:04.322Z",
+  "lastUpdated": "2026-08-01T04:15:48.284Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,11 +9,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-07-31T04:16:04.322Z",
+    "checkedAt": "2026-08-01T04:15:48.285Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-07-31T04:16:04.322Z"
+    "refreshedAt": "2026-08-01T04:15:48.285Z"
   }
 }
