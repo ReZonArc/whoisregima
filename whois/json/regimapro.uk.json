@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.uk",
-  "lastUpdated": "2026-08-03T04:21:01.813Z",
+  "lastUpdated": "2026-08-04T04:09:03.396Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -9,7 +9,7 @@
       "",
       "This domain name has not been registered.",
       "",
-      "WHOIS lookup made at 05:21:01 03-Aug-2026",
+      "WHOIS lookup made at 05:09:03 04-Aug-2026",
       "",
       "********************************************************************************",
       "* WHOIS service for .UK will cease on 9th of February 2027                     *",
@@ -33,11 +33,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-08-03T04:21:01.813Z",
+    "checkedAt": "2026-08-04T04:09:03.396Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-08-03T04:21:01.814Z"
+    "refreshedAt": "2026-08-04T04:09:03.396Z"
   }
 }

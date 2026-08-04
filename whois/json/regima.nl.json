@@ -1,6 +1,6 @@
 {
   "domain": "regima.nl",
-  "lastUpdated": "2026-08-03T04:19:48.333Z",
+  "lastUpdated": "2026-08-04T04:07:57.273Z",
   "whoisData": {
     "Domain Status": [
       "active"
@@ -20,11 +20,11 @@
     "Updated Date": "2026-04-21"
   },
   "metadata": {
-    "checkedAt": "2026-08-03T04:19:48.333Z",
+    "checkedAt": "2026-08-04T04:07:57.274Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-08-03T04:19:48.333Z"
+    "refreshedAt": "2026-08-04T04:07:57.274Z"
   }
 }
