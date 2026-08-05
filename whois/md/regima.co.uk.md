@@ -1,27 +1,11 @@
 # WHOIS Record: regima.co.uk
 
-**Last Updated:** 2026-08-04T04:07:14.375Z
-**Checked At:** 2026-08-04T04:07:14.375Z
+**Last Updated:** 2026-08-05T04:08:53.293Z
+**Checked At:** 2026-08-05T04:08:53.293Z
 
 ## WHOIS Information
 
-**Domain Status:** Registered until expiry date.
+**error:** TLD for "regima.co.uk" not supported
 
-**Name Server:** ns1.dns-h.com, ns1.host-h.net, ns2.host-h.net
-
-**text:** WHOIS lookup made at 05:07:14 04-Aug-2026, , ********************************************************************************, * WHOIS service for .UK will cease on 9th of February 2027                     *, * For more information on the replacement RDAP services please see:            *, * https://theukdomain.uk/rdap                                                  *, ********************************************************************************, , --, This WHOIS information is provided for free by Nominet UK the central registry, for .uk domain names. This information and the .uk WHOIS are:, , Copyright Nominet UK 1996 - 2026., , You may not access the .uk WHOIS or use any data from it except as permitted, by the terms of use available in full at https://www.nominet.uk/whoisterms,, which includes restrictions on: (A) use of the data for advertising, or its, repackaging, recompilation, redistribution or reuse (B) obscuring, removing, or hiding any or all of this notice and (C) exceeding query rate or volume, limits. The data is provided on an 'as-is' basis and may lag behind the, register. Access may be withdrawn or restricted at any time.
-
-**Domain Name:** regima.co.uk
-
-**Data validation:** Nominet was not able to match the registrant's name and/or address against a 3rd party source
-
-**Registrar:** Tucows Inc t/a Tucows [Tag = TUCOWS-CA]
-
-**Registrar URL:** https://www.tucowsdomains.com
-
-**Created Date:** 21-Jul-2006
-
-**Expiry Date:** 21-Jul-2028
-
-**Updated Date:** 22-Jun-2026
+**status:** error
 
