@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.net
 
-**Last Updated:** 2026-08-06T04:10:33.518Z
-**Checked At:** 2026-08-06T04:10:33.519Z
+**Last Updated:** 2026-08-07T04:04:58.313Z
+**Checked At:** 2026-08-07T04:04:58.313Z
 
 ## WHOIS Information
 
@@ -19,11 +19,11 @@
 
 **Registrar URL:** http://www.godaddy.com
 
-**Updated Date:** 2025-08-22T11:41:07Z
+**Updated Date:** 2026-08-06T14:44:55Z
 
 **Created Date:** 2014-08-21T11:06:42Z
 
-**Expiry Date:** 2026-08-21T11:06:42Z
+**Expiry Date:** 2027-08-21T11:06:42Z
 
 **Registrar:** GoDaddy.com, LLC
 
@@ -37,5 +37,5 @@
 
 **URL of the ICANN Whois Inaccuracy Complaint Form:** https://www.icann.org/wicf/
 
-**>>> Last update of whois database:** 2026-08-06T04:10:13Z <<<
+**>>> Last update of whois database:** 2026-08-07T04:04:43Z <<<
 

@@ -1,0 +1,14 @@
+{
+  "domain": "regimaskin.au",
+  "lastUpdated": "2026-08-06T04:09:00.484Z",
+  "whoisData": {
+    "error": "Timeout"
+  },
+  "metadata": {
+    "checkedAt": "2026-08-06T04:09:00.484Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}

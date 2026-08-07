@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.gov",
-  "lastUpdated": "2026-08-06T04:09:30.206Z",
+  "lastUpdated": "2026-08-07T04:03:59.279Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -18,14 +18,14 @@
       "unlawful behavior. We reserve the right to restrict or deny your access to",
       "the WHOIS database, and may modify these terms at any time."
     ],
-    ">>> Last update of WHOIS database": "2026-08-06T04:09:30Z <<<"
+    ">>> Last update of WHOIS database": "2026-08-07T04:03:59Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-08-06T04:09:30.206Z",
+    "checkedAt": "2026-08-07T04:03:59.279Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-08-06T04:09:30.206Z"
+    "refreshedAt": "2026-08-07T04:03:59.279Z"
   }
 }
