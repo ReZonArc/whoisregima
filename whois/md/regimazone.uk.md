@@ -1,11 +1,11 @@
 # WHOIS Record: regimazone.uk
 
-**Last Updated:** 2026-08-07T04:05:05.943Z
-**Checked At:** 2026-08-07T04:05:05.943Z
+**Last Updated:** 2026-08-08T03:38:51.902Z
+**Checked At:** 2026-08-08T03:38:51.902Z
 
 ## WHOIS Information
 
-**error:** Timeout
+**error:** TLD for "regimazone.uk" not supported
 
 **status:** error
 
