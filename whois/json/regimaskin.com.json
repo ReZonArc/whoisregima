@@ -1,17 +1,13 @@
 {
   "domain": "regimaskin.com",
-  "lastUpdated": "2026-08-16T03:25:51.967Z",
+  "lastUpdated": "2026-08-17T03:26:31.696Z",
   "whoisData": {
     "Domain Status": [
-      "clientHold https://icann.org/epp#clientHold",
-      "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
-      "pendingDelete https://icann.org/epp#pendingDelete"
+      "ok https://icann.org/epp#ok"
     ],
     "Name Server": [
-      "NS1.TLD-NS.NET",
-      "NS2.TLD-NS.COM",
-      "NS3.TLD-NS.NET",
-      "NS4.TLD-NS.COM"
+      "NS1.AFTERNIC.COM",
+      "NS2.AFTERNIC.COM"
     ],
     "text": [
       "For more information on Whois status codes, please visit https://icann.org/epp",
@@ -51,26 +47,25 @@
       "Registrars."
     ],
     "Domain Name": "REGIMASKIN.COM",
-    "Registry Domain ID": "2993337375_DOMAIN_COM-VRSN",
-    "Registrar WHOIS Server": "whois.domains.co.za",
-    "Registrar URL": "http://www.domains.co.za",
-    "Updated Date": "2026-08-10T09:28:49Z",
-    "Created Date": "2025-06-20T13:16:46Z",
-    "Expiry Date": "2026-06-20T13:16:46Z",
-    "Registrar": "Diamatrix C.C.",
-    "Registrar IANA ID": "1645",
-    "Registrar Abuse Contact Email": "abuse@domains.co.za",
-    "Registrar Abuse Contact Phone": "+27.116409700",
+    "Registry Domain ID": "3132902600_DOMAIN_COM-VRSN",
+    "Registrar WHOIS Server": "whois.web.com",
+    "Registrar URL": "http://www.networksolutions.com",
+    "Updated Date": "2026-08-16T21:00:26Z",
+    "Created Date": "2026-08-16T18:24:50Z",
+    "Expiry Date": "2027-08-16T18:24:50Z",
+    "Registrar": "SNAPNAMES 72, LLC",
+    "Registrar IANA ID": "635",
+    "Registrar Abuse Contact Email": "abuse@web.com",
+    "Registrar Abuse Contact Phone": "+1.8003337680",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-08-16T03:25:46Z <<<"
+    ">>> Last update of whois database": "2026-08-17T03:26:13Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-08-16T03:25:51.967Z",
+    "checkedAt": "2026-08-17T03:26:31.696Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-08-16T03:25:51.968Z"
+    "dataCompleteness": "minimal"
   }
 }
