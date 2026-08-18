@@ -1,13 +1,14 @@
 {
   "domain": "regimaskin.com",
-  "lastUpdated": "2026-08-17T03:26:31.696Z",
+  "lastUpdated": "2026-08-18T03:23:55.109Z",
   "whoisData": {
     "Domain Status": [
       "ok https://icann.org/epp#ok"
     ],
     "Name Server": [
       "NS1.AFTERNIC.COM",
-      "NS2.AFTERNIC.COM"
+      "NS2.AFTERNIC.COM",
+      "VERIFICATION-D3JCLUCSP89GANYQBYDENY.NS101.VERIFY.HN"
     ],
     "text": [
       "For more information on Whois status codes, please visit https://icann.org/epp",
@@ -50,7 +51,7 @@
     "Registry Domain ID": "3132902600_DOMAIN_COM-VRSN",
     "Registrar WHOIS Server": "whois.web.com",
     "Registrar URL": "http://www.networksolutions.com",
-    "Updated Date": "2026-08-16T21:00:26Z",
+    "Updated Date": "2026-08-17T07:16:04Z",
     "Created Date": "2026-08-16T18:24:50Z",
     "Expiry Date": "2027-08-16T18:24:50Z",
     "Registrar": "SNAPNAMES 72, LLC",
@@ -59,10 +60,10 @@
     "Registrar Abuse Contact Phone": "+1.8003337680",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-08-17T03:26:13Z <<<"
+    ">>> Last update of whois database": "2026-08-18T03:23:44Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-08-17T03:26:31.696Z",
+    "checkedAt": "2026-08-18T03:23:55.109Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,

@@ -1,16 +1,13 @@
 {
-  "domain": "regimazone.net",
-  "lastUpdated": "2026-08-18T03:25:07.824Z",
+  "domain": "regimaskin.com",
+  "lastUpdated": "2026-08-17T03:26:31.696Z",
   "whoisData": {
     "Domain Status": [
-      "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
-      "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
-      "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
-      "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+      "ok https://icann.org/epp#ok"
     ],
     "Name Server": [
-      "PDNS01.DOMAINCONTROL.COM",
-      "PDNS02.DOMAINCONTROL.COM"
+      "NS1.AFTERNIC.COM",
+      "NS2.AFTERNIC.COM"
     ],
     "text": [
       "For more information on Whois status codes, please visit https://icann.org/epp",
@@ -49,27 +46,26 @@
       "The Registry database contains ONLY .COM, .NET, .EDU domains and",
       "Registrars."
     ],
-    "Domain Name": "REGIMAZONE.NET",
-    "Registry Domain ID": "1872059950_DOMAIN_NET-VRSN",
-    "Registrar WHOIS Server": "whois.godaddy.com",
-    "Registrar URL": "http://www.godaddy.com",
-    "Updated Date": "2026-08-06T14:44:55Z",
-    "Created Date": "2014-08-21T11:06:42Z",
-    "Expiry Date": "2027-08-21T11:06:42Z",
-    "Registrar": "GoDaddy.com, LLC",
-    "Registrar IANA ID": "146",
-    "Registrar Abuse Contact Email": "abuse@godaddy.com",
-    "Registrar Abuse Contact Phone": "480-624-2505",
+    "Domain Name": "REGIMASKIN.COM",
+    "Registry Domain ID": "3132902600_DOMAIN_COM-VRSN",
+    "Registrar WHOIS Server": "whois.web.com",
+    "Registrar URL": "http://www.networksolutions.com",
+    "Updated Date": "2026-08-16T21:00:26Z",
+    "Created Date": "2026-08-16T18:24:50Z",
+    "Expiry Date": "2027-08-16T18:24:50Z",
+    "Registrar": "SNAPNAMES 72, LLC",
+    "Registrar IANA ID": "635",
+    "Registrar Abuse Contact Email": "abuse@web.com",
+    "Registrar Abuse Contact Phone": "+1.8003337680",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-08-18T03:24:59Z <<<"
+    ">>> Last update of whois database": "2026-08-17T03:26:13Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-08-18T03:25:07.824Z",
+    "checkedAt": "2026-08-17T03:26:31.696Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-08-18T03:25:07.824Z"
+    "dataCompleteness": "minimal"
   }
 }
