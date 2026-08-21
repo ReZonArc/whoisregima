@@ -1,14 +1,15 @@
 {
   "domain": "regimapro.es",
-  "lastUpdated": "2026-08-20T03:23:57.090Z",
+  "lastUpdated": "2026-08-21T03:26:53.661Z",
   "whoisData": {
-    "error": "read ECONNRESET"
+    "error": "connect ECONNREFUSED 54.72.161.36:43"
   },
   "metadata": {
-    "checkedAt": "2026-08-20T03:23:57.090Z",
+    "checkedAt": "2026-08-21T03:26:53.661Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "none"
+    "dataCompleteness": "none",
+    "refreshedAt": "2026-08-21T03:26:53.661Z"
   }
 }
