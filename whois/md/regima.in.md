@@ -1,7 +1,7 @@
 # WHOIS Record: regima.in
 
-**Last Updated:** 2026-08-21T03:25:58.639Z
-**Checked At:** 2026-08-21T03:25:58.639Z
+**Last Updated:** 2026-08-22T03:21:33.910Z
+**Checked At:** 2026-08-22T03:21:33.910Z
 
 ## WHOIS Information
 

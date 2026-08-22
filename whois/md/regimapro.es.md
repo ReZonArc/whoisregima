@@ -1,9 +1,9 @@
 # WHOIS Record: regimapro.es
 
-**Last Updated:** 2026-08-21T03:26:53.661Z
-**Checked At:** 2026-08-21T03:26:53.661Z
+**Last Updated:** 2026-08-22T03:22:43.546Z
+**Checked At:** 2026-08-22T03:22:43.546Z
 
 ## WHOIS Information
 
-**error:** connect ECONNREFUSED 54.72.161.36:43
+**error:** Timeout
 
