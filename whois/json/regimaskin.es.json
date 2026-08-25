@@ -1,15 +1,15 @@
 {
   "domain": "regimaskin.es",
-  "lastUpdated": "2026-08-24T03:29:27.461Z",
+  "lastUpdated": "2026-08-25T03:25:40.712Z",
   "whoisData": {
-    "error": "Timeout"
+    "error": "connect ECONNREFUSED 54.72.161.36:43"
   },
   "metadata": {
-    "checkedAt": "2026-08-24T03:29:27.461Z",
+    "checkedAt": "2026-08-25T03:25:40.712Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2026-08-24T03:29:27.461Z"
+    "refreshedAt": "2026-08-25T03:25:40.712Z"
   }
 }
