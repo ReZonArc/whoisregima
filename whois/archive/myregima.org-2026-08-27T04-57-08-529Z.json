@@ -1,0 +1,14 @@
+{
+  "domain": "myregima.org",
+  "lastUpdated": "2026-08-26T03:26:59.878Z",
+  "whoisData": {
+    "error": "getaddrinfo ENOTFOUND whois.pir.org"
+  },
+  "metadata": {
+    "checkedAt": "2026-08-26T03:26:59.879Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}

@@ -1,7 +1,7 @@
 # WHOIS Record: regima.net.uk
 
-**Last Updated:** 2026-08-26T03:28:12.507Z
-**Checked At:** 2026-08-26T03:28:12.507Z
+**Last Updated:** 2026-08-27T04:58:11.914Z
+**Checked At:** 2026-08-27T04:58:11.914Z
 
 ## WHOIS Information
 
