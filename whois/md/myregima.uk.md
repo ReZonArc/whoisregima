@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.uk
 
-**Last Updated:** 2026-08-27T04:57:10.561Z
-**Checked At:** 2026-08-27T04:57:10.561Z
+**Last Updated:** 2026-08-28T05:49:14.999Z
+**Checked At:** 2026-08-28T05:49:14.999Z
 
 ## WHOIS Information
 
