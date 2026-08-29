@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.it",
-  "lastUpdated": "2026-08-28T05:52:24.517Z",
+  "lastUpdated": "2026-08-29T03:23:23.148Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -12,11 +12,11 @@
     "Domain Name": "regimaskin.it"
   },
   "metadata": {
-    "checkedAt": "2026-08-28T05:52:24.517Z",
+    "checkedAt": "2026-08-29T03:23:23.148Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-08-28T05:52:24.517Z"
+    "refreshedAt": "2026-08-29T03:23:23.148Z"
   }
 }
