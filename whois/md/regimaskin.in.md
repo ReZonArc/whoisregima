@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.in
 
-**Last Updated:** 2026-08-30T03:25:28.904Z
-**Checked At:** 2026-08-30T03:25:28.905Z
+**Last Updated:** 2026-08-31T03:27:43.279Z
+**Checked At:** 2026-08-31T03:27:43.280Z
 
 ## WHOIS Information
 

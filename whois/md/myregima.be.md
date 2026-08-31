@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.be
 
-**Last Updated:** 2026-08-30T03:21:41.167Z
-**Checked At:** 2026-08-30T03:21:41.167Z
+**Last Updated:** 2026-08-31T03:24:01.360Z
+**Checked At:** 2026-08-31T03:24:01.360Z
 
 ## WHOIS Information
 
