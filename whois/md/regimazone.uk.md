@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.uk
 
-**Last Updated:** 2026-09-03T04:37:01.841Z
-**Checked At:** 2026-09-03T04:37:01.841Z
+**Last Updated:** 2026-09-04T03:29:42.055Z
+**Checked At:** 2026-09-04T03:29:42.055Z
 
 ## WHOIS Information
 
