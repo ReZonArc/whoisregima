@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.es
 
-**Last Updated:** 2026-09-04T03:25:27.661Z
-**Checked At:** 2026-09-04T03:25:27.661Z
+**Last Updated:** 2026-09-05T03:21:02.446Z
+**Checked At:** 2026-09-05T03:21:02.446Z
 
 ## WHOIS Information
 
