@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.edu
 
-**Last Updated:** 2026-09-05T03:21:00.352Z
-**Checked At:** 2026-09-05T03:21:00.352Z
+**Last Updated:** 2026-09-06T03:22:18.385Z
+**Checked At:** 2026-09-06T03:22:18.385Z
 
 ## WHOIS Information
 
@@ -15,5 +15,5 @@
 
 **URL of the ICANN WHOIS Data Problem Reporting System:** http://wdprs.internic.net/
 
-**>>> Last update of WHOIS database:** 2026-09-05T03:21:00+00:00 <<<
+**>>> Last update of WHOIS database:** 2026-09-06T03:22:18+00:00 <<<
 
