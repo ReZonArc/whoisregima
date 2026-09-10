@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.es",
-  "lastUpdated": "2026-09-09T03:24:32.411Z",
+  "lastUpdated": "2026-09-10T03:25:02.364Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -40,11 +40,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-09-09T03:24:32.412Z",
+    "checkedAt": "2026-09-10T03:25:02.364Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-09-09T03:24:32.412Z"
+    "refreshedAt": "2026-09-10T03:25:02.364Z"
   }
 }
