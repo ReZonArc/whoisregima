@@ -1,15 +1,15 @@
 {
   "domain": "regimapro.in",
-  "lastUpdated": "2026-09-11T03:24:23.908Z",
+  "lastUpdated": "2026-09-12T03:23:20.844Z",
   "whoisData": {
     "error": "getaddrinfo ENOTFOUND whois.registry.in"
   },
   "metadata": {
-    "checkedAt": "2026-09-11T03:24:23.908Z",
+    "checkedAt": "2026-09-12T03:23:20.844Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2026-09-11T03:24:23.909Z"
+    "refreshedAt": "2026-09-12T03:23:20.844Z"
   }
 }

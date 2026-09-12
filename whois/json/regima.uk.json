@@ -1,15 +1,15 @@
 {
   "domain": "regima.uk",
-  "lastUpdated": "2026-09-11T03:23:50.820Z",
+  "lastUpdated": "2026-09-12T03:22:48.184Z",
   "whoisData": {
     "error": "TLD for \"regima.uk\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-09-11T03:23:50.820Z",
+    "checkedAt": "2026-09-12T03:22:48.184Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-09-11T03:23:50.820Z"
+    "refreshedAt": "2026-09-12T03:22:48.184Z"
   }
 }
