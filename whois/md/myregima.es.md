@@ -1,9 +1,9 @@
 # WHOIS Record: myregima.es
 
-**Last Updated:** 2026-09-13T03:22:32.992Z
-**Checked At:** 2026-09-13T03:22:32.993Z
+**Last Updated:** 2026-09-14T03:25:14.450Z
+**Checked At:** 2026-09-14T03:25:14.450Z
 
 ## WHOIS Information
 
-**error:** connect ECONNREFUSED 54.72.161.36:43
+**error:** Timeout
 
