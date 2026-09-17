@@ -1,0 +1,19 @@
+{
+  "domain": "regimazone.nl",
+  "lastUpdated": "2026-09-16T03:27:16.183Z",
+  "whoisData": {
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      "regimazone.nl is free"
+    ]
+  },
+  "metadata": {
+    "checkedAt": "2026-09-16T03:27:16.183Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "minimal",
+    "refreshedAt": "2026-09-16T03:27:16.183Z"
+  }
+}

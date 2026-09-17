@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.co.za
 
-**Last Updated:** 2026-09-16T03:27:40.150Z
-**Checked At:** 2026-09-16T03:27:40.150Z
+**Last Updated:** 2026-09-17T03:27:33.656Z
+**Checked At:** 2026-09-17T03:27:33.656Z
 
 ## WHOIS Information
 
