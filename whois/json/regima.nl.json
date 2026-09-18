@@ -1,14 +1,29 @@
 {
   "domain": "regima.nl",
-  "lastUpdated": "2026-09-17T03:24:13.313Z",
+  "lastUpdated": "2026-09-18T03:23:34.257Z",
   "whoisData": {
-    "error": "read ECONNRESET"
+    "Domain Status": [
+      "active"
+    ],
+    "Name Server": [
+      "pns2.directdomain.nl",
+      "pns1.directdomain.nl"
+    ],
+    "text": [
+      ""
+    ],
+    "Domain Name": "regima.nl",
+    "Registrar": "Hostable B.V. Oosterhoogte 3 6861VH Oosterbeek Netherlands SIDN BV",
+    "Abuse Contact": "+31.0262062000 misbruik@hostable.nl",
+    "DNSSEC": "no",
+    "Created Date": "2019-11-10",
+    "Updated Date": "2026-04-21"
   },
   "metadata": {
-    "checkedAt": "2026-09-17T03:24:13.314Z",
+    "checkedAt": "2026-09-18T03:23:34.257Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "none"
+    "dataCompleteness": "minimal"
   }
 }
