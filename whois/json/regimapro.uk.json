@@ -1,15 +1,15 @@
 {
   "domain": "regimapro.uk",
-  "lastUpdated": "2026-09-19T03:24:18.308Z",
+  "lastUpdated": "2026-09-20T03:25:49.185Z",
   "whoisData": {
     "error": "TLD for \"regimapro.uk\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-09-19T03:24:18.308Z",
+    "checkedAt": "2026-09-20T03:25:49.185Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-09-19T03:24:18.308Z"
+    "refreshedAt": "2026-09-20T03:25:49.185Z"
   }
 }
