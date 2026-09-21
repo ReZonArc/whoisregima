@@ -1,7 +1,7 @@
 # WHOIS Record: regima.br
 
-**Last Updated:** 2026-09-20T03:23:37.363Z
-**Checked At:** 2026-09-20T03:23:37.364Z
+**Last Updated:** 2026-09-21T03:25:58.393Z
+**Checked At:** 2026-09-21T03:25:58.394Z
 
 ## WHOIS Information
 
@@ -9,5 +9,5 @@
 
 **Name Server:** 
 
-**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-09-20T00:23:37-03:00 - 20.118.246.64, , % No match for regima.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
+**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-09-21T00:25:58-03:00 - 4.154.142.177, , % No match for regima.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
 
