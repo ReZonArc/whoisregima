@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.eu",
-  "lastUpdated": "2026-09-22T03:26:30.543Z",
+  "lastUpdated": "2026-09-23T03:26:40.428Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -55,11 +55,11 @@
     "Script": "LATIN"
   },
   "metadata": {
-    "checkedAt": "2026-09-22T03:26:30.544Z",
+    "checkedAt": "2026-09-23T03:26:40.429Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-09-22T03:26:30.544Z"
+    "refreshedAt": "2026-09-23T03:26:40.429Z"
   }
 }
