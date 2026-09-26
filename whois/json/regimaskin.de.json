@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.de",
-  "lastUpdated": "2026-09-25T03:25:45.691Z",
+  "lastUpdated": "2026-09-26T03:24:51.381Z",
   "whoisData": {
     "Domain Status": [
       "free"
@@ -12,11 +12,11 @@
     "Domain Name": "regimaskin.de"
   },
   "metadata": {
-    "checkedAt": "2026-09-25T03:25:45.692Z",
+    "checkedAt": "2026-09-26T03:24:51.381Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-09-25T03:25:45.692Z"
+    "refreshedAt": "2026-09-26T03:24:51.381Z"
   }
 }
