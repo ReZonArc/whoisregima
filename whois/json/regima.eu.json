@@ -1,6 +1,6 @@
 {
   "domain": "regima.eu",
-  "lastUpdated": "2026-09-27T03:25:25.299Z",
+  "lastUpdated": "2026-09-28T03:29:07.515Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [
@@ -62,11 +62,11 @@
     "Registrar URL": "http://www.godaddy.com"
   },
   "metadata": {
-    "checkedAt": "2026-09-27T03:25:25.300Z",
+    "checkedAt": "2026-09-28T03:29:07.517Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-09-27T03:25:25.300Z"
+    "refreshedAt": "2026-09-28T03:29:07.517Z"
   }
 }

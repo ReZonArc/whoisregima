@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.zone
 
-**Last Updated:** 2026-09-27T03:28:36.153Z
-**Checked At:** 2026-09-27T03:28:36.153Z
+**Last Updated:** 2026-09-28T03:32:00.696Z
+**Checked At:** 2026-09-28T03:32:00.696Z
 
 ## WHOIS Information
 
