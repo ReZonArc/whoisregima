@@ -1,6 +1,6 @@
 {
-  "domain": "wwwregima.be",
-  "lastUpdated": "2026-09-29T03:29:50.465Z",
+  "domain": "myregima.be",
+  "lastUpdated": "2026-09-28T03:27:15.765Z",
   "whoisData": {
     "Domain Status": [
       "AVAILABLE"
@@ -43,14 +43,14 @@
       "% protect the privacy of its registrants or the integrity of the database.",
       "%"
     ],
-    "Domain Name": "wwwregima.be"
+    "Domain Name": "myregima.be"
   },
   "metadata": {
-    "checkedAt": "2026-09-29T03:29:50.465Z",
+    "checkedAt": "2026-09-28T03:27:15.767Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-09-29T03:29:50.465Z"
+    "refreshedAt": "2026-09-28T03:27:15.767Z"
   }
 }
