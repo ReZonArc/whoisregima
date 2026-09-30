@@ -1,0 +1,14 @@
+{
+  "domain": "myregima.be",
+  "lastUpdated": "2026-09-29T03:23:58.386Z",
+  "whoisData": {
+    "error": "connect ECONNREFUSED 192.0.32.59:43",
+    "status": "error"
+  },
+  "metadata": {
+    "checkedAt": "2026-09-29T03:23:58.386Z",
+    "source": "whois-checker-action",
+    "dataCompleteness": "error",
+    "errorType": "Error"
+  }
+}

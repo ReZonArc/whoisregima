@@ -1,7 +1,7 @@
 # WHOIS Record: regimapro.fr
 
-**Last Updated:** 2026-09-29T03:27:10.805Z
-**Checked At:** 2026-09-29T03:27:10.806Z
+**Last Updated:** 2026-09-30T03:27:44.269Z
+**Checked At:** 2026-09-30T03:27:44.271Z
 
 ## WHOIS Information
 
@@ -11,5 +11,5 @@
 
 **text:** %%, %% This is the AFNIC Whois server., %%, %% complete date format: YYYY-MM-DDThh:mm:ssZ, %%, %% Rights restricted by copyright., %% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/, %%, %%, %% NOT FOUND
 
-**>>> Last update of WHOIS database:** 2026-09-29T03:27:10.755035Z <<<
+**>>> Last update of WHOIS database:** 2026-09-30T03:27:44.208765Z <<<
 
