@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.com",
-  "lastUpdated": "2026-10-02T03:26:24.293Z",
+  "lastUpdated": "2026-10-03T03:32:19.177Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -41,14 +41,14 @@
       "The Registry database contains ONLY .COM, .NET, .EDU domains and",
       "Registrars."
     ],
-    ">>> Last update of whois database": "2026-10-02T03:26:13Z <<<"
+    ">>> Last update of whois database": "2026-10-03T03:31:59Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-10-02T03:26:24.294Z",
+    "checkedAt": "2026-10-03T03:32:19.178Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-10-02T03:26:24.294Z"
+    "refreshedAt": "2026-10-03T03:32:19.178Z"
   }
 }
