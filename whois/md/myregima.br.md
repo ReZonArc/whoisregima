@@ -1,7 +1,7 @@
 # WHOIS Record: myregima.br
 
-**Last Updated:** 2026-10-05T03:29:39.366Z
-**Checked At:** 2026-10-05T03:29:39.366Z
+**Last Updated:** 2026-10-06T03:23:33.520Z
+**Checked At:** 2026-10-06T03:23:33.521Z
 
 ## WHOIS Information
 
@@ -9,5 +9,5 @@
 
 **Name Server:** 
 
-**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-10-05T00:29:39-03:00 - 132.196.63.181, , % No match for myregima.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
+**text:** % Copyright (c) Nic.br - Use of this data is governed by the Use and, % Privacy Policy at https://registro.br/upp . Distribution,, % commercialization, reproduction, and use for advertising or similar, % purposes are expressly prohibited., % 2026-10-06T00:23:33-03:00 - 74.249.78.164, , % No match for myregima.br, , % Security and mail abuse issues should also be addressed to cert.br,, % respectivelly to cert@cert.br and mail-abuse@cert.br, %, % whois.registro.br only accepts exact match queries for domains,, % registrants, contacts, tickets, providers, IPs, and ASNs.
 

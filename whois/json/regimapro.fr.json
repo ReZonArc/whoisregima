@@ -1,6 +1,6 @@
 {
   "domain": "regimapro.fr",
-  "lastUpdated": "2026-10-05T03:32:51.648Z",
+  "lastUpdated": "2026-10-06T03:26:41.480Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -16,14 +16,14 @@
       "%%",
       "%% NOT FOUND"
     ],
-    ">>> Last update of WHOIS database": "2026-10-05T03:32:51.590787Z <<<"
+    ">>> Last update of WHOIS database": "2026-10-06T03:26:41.43816Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-10-05T03:32:51.648Z",
+    "checkedAt": "2026-10-06T03:26:41.481Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-10-05T03:32:51.648Z"
+    "refreshedAt": "2026-10-06T03:26:41.481Z"
   }
 }
