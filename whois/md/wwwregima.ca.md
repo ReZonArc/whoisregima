@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.ca
 
-**Last Updated:** 2026-10-07T03:31:40.120Z
-**Checked At:** 2026-10-07T03:31:40.120Z
+**Last Updated:** 2026-10-08T03:31:53.701Z
+**Checked At:** 2026-10-08T03:31:53.701Z
 
 ## WHOIS Information
 
