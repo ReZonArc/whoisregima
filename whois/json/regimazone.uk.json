@@ -1,15 +1,15 @@
 {
   "domain": "regimazone.uk",
-  "lastUpdated": "2026-10-12T03:40:59.794Z",
+  "lastUpdated": "2026-10-13T03:34:12.804Z",
   "whoisData": {
     "error": "TLD for \"regimazone.uk\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-10-12T03:40:59.794Z",
+    "checkedAt": "2026-10-13T03:34:12.804Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-10-12T03:40:59.794Z"
+    "refreshedAt": "2026-10-13T03:34:12.804Z"
   }
 }
