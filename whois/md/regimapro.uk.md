@@ -1,7 +1,7 @@
 # WHOIS Record: regimapro.uk
 
-**Last Updated:** 2026-10-14T03:25:20.993Z
-**Checked At:** 2026-10-14T03:25:20.994Z
+**Last Updated:** 2026-10-15T03:25:11.204Z
+**Checked At:** 2026-10-15T03:25:11.204Z
 
 ## WHOIS Information
 
