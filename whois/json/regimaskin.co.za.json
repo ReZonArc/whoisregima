@@ -1,15 +1,15 @@
 {
   "domain": "regimaskin.co.za",
-  "lastUpdated": "2026-10-19T03:28:02.009Z",
+  "lastUpdated": "2026-10-20T03:25:38.063Z",
   "whoisData": {
     "error": "TLD for \"regimaskin.co.za\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-10-19T03:28:02.009Z",
+    "checkedAt": "2026-10-20T03:25:38.063Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-10-19T03:28:02.009Z"
+    "refreshedAt": "2026-10-20T03:25:38.063Z"
   }
 }

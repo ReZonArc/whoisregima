@@ -1,15 +1,15 @@
 {
   "domain": "regima.zone",
-  "lastUpdated": "2026-10-19T03:26:39.498Z",
+  "lastUpdated": "2026-10-20T03:24:20.276Z",
   "whoisData": {
     "error": "TLD for \"regima.zone\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-10-19T03:26:39.498Z",
+    "checkedAt": "2026-10-20T03:24:20.276Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-10-19T03:26:39.498Z"
+    "refreshedAt": "2026-10-20T03:24:20.276Z"
   }
 }
