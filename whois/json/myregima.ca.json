@@ -1,6 +1,6 @@
 {
   "domain": "myregima.ca",
-  "lastUpdated": "2026-10-20T03:21:51.527Z",
+  "lastUpdated": "2026-10-21T03:22:11.843Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -14,11 +14,11 @@
     "Not found": "myregima.ca"
   },
   "metadata": {
-    "checkedAt": "2026-10-20T03:21:51.528Z",
+    "checkedAt": "2026-10-21T03:22:11.844Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-10-20T03:21:51.528Z"
+    "refreshedAt": "2026-10-21T03:22:11.844Z"
   }
 }
