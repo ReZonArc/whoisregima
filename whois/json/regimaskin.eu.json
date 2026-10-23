@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.eu",
-  "lastUpdated": "2026-10-22T03:25:56.904Z",
+  "lastUpdated": "2026-10-23T03:25:51.387Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [
@@ -64,10 +64,11 @@
     "Registrar URL": "https://www.cyberfolks.pl"
   },
   "metadata": {
-    "checkedAt": "2026-10-22T03:25:56.904Z",
+    "checkedAt": "2026-10-23T03:25:51.388Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
-    "dataCompleteness": "minimal"
+    "dataCompleteness": "minimal",
+    "refreshedAt": "2026-10-23T03:25:51.388Z"
   }
 }
