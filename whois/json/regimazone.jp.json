@@ -1,6 +1,6 @@
 {
   "domain": "regimazone.jp",
-  "lastUpdated": "2026-10-25T03:27:31.686Z",
+  "lastUpdated": "2026-10-26T03:31:11.081Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [],
@@ -17,11 +17,11 @@
     ]
   },
   "metadata": {
-    "checkedAt": "2026-10-25T03:27:31.687Z",
+    "checkedAt": "2026-10-26T03:31:11.081Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-10-25T03:27:31.687Z"
+    "refreshedAt": "2026-10-26T03:31:11.081Z"
   }
 }
