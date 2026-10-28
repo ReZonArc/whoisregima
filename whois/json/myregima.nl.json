@@ -1,14 +1,18 @@
 {
   "domain": "myregima.nl",
-  "lastUpdated": "2026-10-27T03:22:30.825Z",
+  "lastUpdated": "2026-10-28T03:17:30.440Z",
   "whoisData": {
-    "error": "Timeout",
-    "status": "error"
+    "Domain Status": [],
+    "Name Server": [],
+    "text": [
+      "myregima.nl is free"
+    ]
   },
   "metadata": {
-    "checkedAt": "2026-10-27T03:22:30.825Z",
+    "checkedAt": "2026-10-28T03:17:30.441Z",
     "source": "whois-checker-action",
-    "dataCompleteness": "error",
-    "errorType": "Error"
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "minimal"
   }
 }
