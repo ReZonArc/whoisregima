@@ -1,15 +1,15 @@
 {
   "domain": "regimazone.za",
-  "lastUpdated": "2026-10-28T03:22:29.845Z",
+  "lastUpdated": "2026-10-29T03:22:55.502Z",
   "whoisData": {
-    "error": "TLD for \"regimazone.za\" not supported",
+    "error": "connect ECONNREFUSED 192.0.32.59:43",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-10-28T03:22:29.845Z",
+    "checkedAt": "2026-10-29T03:22:55.502Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-10-28T03:22:29.845Z"
+    "refreshedAt": "2026-10-29T03:22:55.502Z"
   }
 }

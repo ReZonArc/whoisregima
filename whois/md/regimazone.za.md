@@ -1,11 +1,11 @@
 # WHOIS Record: regimazone.za
 
-**Last Updated:** 2026-10-28T03:22:29.845Z
-**Checked At:** 2026-10-28T03:22:29.845Z
+**Last Updated:** 2026-10-29T03:22:55.502Z
+**Checked At:** 2026-10-29T03:22:55.502Z
 
 ## WHOIS Information
 
-**error:** TLD for "regimazone.za" not supported
+**error:** connect ECONNREFUSED 192.0.32.59:43
 
 **status:** error
 
