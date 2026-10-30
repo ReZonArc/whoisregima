@@ -1,22 +1,14 @@
 {
   "domain": "myregima.de",
-  "lastUpdated": "2026-10-29T03:16:58.232Z",
+  "lastUpdated": "2026-10-30T03:16:43.054Z",
   "whoisData": {
-    "Domain Status": [
-      "free"
-    ],
-    "Name Server": [],
-    "text": [
-      ""
-    ],
-    "Domain Name": "myregima.de"
+    "error": "connect ECONNREFUSED 192.0.32.59:43",
+    "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-10-29T03:16:58.232Z",
+    "checkedAt": "2026-10-30T03:16:43.054Z",
     "source": "whois-checker-action",
-    "timeout": 15000,
-    "followRedirects": 2,
-    "dataCompleteness": "minimal",
-    "refreshedAt": "2026-10-29T03:16:58.232Z"
+    "dataCompleteness": "error",
+    "errorType": "Error"
   }
 }

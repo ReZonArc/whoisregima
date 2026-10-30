@@ -1,9 +1,13 @@
 # WHOIS Record: regimazone.jp
 
-**Last Updated:** 2026-10-29T03:22:43.828Z
-**Checked At:** 2026-10-29T03:22:43.828Z
+**Last Updated:** 2026-10-30T03:21:54.535Z
+**Checked At:** 2026-10-30T03:21:54.535Z
 
 ## WHOIS Information
 
-**error:** read ECONNRESET
+**Domain Status:** 
+
+**Name Server:** 
+
+**text:** undefined, - All of registered JP domain name, - gTLD domain name of which sponsoring registrar is JPRS, - JPNIC WHOIS (whois.nic.ad.jp), - APNIC WHOIS (whois.apnic.net), - ARIN WHOIS (whois.arin.net), - RIPE WHOIS (whois.ripe.net), - LACNIC WHOIS (whois.lacnic.net), - AfriNIC WHOIS (whois.afrinic.net)
 

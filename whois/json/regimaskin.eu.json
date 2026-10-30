@@ -1,11 +1,11 @@
 {
   "domain": "regimaskin.eu",
-  "lastUpdated": "2026-10-29T03:21:26.790Z",
+  "lastUpdated": "2026-10-30T03:20:37.367Z",
   "whoisData": {
     "Domain Status": [],
     "Name Server": [
-      "ns2.zenbox.pl",
-      "ns1.zenbox.pl"
+      "ns1.zenbox.pl",
+      "ns2.zenbox.pl"
     ],
     "text": [
       "% The WHOIS service offered by EURid and the access to the records",
@@ -64,7 +64,7 @@
     "Registrar URL": "https://www.cyberfolks.pl"
   },
   "metadata": {
-    "checkedAt": "2026-10-29T03:21:26.790Z",
+    "checkedAt": "2026-10-30T03:20:37.367Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
