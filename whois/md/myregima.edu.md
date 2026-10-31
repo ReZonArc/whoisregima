@@ -1,11 +1,19 @@
 # WHOIS Record: myregima.edu
 
-**Last Updated:** 2026-10-30T03:16:45.101Z
-**Checked At:** 2026-10-30T03:16:45.101Z
+**Last Updated:** 2026-10-31T03:13:01.832Z
+**Checked At:** 2026-10-31T03:13:01.833Z
 
 ## WHOIS Information
 
-**error:** connect ECONNREFUSED 192.0.32.59:43
+**Domain Status:** 
 
-**status:** error
+**Name Server:** 
+
+**text:** The domain name you requested was not found in our database., , To check the availability of this domain name, please visit our website at https://www.101domain.com/
+
+**Domain Name:** myregima.edu
+
+**URL of the ICANN WHOIS Data Problem Reporting System:** http://wdprs.internic.net/
+
+**>>> Last update of WHOIS database:** 2026-10-31T03:13:01+00:00 <<<
 

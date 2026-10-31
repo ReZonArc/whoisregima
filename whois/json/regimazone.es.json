@@ -1,15 +1,15 @@
 {
   "domain": "regimazone.es",
-  "lastUpdated": "2026-10-30T03:21:40.997Z",
+  "lastUpdated": "2026-10-31T03:18:09.197Z",
   "whoisData": {
     "error": "Timeout"
   },
   "metadata": {
-    "checkedAt": "2026-10-30T03:21:40.997Z",
+    "checkedAt": "2026-10-31T03:18:09.198Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2026-10-30T03:21:40.997Z"
+    "refreshedAt": "2026-10-31T03:18:09.198Z"
   }
 }
