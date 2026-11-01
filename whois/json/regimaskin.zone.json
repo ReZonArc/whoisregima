@@ -1,15 +1,15 @@
 {
   "domain": "regimaskin.zone",
-  "lastUpdated": "2026-10-31T03:17:30.427Z",
+  "lastUpdated": "2026-11-01T03:20:31.055Z",
   "whoisData": {
-    "error": "TLD for \"regimaskin.zone\" not supported",
+    "error": "connect ECONNREFUSED 192.0.32.59:43",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-10-31T03:17:30.427Z",
+    "checkedAt": "2026-11-01T03:20:31.055Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-10-31T03:17:30.427Z"
+    "refreshedAt": "2026-11-01T03:20:31.055Z"
   }
 }

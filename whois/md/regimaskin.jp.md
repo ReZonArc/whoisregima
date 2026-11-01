@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.jp
 
-**Last Updated:** 2026-10-31T03:17:17.559Z
-**Checked At:** 2026-10-31T03:17:17.560Z
+**Last Updated:** 2026-11-01T03:20:18.351Z
+**Checked At:** 2026-11-01T03:20:18.351Z
 
 ## WHOIS Information
 

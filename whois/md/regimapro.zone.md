@@ -1,11 +1,11 @@
 # WHOIS Record: regimapro.zone
 
-**Last Updated:** 2026-10-31T03:16:24.419Z
-**Checked At:** 2026-10-31T03:16:24.419Z
+**Last Updated:** 2026-11-01T03:19:24.869Z
+**Checked At:** 2026-11-01T03:19:24.869Z
 
 ## WHOIS Information
 
-**error:** TLD for "regimapro.zone" not supported
+**error:** Timeout
 
 **status:** error
 

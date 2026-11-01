@@ -1,11 +1,11 @@
 # WHOIS Record: regimaskin.za
 
-**Last Updated:** 2026-10-31T03:17:28.309Z
-**Checked At:** 2026-10-31T03:17:28.310Z
+**Last Updated:** 2026-11-01T03:20:29.011Z
+**Checked At:** 2026-11-01T03:20:29.011Z
 
 ## WHOIS Information
 
-**error:** TLD for "regimaskin.za" not supported
+**error:** connect ECONNREFUSED 192.0.32.59:43
 
 **status:** error
 
