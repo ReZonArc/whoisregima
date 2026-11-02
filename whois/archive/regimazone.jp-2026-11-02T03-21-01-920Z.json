@@ -1,0 +1,14 @@
+{
+  "domain": "regimazone.jp",
+  "lastUpdated": "2026-11-01T03:21:23.131Z",
+  "whoisData": {
+    "error": "read ECONNRESET"
+  },
+  "metadata": {
+    "checkedAt": "2026-11-01T03:21:23.131Z",
+    "source": "whois-checker-action",
+    "timeout": 15000,
+    "followRedirects": 2,
+    "dataCompleteness": "none"
+  }
+}
