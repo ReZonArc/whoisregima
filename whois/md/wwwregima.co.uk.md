@@ -1,11 +1,11 @@
 # WHOIS Record: wwwregima.co.uk
 
-**Last Updated:** 2026-11-02T03:21:29.877Z
-**Checked At:** 2026-11-02T03:21:29.877Z
+**Last Updated:** 2026-11-03T03:19:29.536Z
+**Checked At:** 2026-11-03T03:19:29.536Z
 
 ## WHOIS Information
 
-**error:** connect ECONNREFUSED 192.0.32.59:43
+**error:** TLD for "wwwregima.co.uk" not supported
 
 **status:** error
 

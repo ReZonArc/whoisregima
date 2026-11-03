@@ -1,15 +1,15 @@
 {
   "domain": "wwwregima.za",
-  "lastUpdated": "2026-11-02T03:22:19.998Z",
+  "lastUpdated": "2026-11-03T03:20:19.205Z",
   "whoisData": {
-    "error": "connect ECONNREFUSED 192.0.32.59:43",
+    "error": "TLD for \"wwwregima.za\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-11-02T03:22:19.998Z",
+    "checkedAt": "2026-11-03T03:20:19.205Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-11-02T03:22:19.998Z"
+    "refreshedAt": "2026-11-03T03:20:19.205Z"
   }
 }

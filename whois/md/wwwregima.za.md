@@ -1,11 +1,11 @@
 # WHOIS Record: wwwregima.za
 
-**Last Updated:** 2026-11-02T03:22:19.998Z
-**Checked At:** 2026-11-02T03:22:19.998Z
+**Last Updated:** 2026-11-03T03:20:19.205Z
+**Checked At:** 2026-11-03T03:20:19.205Z
 
 ## WHOIS Information
 
-**error:** connect ECONNREFUSED 192.0.32.59:43
+**error:** TLD for "wwwregima.za" not supported
 
 **status:** error
 
