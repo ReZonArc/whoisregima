@@ -1,15 +1,15 @@
 {
   "domain": "regimazone.in",
-  "lastUpdated": "2026-11-06T03:19:19.922Z",
+  "lastUpdated": "2026-11-07T03:18:15.550Z",
   "whoisData": {
     "error": "getaddrinfo ENOTFOUND whois.registry.in"
   },
   "metadata": {
-    "checkedAt": "2026-11-06T03:19:19.923Z",
+    "checkedAt": "2026-11-07T03:18:15.550Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "none",
-    "refreshedAt": "2026-11-06T03:19:19.923Z"
+    "refreshedAt": "2026-11-07T03:18:15.550Z"
   }
 }
