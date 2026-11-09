@@ -1,7 +1,7 @@
 # WHOIS Record: regimazone.fr
 
-**Last Updated:** 2026-11-08T03:19:31.207Z
-**Checked At:** 2026-11-08T03:19:31.208Z
+**Last Updated:** 2026-11-09T03:20:53.784Z
+**Checked At:** 2026-11-09T03:20:53.785Z
 
 ## WHOIS Information
 
@@ -11,5 +11,5 @@
 
 **text:** %%, %% This is the AFNIC Whois server., %%, %% complete date format: YYYY-MM-DDThh:mm:ssZ, %%, %% Rights restricted by copyright., %% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/, %%, %%, %% NOT FOUND
 
-**>>> Last update of WHOIS database:** 2026-11-08T03:19:31.163462Z <<<
+**>>> Last update of WHOIS database:** 2026-11-09T03:20:53.729005Z <<<
 

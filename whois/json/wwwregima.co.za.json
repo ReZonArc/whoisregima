@@ -1,15 +1,15 @@
 {
   "domain": "wwwregima.co.za",
-  "lastUpdated": "2026-11-08T03:20:08.318Z",
+  "lastUpdated": "2026-11-09T03:21:31.203Z",
   "whoisData": {
     "error": "TLD for \"wwwregima.co.za\" not supported",
     "status": "error"
   },
   "metadata": {
-    "checkedAt": "2026-11-08T03:20:08.318Z",
+    "checkedAt": "2026-11-09T03:21:31.203Z",
     "source": "whois-checker-action",
     "dataCompleteness": "error",
     "errorType": "Error",
-    "refreshedAt": "2026-11-08T03:20:08.318Z"
+    "refreshedAt": "2026-11-09T03:21:31.203Z"
   }
 }
