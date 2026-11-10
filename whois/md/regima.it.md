@@ -1,7 +1,7 @@
 # WHOIS Record: regima.it
 
-**Last Updated:** 2026-11-09T03:17:31.428Z
-**Checked At:** 2026-11-09T03:17:31.429Z
+**Last Updated:** 2026-11-10T03:15:30.519Z
+**Checked At:** 2026-11-10T03:15:30.519Z
 
 ## WHOIS Information
 
