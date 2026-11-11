@@ -1,25 +1,25 @@
 # WHOIS Record: regima.nl
 
-**Last Updated:** 2026-11-10T03:15:46.400Z
-**Checked At:** 2026-11-10T03:15:46.401Z
+**Last Updated:** 2026-11-11T03:15:53.040Z
+**Checked At:** 2026-11-11T03:15:53.040Z
 
 ## WHOIS Information
 
-**Domain Status:** active
+**Domain Status:** in quarantine
 
-**Name Server:** pns2.directdomain.nl, pns1.directdomain.nl
+**Name Server:** 
 
 **text:** 
 
 **Domain Name:** regima.nl
 
-**Registrar:** Hostable B.V. Oosterhoogte 3 6861VH Oosterbeek Netherlands SIDN BV
-
-**Abuse Contact:** +31.0262062000 misbruik@hostable.nl
-
-**DNSSEC:** no
+**Last registrar:** Hostable B.V. Oosterhoogte 3 6861VH Oosterbeek Netherlands
 
 **Created Date:** 2019-11-10
 
-**Updated Date:** 2026-04-21
+**Updated Date:** 2026-11-10
+
+**Date out of quarantine:** 2026-12-20T05:26:37
+
+**Registrar:** SIDN BV
 

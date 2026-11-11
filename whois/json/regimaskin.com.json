@@ -1,6 +1,6 @@
 {
   "domain": "regimaskin.com",
-  "lastUpdated": "2026-11-10T03:17:22.919Z",
+  "lastUpdated": "2026-11-11T03:17:30.911Z",
   "whoisData": {
     "Domain Status": [
       "ok https://icann.org/epp#ok"
@@ -60,14 +60,14 @@
     "Registrar Abuse Contact Phone": "+1.8003337680",
     "DNSSEC": "unsigned",
     "URL of the ICANN Whois Inaccuracy Complaint Form": "https://www.icann.org/wicf/",
-    ">>> Last update of whois database": "2026-11-10T03:17:15Z <<<"
+    ">>> Last update of whois database": "2026-11-11T03:17:15Z <<<"
   },
   "metadata": {
-    "checkedAt": "2026-11-10T03:17:22.919Z",
+    "checkedAt": "2026-11-11T03:17:30.911Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-11-10T03:17:22.919Z"
+    "refreshedAt": "2026-11-11T03:17:30.912Z"
   }
 }
