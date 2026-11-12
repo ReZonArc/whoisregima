@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregimazone.co.uk
 
-**Last Updated:** 2026-11-11T03:20:34.711Z
-**Checked At:** 2026-11-11T03:20:34.711Z
+**Last Updated:** 2026-11-12T03:20:51.591Z
+**Checked At:** 2026-11-12T03:20:51.591Z
 
 ## WHOIS Information
 

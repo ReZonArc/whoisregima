@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.fr
 
-**Last Updated:** 2026-11-11T03:20:10.291Z
-**Checked At:** 2026-11-11T03:20:10.291Z
+**Last Updated:** 2026-11-12T03:20:27.059Z
+**Checked At:** 2026-11-12T03:20:27.059Z
 
 ## WHOIS Information
 
@@ -11,5 +11,5 @@
 
 **text:** %%, %% This is the AFNIC Whois server., %%, %% complete date format: YYYY-MM-DDThh:mm:ssZ, %%, %% Rights restricted by copyright., %% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/, %%, %%, %% NOT FOUND
 
-**>>> Last update of WHOIS database:** 2026-11-11T03:20:10.220857Z <<<
+**>>> Last update of WHOIS database:** 2026-11-12T03:20:26.99608Z <<<
 
