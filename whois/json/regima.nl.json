@@ -1,6 +1,6 @@
 {
   "domain": "regima.nl",
-  "lastUpdated": "2026-11-13T03:15:41.957Z",
+  "lastUpdated": "2026-11-14T03:15:09.961Z",
   "whoisData": {
     "Domain Status": [
       "in quarantine"
@@ -17,11 +17,11 @@
     "Registrar": "SIDN BV"
   },
   "metadata": {
-    "checkedAt": "2026-11-13T03:15:41.958Z",
+    "checkedAt": "2026-11-14T03:15:09.962Z",
     "source": "whois-checker-action",
     "timeout": 15000,
     "followRedirects": 2,
     "dataCompleteness": "minimal",
-    "refreshedAt": "2026-11-13T03:15:41.958Z"
+    "refreshedAt": "2026-11-14T03:15:09.962Z"
   }
 }
