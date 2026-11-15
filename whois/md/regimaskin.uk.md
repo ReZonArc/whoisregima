@@ -1,7 +1,7 @@
 # WHOIS Record: regimaskin.uk
 
-**Last Updated:** 2026-11-14T03:17:30.562Z
-**Checked At:** 2026-11-14T03:17:30.562Z
+**Last Updated:** 2026-11-15T03:18:20.485Z
+**Checked At:** 2026-11-15T03:18:20.485Z
 
 ## WHOIS Information
 
