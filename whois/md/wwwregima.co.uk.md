@@ -1,7 +1,7 @@
 # WHOIS Record: wwwregima.co.uk
 
-**Last Updated:** 2026-11-16T03:22:02.340Z
-**Checked At:** 2026-11-16T03:22:02.340Z
+**Last Updated:** 2026-11-17T03:19:47.944Z
+**Checked At:** 2026-11-17T03:19:47.944Z
 
 ## WHOIS Information
 
